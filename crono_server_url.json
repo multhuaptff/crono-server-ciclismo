@@ -1,6 +1,10 @@
 {
+  "urls": [
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://chronicles-helped-fri-cuisine.trycloudflare.com"
+  ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-01T13:44:53.437660"
+  "timestamp": "2026-07-02T08:23:53.406657"
 }
