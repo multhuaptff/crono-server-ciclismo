@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://nutritional-leave-brings-nat.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://thereby-deutsch-exec-meyer.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://nutritional-leave-brings-nat.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-18T22:46:07.665001"
+  "timestamp": "2026-07-18T23:13:00.639754"
 }
