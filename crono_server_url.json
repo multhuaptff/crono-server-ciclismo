@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://grows-grateful-picnic-fireplace.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://absolute-canberra-crown-remains.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://grows-grateful-picnic-fireplace.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-18T23:13:14.257762"
+  "timestamp": "2026-07-18T23:39:51.490694"
 }
