@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://displayed-arbor-reviewer-blvd.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://instructors-entering-cargo-finishing.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://displayed-arbor-reviewer-blvd.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-18T19:06:15.633163"
+  "timestamp": "2026-07-18T20:59:23.054425"
 }
