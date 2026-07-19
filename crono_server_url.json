@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://paperbacks-wells-outstanding-spokesman.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://displayed-arbor-reviewer-blvd.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://displayed-arbor-reviewer-blvd.trycloudflare.com",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-18T19:06:10.082688"
+  "timestamp": "2026-07-18T19:06:15.633163"
 }
