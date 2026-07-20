@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://dark-infants-demonstrates-images.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://ext-undefined-madonna-dallas.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://ext-undefined-madonna-dallas.trycloudflare.com",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-20T11:31:53.975974"
+  "timestamp": "2026-07-20T11:32:09.015700"
 }
