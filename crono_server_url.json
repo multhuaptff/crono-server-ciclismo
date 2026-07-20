@@ -1,11 +1,11 @@
 {
   "urls": [
     "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://pilot-hollow-surfaces-reviewing.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://shop-shape-gathered-her.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
-  "ip_local": "192.168.137.195",
+  "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T13:46:58.831216"
+  "timestamp": "2026-07-20T17:49:20.626203"
 }
