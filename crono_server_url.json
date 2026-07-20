@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://ext-undefined-madonna-dallas.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://prophet-gain-profiles-belly.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://ext-undefined-madonna-dallas.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-20T11:32:09.015700"
+  "timestamp": "2026-07-20T11:33:00.328939"
 }
