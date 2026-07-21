@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://manufacture-horizontal-list-elite.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://raid-message-strikes-testing.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://raid-message-strikes-testing.trycloudflare.com",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T19:49:50.491308"
+  "timestamp": "2026-07-20T19:50:06.891723"
 }
