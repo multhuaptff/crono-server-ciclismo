@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://simon-multimedia-bull-reaching.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://manufacture-horizontal-list-elite.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://simon-multimedia-bull-reaching.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T19:47:23.777629"
+  "timestamp": "2026-07-20T19:49:50.491308"
 }
