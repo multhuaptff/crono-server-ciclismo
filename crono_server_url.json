@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://appraisal-cst-barely-preferred.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://exploring-displays-collaborative-guarantee.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://appraisal-cst-barely-preferred.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-21T13:36:52.810953"
+  "timestamp": "2026-07-21T13:37:58.083631"
 }
