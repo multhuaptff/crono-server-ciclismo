@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://concepts-election-according-village.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://known-mail-passing-lending.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://concepts-election-according-village.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T19:04:32.521536"
+  "timestamp": "2026-07-20T19:12:30.660028"
 }
