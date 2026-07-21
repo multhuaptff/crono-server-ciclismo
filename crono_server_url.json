@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://equilibrium-rom-not-steel.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://serum-outsourcing-chen-estimated.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://equilibrium-rom-not-steel.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T19:21:43.925959"
+  "timestamp": "2026-07-20T19:29:59.626596"
 }
