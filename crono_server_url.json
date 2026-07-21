@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://testament-components-lid-mention.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://glad-caribbean-half-margaret.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://testament-components-lid-mention.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T19:36:38.815975"
+  "timestamp": "2026-07-20T19:47:09.579586"
 }
