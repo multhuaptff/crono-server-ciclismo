@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://rocket-greater-grove-mortgage.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://departure-sixth-artists-retailers.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://rocket-greater-grove-mortgage.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-21T12:50:06.598115"
+  "timestamp": "2026-07-21T12:52:28.124274"
 }
