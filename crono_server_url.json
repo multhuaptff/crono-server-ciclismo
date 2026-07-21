@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://filling-arc-chief-hypothetical.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://antonio-relation-prairie-character.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://filling-arc-chief-hypothetical.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-20T20:03:21.952397"
+  "timestamp": "2026-07-20T20:58:31.810441"
 }
