@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://meals-auckland-code-steering.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://widescreen-norfolk-dig-arrangements.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://widescreen-norfolk-dig-arrangements.trycloudflare.com",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-21T22:04:11.060587"
+  "timestamp": "2026-07-21T22:05:27.990803"
 }
