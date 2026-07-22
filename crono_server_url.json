@@ -1,11 +1,11 @@
 {
   "urls": [
     "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://documentation-moments-tee-dir.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://factory-mile-rap-tee.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
-  "ip_local": "192.168.0.4",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-21T22:43:15.908527"
+  "timestamp": "2026-07-22T09:10:55.030409"
 }
