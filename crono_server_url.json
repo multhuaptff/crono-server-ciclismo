@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://ratios-organised-hometown-ski.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://meals-auckland-code-steering.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://ratios-organised-hometown-ski.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-21T22:00:04.352545"
+  "timestamp": "2026-07-21T22:04:11.060587"
 }
