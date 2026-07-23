@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://separation-settings-spaces-allied.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://latin-dining-cooling-prisoners.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://separation-settings-spaces-allied.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-07-23T09:06:52.740242"
+  "timestamp": "2026-07-23T09:18:11.331117"
 }
