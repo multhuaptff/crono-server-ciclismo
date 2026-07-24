@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://washington-timber-calendars-mainland.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://laura-subsidiary-differences-unknown.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://washington-timber-calendars-mainland.trycloudflare.com",
-  "ip_local": "192.168.0.4",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-23T22:54:26.028173"
+  "timestamp": "2026-07-24T09:01:07.799500"
 }
