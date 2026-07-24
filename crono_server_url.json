@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://crossing-battery-libraries-dts.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://progressive-scheduling-once-screw.trycloudflare.com",
+    "http://192.168.137.219:5001"
   ],
-  "url_publica": "https://crossing-battery-libraries-dts.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.219",
   "puerto": 5001,
-  "timestamp": "2026-07-24T11:45:44.403600"
+  "timestamp": "2026-07-24T11:47:35.955555"
 }
