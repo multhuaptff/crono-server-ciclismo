@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://refers-doc-posters-litigation.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://lamps-collectables-faculty-fine.trycloudflare.com",
+    "http://192.168.137.219:5001"
   ],
-  "url_publica": "https://refers-doc-posters-litigation.trycloudflare.com",
-  "ip_local": "10.190.65.78",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.137.219",
   "puerto": 5001,
-  "timestamp": "2026-07-24T10:56:46.113695"
+  "timestamp": "2026-07-24T11:27:37.187159"
 }
