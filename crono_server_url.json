@@ -1,11 +1,11 @@
 {
   "urls": [
     "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://bigger-friends-morris-likely.trycloudflare.com",
-    "http://192.168.0.17:5001"
+    "https://wireless-widely-hwy-started.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
-  "ip_local": "192.168.0.17",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-07-29T18:47:43.040191"
+  "timestamp": "2026-07-30T08:58:21.474975"
 }
