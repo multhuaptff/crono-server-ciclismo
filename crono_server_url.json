@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://membrane-clarity-tackle-computation.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://amplifier-berkeley-contributions-reporting.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://membrane-clarity-tackle-computation.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T15:13:47.169374"
+  "timestamp": "2026-08-01T15:14:58.472730"
 }
