@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://passion-clean-delicious-michelle.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://films-adaptive-replacement-picnic.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://passion-clean-delicious-michelle.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T16:15:06.885120"
+  "timestamp": "2026-08-01T16:21:12.571723"
 }
