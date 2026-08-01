@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://commented-dvds-decades-video.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://tips-ways-pill-sessions.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://commented-dvds-decades-video.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T15:32:20.711295"
+  "timestamp": "2026-08-01T15:51:57.353270"
 }
