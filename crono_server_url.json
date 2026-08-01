@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://petroleum-scotland-variations-desert.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://nights-charlie-cove-surplus.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://petroleum-scotland-variations-desert.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T11:16:09.924961"
+  "timestamp": "2026-08-01T11:25:47.582729"
 }
