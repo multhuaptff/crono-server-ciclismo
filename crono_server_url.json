@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://radio-shuttle-acoustic-astronomy.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://instructional-already-gis-photos.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://radio-shuttle-acoustic-astronomy.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T09:28:37.263588"
+  "timestamp": "2026-08-01T09:34:26.625156"
 }
