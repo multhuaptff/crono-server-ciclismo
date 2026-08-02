@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://pages-florida-pet-bat.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://examine-casio-lawyers-sphere.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://pages-florida-pet-bat.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T20:38:46.170736"
+  "timestamp": "2026-08-01T20:44:07.317849"
 }
