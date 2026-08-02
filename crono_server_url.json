@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://rpm-michel-male-teens.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://dts-aaa-nancy-jacksonville.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://rpm-michel-male-teens.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T20:44:13.697112"
+  "timestamp": "2026-08-01T20:45:54.050952"
 }
