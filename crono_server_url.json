@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://stock-protection-fragrance-careful.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://opera-jean-spray-way.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://stock-protection-fragrance-careful.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-02T08:29:08.963144"
+  "timestamp": "2026-08-02T11:59:08.918414"
 }
