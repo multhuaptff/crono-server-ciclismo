@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://deposits-telephony-comm-considers.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://canal-reproduce-worldwide-jewel.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://deposits-telephony-comm-considers.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T22:33:52.306516"
+  "timestamp": "2026-08-02T07:43:25.750962"
 }
