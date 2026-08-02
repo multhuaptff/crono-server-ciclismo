@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://month-indicated-follows-academic.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://overnight-forms-inkjet-northeast.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://month-indicated-follows-academic.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T21:55:48.026663"
+  "timestamp": "2026-08-01T22:26:44.276888"
 }
