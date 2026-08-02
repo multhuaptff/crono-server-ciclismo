@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://heading-ram-effect-heads.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://plug-compliance-marriage-clinical.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://heading-ram-effect-heads.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-02T07:45:30.948783"
+  "timestamp": "2026-08-02T08:12:51.034116"
 }
