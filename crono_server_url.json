@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://mrna-eyed-housing-ones.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://specific-visibility-malpractice-feedback.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://mrna-eyed-housing-ones.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-01T20:26:26.488857"
+  "timestamp": "2026-08-01T20:38:39.435953"
 }
