@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://emperor-integral-optimization-raw.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://vatican-obvious-clear-domains.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://emperor-integral-optimization-raw.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T10:57:31.942924"
+  "timestamp": "2026-08-03T11:02:59.045921"
 }
