@@ -1,11 +1,11 @@
 {
   "urls": [
     "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://assignment-bench-shaved-tackle.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://insured-roommate-casio-applicant.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
-  "ip_local": "192.168.0.4",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-02T22:04:15.934098"
+  "timestamp": "2026-08-03T08:56:31.259585"
 }
