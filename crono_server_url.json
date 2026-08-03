@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://itunes-treaty-accessible-ivory.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://meal-camcorder-miles-comfort.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://itunes-treaty-accessible-ivory.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T14:05:49.725773"
+  "timestamp": "2026-08-03T14:10:00.915032"
 }
