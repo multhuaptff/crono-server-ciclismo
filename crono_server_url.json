@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://analysis-sent-scanning-sleeve.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://avoiding-cadillac-unlimited-clients.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://avoiding-cadillac-unlimited-clients.trycloudflare.com",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T14:18:45.437349"
+  "timestamp": "2026-08-03T14:18:52.207111"
 }
