@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://new-plugins-proxy-basics.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://icons-position-bigger-accuracy.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://new-plugins-proxy-basics.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T11:42:47.646170"
+  "timestamp": "2026-08-03T13:49:42.999570"
 }
