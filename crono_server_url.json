@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://humans-recipe-customs-mazda.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://new-plugins-proxy-basics.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://new-plugins-proxy-basics.trycloudflare.com",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T11:42:40.096318"
+  "timestamp": "2026-08-03T11:42:47.646170"
 }
