@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://avoiding-cadillac-unlimited-clients.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://spider-diffs-removal-classes.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://avoiding-cadillac-unlimited-clients.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-03T14:18:52.207111"
+  "timestamp": "2026-08-03T14:23:05.633528"
 }
