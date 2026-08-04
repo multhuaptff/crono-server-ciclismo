@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://vegas-connectors-seniors-coupled.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://patio-site-riders-keep.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://vegas-connectors-seniors-coupled.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-04T12:31:01.557399"
+  "timestamp": "2026-08-04T12:31:57.079453"
 }
