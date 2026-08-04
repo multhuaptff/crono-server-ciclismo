@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://factor-instructors-paris-middle.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://judge-douglas-notre-condos.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://judge-douglas-notre-condos.trycloudflare.com",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-04T13:22:53.389557"
+  "timestamp": "2026-08-04T13:23:01.593490"
 }
