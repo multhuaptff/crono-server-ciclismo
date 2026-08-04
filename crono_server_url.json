@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://timothy-brokers-empire-borders.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://ate-oldest-tourism-attend.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://timothy-brokers-empire-borders.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-04T13:37:01.614197"
+  "timestamp": "2026-08-04T13:40:27.578486"
 }
