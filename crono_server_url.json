@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://judge-douglas-notre-condos.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://booking-tattoo-frost-recovery.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://judge-douglas-notre-condos.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-04T13:23:01.593490"
+  "timestamp": "2026-08-04T13:36:53.741453"
 }
