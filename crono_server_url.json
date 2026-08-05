@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://rolling-united-pieces-effort.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://readings-fleet-personally-companion.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://rolling-united-pieces-effort.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-05T13:07:48.545837"
+  "timestamp": "2026-08-05T13:10:40.906381"
 }
