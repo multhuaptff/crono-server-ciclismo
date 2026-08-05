@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://sing-intended-inc-eddie.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://harley-vhs-armed-possibilities.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://sing-intended-inc-eddie.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-05T09:07:32.600846"
+  "timestamp": "2026-08-05T09:29:32.816997"
 }
