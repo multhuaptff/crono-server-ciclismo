@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://planned-departmental-resist-bare.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://intersection-disable-gains-vitamin.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://planned-departmental-resist-bare.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-05T13:10:50.994287"
+  "timestamp": "2026-08-05T13:14:24.415188"
 }
