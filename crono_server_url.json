@@ -1,9 +1,10 @@
 {
   "urls": [
-    "https://rules-finite-certificate-rent.trycloudflare.com"
+    "https://robertson-sustainability-blend-hudson.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://rules-finite-certificate-rent.trycloudflare.com",
+  "url_publica": "https://robertson-sustainability-blend-hudson.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-06T13:11:54.437619"
+  "timestamp": "2026-08-06T13:43:37.209657"
 }
