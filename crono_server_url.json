@@ -1,10 +1,9 @@
 {
   "urls": [
-    "https://hiv-range-andrea-baskets.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://rules-finite-certificate-rent.trycloudflare.com"
   ],
-  "url_publica": "https://hiv-range-andrea-baskets.trycloudflare.com",
+  "url_publica": "https://rules-finite-certificate-rent.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-06T13:11:48.359521"
+  "timestamp": "2026-08-06T13:11:54.437619"
 }
