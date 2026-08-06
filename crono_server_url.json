@@ -1,9 +1,10 @@
 {
   "urls": [
-    "https://bold-thousands-authentic-mid.trycloudflare.com"
+    "https://boolean-manitoba-analyst-cognitive.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://bold-thousands-authentic-mid.trycloudflare.com",
+  "url_publica": "https://boolean-manitoba-analyst-cognitive.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-06T13:49:15.667480"
+  "timestamp": "2026-08-06T16:27:11.686050"
 }
