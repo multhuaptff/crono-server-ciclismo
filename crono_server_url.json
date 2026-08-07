@@ -1,10 +1,9 @@
 {
   "urls": [
-    "https://white-ice-conjunction-lightbox.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://sink-awareness-retrieve-ensure.trycloudflare.com"
   ],
-  "url_publica": "https://white-ice-conjunction-lightbox.trycloudflare.com",
+  "url_publica": "https://sink-awareness-retrieve-ensure.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-06T23:22:09.556216"
+  "timestamp": "2026-08-06T23:22:17.721306"
 }
