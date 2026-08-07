@@ -1,10 +1,9 @@
 {
   "urls": [
-    "https://inventory-serves-yet-presents.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://module-slot-entrance-buttons.trycloudflare.com"
   ],
-  "url_publica": "https://inventory-serves-yet-presents.trycloudflare.com",
+  "url_publica": "https://module-slot-entrance-buttons.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-07T18:14:30.449563"
+  "timestamp": "2026-08-07T18:14:38.089577"
 }
