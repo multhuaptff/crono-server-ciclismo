@@ -1,10 +1,10 @@
 {
   "urls": [
-    "https://minds-wagon-fascinating-command.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://homeless-metal-committed-joan.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://minds-wagon-fascinating-command.trycloudflare.com",
-  "ip_local": "192.168.137.195",
+  "url_publica": "https://homeless-metal-committed-joan.trycloudflare.com",
+  "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-07T14:01:28.351783"
+  "timestamp": "2026-08-07T17:45:52.393670"
 }
