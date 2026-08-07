@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://lone-experiences-agency-minute.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://freedom-type-strain-pace.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://lone-experiences-agency-minute.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-07T12:02:37.716851"
+  "timestamp": "2026-08-07T12:07:17.743881"
 }
