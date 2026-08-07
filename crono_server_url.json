@@ -1,9 +1,10 @@
 {
   "urls": [
-    "https://stock-standard-set-herald.trycloudflare.com"
+    "https://country-maiden-circuits-andrea.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://stock-standard-set-herald.trycloudflare.com",
+  "url_publica": "https://country-maiden-circuits-andrea.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-07T18:21:54.902812"
+  "timestamp": "2026-08-07T18:57:05.048687"
 }
