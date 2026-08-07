@@ -1,9 +1,11 @@
 {
   "urls": [
-    "https://sink-awareness-retrieve-ensure.trycloudflare.com"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://alternatives-statutory-naturally-pig.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://sink-awareness-retrieve-ensure.trycloudflare.com",
-  "ip_local": "192.168.0.27",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-06T23:22:17.721306"
+  "timestamp": "2026-08-07T10:17:37.299118"
 }
