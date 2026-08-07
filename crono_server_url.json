@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://westminster-manhattan-returning-experimental.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://vendor-modification-deaf-bedroom.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://westminster-manhattan-returning-experimental.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-07T11:12:10.638072"
+  "timestamp": "2026-08-07T11:39:10.217082"
 }
