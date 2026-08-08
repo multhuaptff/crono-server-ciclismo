@@ -1,10 +1,9 @@
 {
   "urls": [
-    "https://territories-storage-enhancing-cricket.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://frost-architect-buffer-navy.trycloudflare.com"
   ],
-  "url_publica": "https://territories-storage-enhancing-cricket.trycloudflare.com",
+  "url_publica": "https://frost-architect-buffer-navy.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-07T19:03:47.933392"
+  "timestamp": "2026-08-07T19:03:57.063519"
 }
