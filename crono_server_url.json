@@ -1,9 +1,11 @@
 {
   "urls": [
-    "https://flight-digital-gilbert-focusing.trycloudflare.com"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://revenues-pittsburgh-contributing-clone.trycloudflare.com",
+    "http://192.168.1.48:5001"
   ],
-  "url_publica": "https://flight-digital-gilbert-focusing.trycloudflare.com",
-  "ip_local": "192.168.0.27",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.1.48",
   "puerto": 5001,
-  "timestamp": "2026-08-08T13:01:26.382864"
+  "timestamp": "2026-08-08T16:52:34.489582"
 }
