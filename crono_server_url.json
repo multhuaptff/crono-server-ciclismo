@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://speeds-atlas-eve-gazette.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://bugs-formats-moisture-electronic.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://bugs-formats-moisture-electronic.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:33:57.708726"
+  "timestamp": "2026-08-08T20:34:03.136113"
 }
