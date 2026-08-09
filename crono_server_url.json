@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://conflict-maker-rochester-objectives.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://perception-nursing-instruments-monetary.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://conflict-maker-rochester-objectives.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:51:06.116936"
+  "timestamp": "2026-08-08T20:53:35.488775"
 }
