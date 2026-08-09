@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://newman-represents-voluntary-appraisal.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://soma-enrolled-children-automatic.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://newman-represents-voluntary-appraisal.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:19:10.113074"
+  "timestamp": "2026-08-08T20:22:31.975799"
 }
