@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://timely-maximize-piece-sponsorship.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://newman-represents-voluntary-appraisal.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://newman-represents-voluntary-appraisal.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:18:59.724492"
+  "timestamp": "2026-08-08T20:19:10.113074"
 }
