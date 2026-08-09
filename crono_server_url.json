@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://confirmed-ours-margin-desktop.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://wav-simultaneously-switching-mathematical.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://confirmed-ours-margin-desktop.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T22:43:12.665056"
+  "timestamp": "2026-08-08T22:57:45.860292"
 }
