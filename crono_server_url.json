@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://compensation-objectives-gold-deemed.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://garlic-dover-witch-extremely.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://compensation-objectives-gold-deemed.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:38:55.168320"
+  "timestamp": "2026-08-08T20:46:08.952960"
 }
