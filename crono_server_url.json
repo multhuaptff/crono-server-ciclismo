@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://fun-corrected-skilled-gibson.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://gdp-connect-workers-loading.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://fun-corrected-skilled-gibson.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:53:43.194815"
+  "timestamp": "2026-08-08T20:56:08.435003"
 }
