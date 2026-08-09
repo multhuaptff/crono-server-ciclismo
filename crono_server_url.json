@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://fill-boundaries-peaceful-cartridges.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://ana-formats-campaigns-gains.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://fill-boundaries-peaceful-cartridges.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:46:17.621976"
+  "timestamp": "2026-08-08T20:47:36.074447"
 }
