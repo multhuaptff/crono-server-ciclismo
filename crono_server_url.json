@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://img-apparel-proudly-sponsor.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://niagara-outputs-job-lauderdale.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://img-apparel-proudly-sponsor.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:47:42.262893"
+  "timestamp": "2026-08-08T20:50:58.995838"
 }
