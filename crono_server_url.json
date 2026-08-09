@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://bugs-formats-moisture-electronic.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://volumes-benjamin-sunday-pros.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://bugs-formats-moisture-electronic.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:34:03.136113"
+  "timestamp": "2026-08-08T20:37:07.130221"
 }
