@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://res-suppose-focus-carrying.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://strange-remainder-simulations-insurance.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://res-suppose-focus-carrying.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T22:57:54.168385"
+  "timestamp": "2026-08-08T23:52:29.617264"
 }
