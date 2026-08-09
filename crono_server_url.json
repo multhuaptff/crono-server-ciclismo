@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://thesaurus-lodging-materials-fossil.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://terry-identified-node-ribbon.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://thesaurus-lodging-materials-fossil.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T22:00:20.977006"
+  "timestamp": "2026-08-08T22:10:08.072309"
 }
