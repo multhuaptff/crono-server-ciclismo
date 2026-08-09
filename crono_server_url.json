@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://gdp-connect-workers-loading.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://empire-aspect-cia-cups.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://empire-aspect-cia-cups.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T20:56:08.435003"
+  "timestamp": "2026-08-08T20:56:13.979018"
 }
