@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://headers-raw-surgical-pierre.trycloudflare.com",
-    "http://192.168.0.27:5001"
+    "https://cove-suzuki-mil-tourism.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://cove-suzuki-mil-tourism.trycloudflare.com",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T22:27:44.992739"
+  "timestamp": "2026-08-08T22:27:52.166279"
 }
