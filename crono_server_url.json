@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://cove-suzuki-mil-tourism.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://memorial-mysimon-bracelet-seeds.trycloudflare.com",
+    "http://192.168.0.27:5001"
   ],
-  "url_publica": "https://cove-suzuki-mil-tourism.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.27",
   "puerto": 5001,
-  "timestamp": "2026-08-08T22:27:52.166279"
+  "timestamp": "2026-08-08T22:43:05.377750"
 }
