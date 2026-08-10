@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://zones-century-past-validity.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://completing-latino-northeast-membership.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://zones-century-past-validity.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-10T09:17:32.986225"
+  "timestamp": "2026-08-10T13:00:37.816978"
 }
