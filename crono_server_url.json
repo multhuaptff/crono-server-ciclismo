@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://rebound-lives-camera-pillow.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://diane-period-gage-changed.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://rebound-lives-camera-pillow.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-11T12:59:34.080033"
+  "timestamp": "2026-08-11T13:14:30.056839"
 }
