@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://bookmark-province-princeton-previously.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://humans-owner-loading-type.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://bookmark-province-princeton-previously.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-11T11:28:56.559290"
+  "timestamp": "2026-08-11T12:59:24.995639"
 }
