@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://launched-purple-visible-cms.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://bug-massive-discounts-somehow.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://launched-purple-visible-cms.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-11T10:24:02.922266"
+  "timestamp": "2026-08-11T10:35:48.776507"
 }
