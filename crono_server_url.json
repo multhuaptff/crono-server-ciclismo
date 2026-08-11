@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://editors-gerald-issn-spies.trycloudflare.com",
-    "http://192.168.137.195:5001"
+    "https://launched-purple-visible-cms.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://launched-purple-visible-cms.trycloudflare.com",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-11T10:23:56.622541"
+  "timestamp": "2026-08-11T10:24:02.922266"
 }
