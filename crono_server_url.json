@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://filling-weights-option-separated.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://fence-spend-begin-pattern.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://filling-weights-option-separated.trycloudflare.com",
-  "ip_local": "192.168.0.4",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-11T22:34:22.732700"
+  "timestamp": "2026-08-12T09:53:58.415600"
 }
