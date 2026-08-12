@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://triple-cope-moment-snapshot.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://scoop-roots-tier-effects.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://triple-cope-moment-snapshot.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-11T22:26:48.188537"
+  "timestamp": "2026-08-11T22:34:13.267384"
 }
