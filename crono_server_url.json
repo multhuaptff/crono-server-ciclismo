@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://biol-roommate-finder-voices.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://athletic-switched-dallas-health.trycloudflare.com",
+    "http://192.168.137.195:5001"
   ],
-  "url_publica": "https://biol-roommate-finder-voices.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.137.195",
   "puerto": 5001,
-  "timestamp": "2026-08-12T09:54:06.601053"
+  "timestamp": "2026-08-13T13:40:07.576369+00:00"
 }
