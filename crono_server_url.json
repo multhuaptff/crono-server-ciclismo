@@ -1,11 +1,11 @@
 {
   "urls": [
     "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://delayed-peripheral-sage-clark.trycloudflare.com",
+    "https://api.trycloudflare.com",
     "http://10.98.183.78:5001"
   ],
   "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "10.98.183.78",
   "puerto": 5001,
-  "timestamp": "2026-08-13T18:12:40.246089+00:00"
+  "timestamp": "2026-08-13T19:12:46.933075+00:00"
 }
