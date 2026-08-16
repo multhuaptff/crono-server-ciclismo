@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://birds-phpbb-claimed-classifieds.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://seminars-teacher-sort-restore.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://birds-phpbb-claimed-classifieds.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-16T05:01:36.941193+00:00"
+  "timestamp": "2026-08-16T05:10:03.718013+00:00"
 }
