@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://points-renewable-scheme-empire.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://api.trycloudflare.com",
+    "http://192.168.0.4:5001"
   ],
-  "url_publica": "https://points-renewable-scheme-empire.trycloudflare.com",
-  "ip_local": "192.168.0.11",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-16T13:44:22.488465+00:00"
+  "timestamp": "2026-08-16T14:56:06.678209+00:00"
 }
