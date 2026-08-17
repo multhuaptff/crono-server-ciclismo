@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://secretariat-bishop-train-transaction.trycloudflare.com",
-    "http://192.168.0.10:5001"
+    "https://twist-myself-rochester-trailers.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://twist-myself-rochester-trailers.trycloudflare.com",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T19:05:57.086354+00:00"
+  "timestamp": "2026-08-17T19:06:06.191305+00:00"
 }
