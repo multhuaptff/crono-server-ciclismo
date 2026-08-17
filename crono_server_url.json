@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://charging-mitsubishi-tomorrow-polls.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://glasses-dosage-operator-nova.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://charging-mitsubishi-tomorrow-polls.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T19:46:46.256302+00:00"
+  "timestamp": "2026-08-17T20:00:37.785412+00:00"
 }
