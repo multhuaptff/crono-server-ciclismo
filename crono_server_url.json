@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://seconds-leading-taylor-jackie.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://programme-corner-linda-modular.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://seconds-leading-taylor-jackie.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T14:03:13.612400+00:00"
+  "timestamp": "2026-08-17T14:04:58.374505+00:00"
 }
