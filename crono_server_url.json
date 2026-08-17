@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://indianapolis-stylus-park-conducted.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://eclipse-fixed-given-powered.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://indianapolis-stylus-park-conducted.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T19:24:10.000431+00:00"
+  "timestamp": "2026-08-17T19:27:11.230190+00:00"
 }
