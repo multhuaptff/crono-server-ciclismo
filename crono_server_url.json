@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://capacity-joan-electrical-considers.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://draft-butter-editor-maritime.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://capacity-joan-electrical-considers.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T19:20:44.950591+00:00"
+  "timestamp": "2026-08-17T19:24:03.700924+00:00"
 }
