@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://wisdom-habitat-seminars-risks.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://suggestions-prefer-metal-success.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://wisdom-habitat-seminars-risks.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T14:50:48.087492+00:00"
+  "timestamp": "2026-08-17T15:19:52.277966+00:00"
 }
