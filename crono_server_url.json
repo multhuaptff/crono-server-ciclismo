@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://glasses-dosage-operator-nova.trycloudflare.com",
-    "http://192.168.0.10:5001"
+    "https://verde-massage-somewhere-learning.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://verde-massage-somewhere-learning.trycloudflare.com",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T20:00:37.785412+00:00"
+  "timestamp": "2026-08-17T20:00:47.719304+00:00"
 }
