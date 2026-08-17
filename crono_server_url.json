@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://maintenance-estimated-launch-mechanisms.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://enterprises-auburn-annotated-designing.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://maintenance-estimated-launch-mechanisms.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-17T03:26:48.912463+00:00"
+  "timestamp": "2026-08-17T03:32:15.107067+00:00"
 }
