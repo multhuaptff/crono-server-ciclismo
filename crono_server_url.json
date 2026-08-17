@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://gravity-pct-fort-busy.trycloudflare.com",
-    "http://192.168.0.10:5001"
+    "https://basic-hide-valve-signatures.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://basic-hide-valve-signatures.trycloudflare.com",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T20:02:55.290629+00:00"
+  "timestamp": "2026-08-17T20:03:03.158968+00:00"
 }
