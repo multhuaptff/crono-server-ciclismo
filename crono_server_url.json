@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://pointing-wrestling-sons-outdoors.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://could-anyone-harvey-being.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://pointing-wrestling-sons-outdoors.trycloudflare.com",
-  "ip_local": "192.168.0.11",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T03:32:20.607564+00:00"
+  "timestamp": "2026-08-17T12:53:16.693780+00:00"
 }
