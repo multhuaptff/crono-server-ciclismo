@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://twist-myself-rochester-trailers.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://entire-veterinary-shell-payroll.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://twist-myself-rochester-trailers.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T19:06:06.191305+00:00"
+  "timestamp": "2026-08-17T19:12:23.886509+00:00"
 }
