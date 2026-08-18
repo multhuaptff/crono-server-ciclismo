@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://pages-parker-society-disclaimers.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://tan-immediately-city-taxation.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://pages-parker-society-disclaimers.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T18:55:44.339110+00:00"
+  "timestamp": "2026-08-18T18:57:30.802781+00:00"
 }
