@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://collar-kissing-guy-spirits.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://listed-readings-seeds-competing.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://collar-kissing-guy-spirits.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-18T02:06:36.810445+00:00"
+  "timestamp": "2026-08-18T02:33:41.283953+00:00"
 }
