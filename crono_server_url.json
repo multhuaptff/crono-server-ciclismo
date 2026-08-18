@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://head-expense-wear-humidity.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://senior-brass-leon-direction.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://head-expense-wear-humidity.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T20:00:59.935310+00:00"
+  "timestamp": "2026-08-18T20:01:54.678332+00:00"
 }
