@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://fitness-genealogy-every-amd.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://oasis-march-firefox-oakland.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://fitness-genealogy-every-amd.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T22:24:54.578998+00:00"
+  "timestamp": "2026-08-18T22:27:03.459779+00:00"
 }
