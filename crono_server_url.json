@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://ron-evaluate-shut-elephant.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://tried-thomas-san-budgets.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://ron-evaluate-shut-elephant.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-17T20:22:45.215927+00:00"
+  "timestamp": "2026-08-18T01:01:44.998186+00:00"
 }
