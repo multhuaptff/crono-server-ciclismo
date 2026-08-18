@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://mercury-seeking-villa-minneapolis.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://syndicate-matrix-tony-diving.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://mercury-seeking-villa-minneapolis.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T22:19:33.539003+00:00"
+  "timestamp": "2026-08-18T22:24:46.985847+00:00"
 }
