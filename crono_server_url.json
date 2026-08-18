@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://bacteria-operation-program-operate.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://enrolled-correctly-wiring-amendments.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://bacteria-operation-program-operate.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T23:29:44.375637+00:00"
+  "timestamp": "2026-08-18T23:33:01.891790+00:00"
 }
