@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://october-automatic-stainless-poker.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://manhattan-spatial-asked-transportation.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://october-automatic-stainless-poker.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T15:48:32.840905+00:00"
+  "timestamp": "2026-08-18T15:52:21.054563+00:00"
 }
