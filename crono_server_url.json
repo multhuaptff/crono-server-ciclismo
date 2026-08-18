@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://yale-cheers-independent-firms.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://upcoming-translations-varied-dealtime.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://yale-cheers-independent-firms.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T20:43:01.479722+00:00"
+  "timestamp": "2026-08-18T22:15:49.764032+00:00"
 }
