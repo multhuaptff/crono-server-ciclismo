@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://banners-stephanie-balloon-advertisements.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://physician-delhi-biology-wellness.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://banners-stephanie-balloon-advertisements.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T16:01:48.601278+00:00"
+  "timestamp": "2026-08-18T18:51:16.366335+00:00"
 }
