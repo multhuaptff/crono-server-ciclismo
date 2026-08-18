@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://tmp-buffalo-syntax-aluminum.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://drum-added-toolbar-wells.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://tmp-buffalo-syntax-aluminum.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T15:27:22.930336+00:00"
+  "timestamp": "2026-08-18T15:37:00.432140+00:00"
 }
