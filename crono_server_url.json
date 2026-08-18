@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://oasis-march-firefox-oakland.trycloudflare.com",
-    "http://192.168.0.11:5001"
+    "https://tournament-verification-career-desktops.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://tournament-verification-career-desktops.trycloudflare.com",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-18T22:27:03.459779+00:00"
+  "timestamp": "2026-08-18T22:27:09.333093+00:00"
 }
