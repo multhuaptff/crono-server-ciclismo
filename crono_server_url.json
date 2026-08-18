@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://family-supervisors-elliott-rocket.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://wool-petersburg-reverse-opening.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://family-supervisors-elliott-rocket.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-18T01:25:46.613988+00:00"
+  "timestamp": "2026-08-18T01:35:50.415473+00:00"
 }
