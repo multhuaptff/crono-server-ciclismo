@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://assurance-donated-ellis-fortune.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://controller-mixture-tom-xhtml.trycloudflare.com",
+    "http://192.168.0.10:5001"
   ],
-  "url_publica": "https://assurance-donated-ellis-fortune.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.10",
   "puerto": 5001,
-  "timestamp": "2026-08-18T01:08:20.861556+00:00"
+  "timestamp": "2026-08-18T01:16:19.590267+00:00"
 }
