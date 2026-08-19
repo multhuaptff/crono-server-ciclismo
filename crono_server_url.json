@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://anne-rss-expenditures-adelaide.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://strike-suspended-hawaiian-retailer.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://anne-rss-expenditures-adelaide.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T17:11:30.609893+00:00"
+  "timestamp": "2026-08-19T17:18:51.871704+00:00"
 }
