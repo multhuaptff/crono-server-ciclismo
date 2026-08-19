@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://interpreted-model-steady-sake.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://arizona-anchor-strategies-drum.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://interpreted-model-steady-sake.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T16:49:01.981396+00:00"
+  "timestamp": "2026-08-19T17:02:36.925138+00:00"
 }
