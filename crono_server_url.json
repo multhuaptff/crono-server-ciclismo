@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://loading-liberty-further-being.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://advantage-enhanced-album-bookmarks.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://loading-liberty-further-being.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T14:12:47.885436+00:00"
+  "timestamp": "2026-08-19T14:14:36.478666+00:00"
 }
