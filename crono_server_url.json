@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://intimate-watershed-nest-brilliant.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://myrtle-founder-shelf-factory.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://intimate-watershed-nest-brilliant.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T18:49:00.191297+00:00"
+  "timestamp": "2026-08-19T19:03:19.153879+00:00"
 }
