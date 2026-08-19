@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://frontier-disposition-vcr-scales.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://districts-permalink-switching-reads.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://frontier-disposition-vcr-scales.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T19:07:41.634315+00:00"
+  "timestamp": "2026-08-19T19:15:23.544014+00:00"
 }
