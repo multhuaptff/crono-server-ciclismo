@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://trusted-bend-omissions-lyric.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://services-fur-merit-loc.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://trusted-bend-omissions-lyric.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T16:31:18.154246+00:00"
+  "timestamp": "2026-08-19T16:40:29.868046+00:00"
 }
