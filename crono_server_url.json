@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://hostel-recommended-chemistry-skating.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://waves-penalty-dependence-renaissance.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://hostel-recommended-chemistry-skating.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T19:15:31.187024+00:00"
+  "timestamp": "2026-08-19T19:21:07.842733+00:00"
 }
