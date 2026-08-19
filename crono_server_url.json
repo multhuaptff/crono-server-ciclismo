@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://dozen-gzip-beings-arrange.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://highway-filled-represents-priority.trycloudflare.com",
+    "http://10.115.225.78:5001"
   ],
-  "url_publica": "https://dozen-gzip-beings-arrange.trycloudflare.com",
-  "ip_local": "192.168.0.11",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "10.115.225.78",
   "puerto": 5001,
-  "timestamp": "2026-08-19T19:38:28.898276+00:00"
+  "timestamp": "2026-08-19T21:37:23.465593+00:00"
 }
