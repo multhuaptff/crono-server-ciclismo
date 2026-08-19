@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://convert-absolutely-tigers-share.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://closes-afterwards-dry-exports.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://convert-absolutely-tigers-share.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T14:11:00.644033+00:00"
+  "timestamp": "2026-08-19T14:12:42.301373+00:00"
 }
