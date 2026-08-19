@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://nancy-replaced-cafe-mike.trycloudflare.com",
-    "http://192.168.0.11:5001"
+    "https://anne-rss-expenditures-adelaide.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://anne-rss-expenditures-adelaide.trycloudflare.com",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T17:11:24.775698+00:00"
+  "timestamp": "2026-08-19T17:11:30.609893+00:00"
 }
