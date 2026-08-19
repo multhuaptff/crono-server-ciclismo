@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://weeks-advise-remembered-avi.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://catch-virtue-forward-scales.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://weeks-advise-remembered-avi.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T14:09:01.595499+00:00"
+  "timestamp": "2026-08-19T14:10:54.760293+00:00"
 }
