@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://souls-nat-drive-worldwide.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://nancy-replaced-cafe-mike.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://souls-nat-drive-worldwide.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T17:08:30.625356+00:00"
+  "timestamp": "2026-08-19T17:11:24.775698+00:00"
 }
