@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://sewing-antenna-however-sells.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://keep-package-ferrari-milk.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://sewing-antenna-however-sells.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T16:48:15.473602+00:00"
+  "timestamp": "2026-08-19T16:48:57.993037+00:00"
 }
