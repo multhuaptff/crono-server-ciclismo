@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://plant-processor-foreign-albert.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://were-pontiac-soup-universal.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://plant-processor-foreign-albert.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T17:22:50.665154+00:00"
+  "timestamp": "2026-08-20T17:28:14.323715+00:00"
 }
