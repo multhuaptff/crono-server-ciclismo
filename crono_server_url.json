@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://escape-juvenile-academic-observer.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://hosting-carmen-remix-tract.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://escape-juvenile-academic-observer.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T18:29:13.710872+00:00"
+  "timestamp": "2026-08-20T18:48:45.836178+00:00"
 }
