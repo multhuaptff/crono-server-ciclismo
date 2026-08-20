@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://enb-large-happy-impaired.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://ccd-synthetic-claimed-wan.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://enb-large-happy-impaired.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T19:18:27.951016+00:00"
+  "timestamp": "2026-08-20T19:21:24.313032+00:00"
 }
