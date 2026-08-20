@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://driven-corporation-completing-unit.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://neither-suzuki-ready-talked.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://driven-corporation-completing-unit.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T17:28:20.318244+00:00"
+  "timestamp": "2026-08-20T17:39:16.648208+00:00"
 }
