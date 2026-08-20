@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://bookmark-polyphonic-dns-tex.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://mysimon-attribute-jackets-shuttle.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://bookmark-polyphonic-dns-tex.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T17:44:20.530780+00:00"
+  "timestamp": "2026-08-20T17:45:00.821520+00:00"
 }
