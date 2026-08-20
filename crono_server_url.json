@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://fell-nov-component-practice.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://respond-hook-nikon-scholar.trycloudflare.com",
+    "http://192.168.0.11:5001"
   ],
-  "url_publica": "https://fell-nov-component-practice.trycloudflare.com",
-  "ip_local": "10.115.225.78",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.0.11",
   "puerto": 5001,
-  "timestamp": "2026-08-19T22:58:44.006929+00:00"
+  "timestamp": "2026-08-20T00:46:28.331487+00:00"
 }
