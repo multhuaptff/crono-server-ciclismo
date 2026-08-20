@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://status-shoes-stand-denver.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://household-champion-conflict-terry.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://status-shoes-stand-denver.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T20:16:20.922581+00:00"
+  "timestamp": "2026-08-20T20:59:17.762621+00:00"
 }
