@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://appreciation-thinks-wheel-auctions.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://laid-beta-harbor-scan.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://appreciation-thinks-wheel-auctions.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T20:30:46.839735+00:00"
+  "timestamp": "2026-08-21T20:35:08.256574+00:00"
 }
