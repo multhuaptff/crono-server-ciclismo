@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://join-smile-peak-bernard.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://realty-carey-wool-laptop.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://join-smile-peak-bernard.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T05:09:18.037279+00:00"
+  "timestamp": "2026-08-21T05:15:11.024211+00:00"
 }
