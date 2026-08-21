@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://cents-falling-fully-visibility.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://forge-identifier-calvin-adelaide.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://cents-falling-fully-visibility.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T13:02:15.234263+00:00"
+  "timestamp": "2026-08-21T13:05:38.161600+00:00"
 }
