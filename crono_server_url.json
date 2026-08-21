@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://personal-chains-optimization-gym.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://appreciation-thinks-wheel-auctions.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://appreciation-thinks-wheel-auctions.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T20:30:39.909946+00:00"
+  "timestamp": "2026-08-21T20:30:46.839735+00:00"
 }
