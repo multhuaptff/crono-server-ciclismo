@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://magazine-expanded-munich-cst.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://guardian-laptops-comply-postcards.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://guardian-laptops-comply-postcards.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T22:27:10.801382+00:00"
+  "timestamp": "2026-08-21T22:27:17.193548+00:00"
 }
