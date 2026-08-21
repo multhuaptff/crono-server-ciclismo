@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://till-gmbh-jason-eugene.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://barbara-periodically-suspended-represent.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://till-gmbh-jason-eugene.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T04:20:57.151180+00:00"
+  "timestamp": "2026-08-21T04:27:26.187195+00:00"
 }
