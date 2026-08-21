@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://jenny-opinion-simpsons-united.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://tank-task-nasa-horse.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://tank-task-nasa-horse.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T16:50:17.024215+00:00"
+  "timestamp": "2026-08-21T16:50:26.787524+00:00"
 }
