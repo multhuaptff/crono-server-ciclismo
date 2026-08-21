@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://remain-narrow-collins-ntsc.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://smile-acrobat-hampton-rap.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://remain-narrow-collins-ntsc.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T02:00:03.431339+00:00"
+  "timestamp": "2026-08-21T02:12:10.797998+00:00"
 }
