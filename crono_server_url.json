@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://luis-celebration-judicial-apply.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://win-theft-dropped-stan.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://luis-celebration-judicial-apply.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T21:24:54.581965+00:00"
+  "timestamp": "2026-08-21T21:27:40.123974+00:00"
 }
