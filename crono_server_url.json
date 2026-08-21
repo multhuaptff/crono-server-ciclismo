@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://commons-broken-annotation-motion.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://may-hosts-brisbane-detector.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://commons-broken-annotation-motion.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T13:14:25.860499+00:00"
+  "timestamp": "2026-08-21T13:36:44.672631+00:00"
 }
