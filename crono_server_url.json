@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://renewal-apache-essentially-heard.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://seas-trainer-projection-waterproof.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://renewal-apache-essentially-heard.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T19:08:18.101091+00:00"
+  "timestamp": "2026-08-21T19:16:23.599058+00:00"
 }
