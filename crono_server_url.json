@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://min-paint-better-travel.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://dispatch-spoke-strain-drivers.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://min-paint-better-travel.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T19:16:33.091136+00:00"
+  "timestamp": "2026-08-21T19:21:53.838179+00:00"
 }
