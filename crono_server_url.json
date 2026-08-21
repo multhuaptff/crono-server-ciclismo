@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://kingdom-lexmark-breaks-stand.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://stolen-millions-den-handy.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://kingdom-lexmark-breaks-stand.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T12:03:10.057324+00:00"
+  "timestamp": "2026-08-21T12:40:14.369814+00:00"
 }
