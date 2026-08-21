@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://inf-analytical-lodging-think.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://quantities-part-tar-barnes.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://inf-analytical-lodging-think.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T17:44:40.699998+00:00"
+  "timestamp": "2026-08-21T17:51:48.504800+00:00"
 }
