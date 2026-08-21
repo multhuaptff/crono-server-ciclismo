@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://expectations-counted-april-samba.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://acute-src-causes-absolute.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://expectations-counted-april-samba.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T12:48:18.865564+00:00"
+  "timestamp": "2026-08-21T12:56:37.064565+00:00"
 }
