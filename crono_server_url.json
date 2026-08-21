@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://voluntary-geology-upgrades-carl.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://mean-companies-jun-someone.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://voluntary-geology-upgrades-carl.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T14:26:36.670424+00:00"
+  "timestamp": "2026-08-21T14:34:59.881201+00:00"
 }
