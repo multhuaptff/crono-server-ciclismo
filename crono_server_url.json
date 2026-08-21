@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://heater-voluntary-dans-homeless.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://inf-analytical-lodging-think.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://inf-analytical-lodging-think.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T17:44:33.870926+00:00"
+  "timestamp": "2026-08-21T17:44:40.699998+00:00"
 }
