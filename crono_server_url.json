@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://ratings-courtesy-trainer-remote.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://legend-computing-qty-counter.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://legend-computing-qty-counter.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T20:13:51.956629+00:00"
+  "timestamp": "2026-08-21T20:14:00.306852+00:00"
 }
