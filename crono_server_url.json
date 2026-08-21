@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://administrator-coal-during-overhead.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://addition-wayne-designated-lucy.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://administrator-coal-during-overhead.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T23:49:10.998659+00:00"
+  "timestamp": "2026-08-21T23:51:27.284001+00:00"
 }
