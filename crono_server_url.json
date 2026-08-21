@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://reg-tobago-coral-prepared.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://pharmacy-devel-beauty-gadgets.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://reg-tobago-coral-prepared.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T19:37:15.325986+00:00"
+  "timestamp": "2026-08-21T19:56:58.968827+00:00"
 }
