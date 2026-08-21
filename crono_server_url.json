@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://christine-pdt-automatic-storage.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://mega-likewise-summer-dial.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://christine-pdt-automatic-storage.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T12:40:21.495674+00:00"
+  "timestamp": "2026-08-21T12:48:13.063410+00:00"
 }
