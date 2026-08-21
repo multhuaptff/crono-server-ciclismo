@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://mean-companies-jun-someone.trycloudflare.com",
-    "http://192.168.0.15:5001"
+    "https://lodging-survivor-sandra-surname.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://lodging-survivor-sandra-surname.trycloudflare.com",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T14:34:59.881201+00:00"
+  "timestamp": "2026-08-21T14:35:07.162813+00:00"
 }
