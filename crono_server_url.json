@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://bearing-jackson-inspection-acoustic.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://deals-passengers-haven-refuse.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://bearing-jackson-inspection-acoustic.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T03:38:01.683284+00:00"
+  "timestamp": "2026-08-21T04:01:12.694499+00:00"
 }
