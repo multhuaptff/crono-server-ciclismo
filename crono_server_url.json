@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://juice-feature-seal-camel.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://shift-andale-withdrawal-posted.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://juice-feature-seal-camel.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-21T01:19:23.184068+00:00"
+  "timestamp": "2026-08-21T01:59:56.963852+00:00"
 }
