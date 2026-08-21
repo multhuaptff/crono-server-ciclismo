@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://very-rolled-colorado-loc.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://paragraphs-decision-particles-infant.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://very-rolled-colorado-loc.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-20T23:18:18.794146+00:00"
+  "timestamp": "2026-08-21T01:19:16.890221+00:00"
 }
