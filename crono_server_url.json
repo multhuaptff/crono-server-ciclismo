@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://xml-presentations-motherboard-mar.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://novels-spell-profiles-perfect.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://xml-presentations-motherboard-mar.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T04:47:11.446369+00:00"
+  "timestamp": "2026-08-22T04:54:56.290148+00:00"
 }
