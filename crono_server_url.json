@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://refused-first-direction-hull.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://snap-favor-pink-hence.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://refused-first-direction-hull.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T23:32:34.388709+00:00"
+  "timestamp": "2026-08-22T23:45:48.309876+00:00"
 }
