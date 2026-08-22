@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://inspired-experimental-defendant-agenda.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://possibly-execute-occupation-estimates.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://inspired-experimental-defendant-agenda.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T04:00:51.186786+00:00"
+  "timestamp": "2026-08-22T04:27:15.152997+00:00"
 }
