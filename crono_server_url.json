@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://connecticut-placing-church-trees.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://gaps-sail-dramatically-corrections.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://connecticut-placing-church-trees.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T04:27:20.675563+00:00"
+  "timestamp": "2026-08-22T04:47:04.160136+00:00"
 }
