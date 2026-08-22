@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://advantages-williams-kelkoo-camping.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://gone-suggest-expectations-deployment.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://advantages-williams-kelkoo-camping.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T03:44:45.554045+00:00"
+  "timestamp": "2026-08-22T03:57:47.748247+00:00"
 }
