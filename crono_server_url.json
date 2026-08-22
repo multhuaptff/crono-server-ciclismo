@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://postage-absolutely-qui-bowl.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://marks-operates-inkjet-tremendous.trycloudflare.com",
+    "http://192.168.0.15:5001"
   ],
-  "url_publica": "https://postage-absolutely-qui-bowl.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.15",
   "puerto": 5001,
-  "timestamp": "2026-08-22T05:11:45.335334+00:00"
+  "timestamp": "2026-08-22T05:23:12.014709+00:00"
 }
