@@ -1,9 +1,11 @@
 {
   "urls": [
-    "https://duty-speak-testimony-producer.trycloudflare.com"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://api.trycloudflare.com",
+    "http://10.98.183.78:5001"
   ],
-  "url_publica": "https://duty-speak-testimony-producer.trycloudflare.com",
-  "ip_local": "192.168.0.198",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "10.98.183.78",
   "puerto": 5001,
-  "timestamp": "2026-08-23T06:41:24.569063+00:00"
+  "timestamp": "2026-08-23T18:32:28.670860+00:00"
 }
