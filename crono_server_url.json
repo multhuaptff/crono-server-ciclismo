@@ -1,11 +1,9 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://api.trycloudflare.com",
-    "http://192.168.0.4:5001"
+    "https://bunny-both-basketball-chairman.trycloudflare.com"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://bunny-both-basketball-chairman.trycloudflare.com",
   "ip_local": "192.168.0.4",
   "puerto": 5001,
-  "timestamp": "2026-08-23T06:19:32.487730+00:00"
+  "timestamp": "2026-08-23T06:19:38.465875+00:00"
 }
