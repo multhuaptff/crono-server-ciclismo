@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://agriculture-certified-choice-mile.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://powered-final-sufficient-fibre.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://agriculture-certified-choice-mile.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-26T19:05:06.399511+00:00"
+  "timestamp": "2026-08-26T19:13:19.789342+00:00"
 }
