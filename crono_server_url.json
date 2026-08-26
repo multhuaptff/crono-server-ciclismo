@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://signing-ends-titanium-yield.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://gnu-batteries-waters-paths.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://signing-ends-titanium-yield.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-26T19:32:07.726614+00:00"
+  "timestamp": "2026-08-26T19:42:59.728150+00:00"
 }
