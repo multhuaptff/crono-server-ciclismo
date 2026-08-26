@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://appear-our-edge-mounted.trycloudflare.com",
-    "http://192.168.0.198:5001"
+    "https://soa-neither-recognised-boulder.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://soa-neither-recognised-boulder.trycloudflare.com",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-26T19:01:26.290684+00:00"
+  "timestamp": "2026-08-26T19:01:32.551628+00:00"
 }
