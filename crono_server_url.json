@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://acrylic-trembl-ban-portion.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://appear-our-edge-mounted.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://acrylic-trembl-ban-portion.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-26T18:59:18.861251+00:00"
+  "timestamp": "2026-08-26T19:01:26.290684+00:00"
 }
