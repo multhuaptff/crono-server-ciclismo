@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://updated-treatment-calgary-mls.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://race-screens-degree-produced.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://updated-treatment-calgary-mls.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-28T04:45:29.995911+00:00"
+  "timestamp": "2026-08-28T04:57:22.622867+00:00"
 }
