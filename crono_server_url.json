@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://clicks-tuesday-foundations-models.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://ontario-plaza-photos-killing.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://clicks-tuesday-foundations-models.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-27T21:09:46.906895+00:00"
+  "timestamp": "2026-08-28T00:02:30.497229+00:00"
 }
