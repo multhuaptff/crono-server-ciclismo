@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://strand-time-beverage-floor.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://person-normal-pointing-role.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://strand-time-beverage-floor.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-28T05:01:39.300085+00:00"
+  "timestamp": "2026-08-28T05:04:08.378757+00:00"
 }
