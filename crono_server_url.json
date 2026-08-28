@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://contained-majority-prostores-marble.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://fog-taste-neutral-futures.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://contained-majority-prostores-marble.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-28T05:00:13.439048+00:00"
+  "timestamp": "2026-08-28T05:01:33.594126+00:00"
 }
