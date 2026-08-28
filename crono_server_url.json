@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://oils-sea-flour-greene.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://shop-membrane-van-soonest.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://oils-sea-flour-greene.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-28T11:29:02.091232+00:00"
+  "timestamp": "2026-08-28T22:02:43.510756+00:00"
 }
