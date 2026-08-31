@@ -1,9 +1,11 @@
 {
   "urls": [
-    "https://decor-parade-crimes-cultures.trycloudflare.com"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://character-military-publisher-placed.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://decor-parade-crimes-cultures.trycloudflare.com",
-  "ip_local": "192.168.0.4",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-08-30T22:24:01.482855+00:00"
+  "timestamp": "2026-08-31T12:35:18.368219+00:00"
 }
