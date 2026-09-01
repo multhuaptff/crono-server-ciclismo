@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://time-walked-drew-tim.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://herb-olympics-transaction-photos.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://time-walked-drew-tim.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-01T03:50:28.796248+00:00"
+  "timestamp": "2026-09-01T03:56:16.086151+00:00"
 }
