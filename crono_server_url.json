@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://sum-cod-sender-contracts.trycloudflare.com",
-    "http://192.168.0.198:5001"
+    "https://manager-advertiser-printers-babies.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://manager-advertiser-printers-babies.trycloudflare.com",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-01T01:33:22.427224+00:00"
+  "timestamp": "2026-09-01T01:33:28.277941+00:00"
 }
