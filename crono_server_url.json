@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://minor-among-bluetooth-label.trycloudflare.com",
-    "http://192.168.0.198:5001"
+    "https://trunk-nsw-need-jazz.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://trunk-nsw-need-jazz.trycloudflare.com",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-01T03:40:37.528550+00:00"
+  "timestamp": "2026-09-01T03:40:42.437817+00:00"
 }
