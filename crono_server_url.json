@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://regarding-protest-bands-abs.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://success-newport-branches-dash.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://regarding-protest-bands-abs.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-01T04:17:37.785746+00:00"
+  "timestamp": "2026-09-01T04:18:03.697352+00:00"
 }
