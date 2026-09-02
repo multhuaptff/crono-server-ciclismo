@@ -1,11 +1,10 @@
 {
   "urls": [
-    "https://condiment-hefty-celery.ngrok-free.dev",
-    "https://der-portal-richmond-publicly.trycloudflare.com",
-    "http://192.168.0.198:5001"
+    "https://recordings-jewelry-face-lean.trycloudflare.com",
+    "https://condiment-hefty-celery.ngrok-free.dev"
   ],
-  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
+  "url_publica": "https://recordings-jewelry-face-lean.trycloudflare.com",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-02T04:03:56.303041+00:00"
+  "timestamp": "2026-09-02T04:04:01.506851+00:00"
 }
