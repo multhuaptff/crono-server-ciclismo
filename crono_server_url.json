@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://caution-pledge-van-administrator.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://herbs-historical-sugar-broker.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://caution-pledge-van-administrator.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-01T17:49:10.738663+00:00"
+  "timestamp": "2026-09-02T01:32:28.801528+00:00"
 }
