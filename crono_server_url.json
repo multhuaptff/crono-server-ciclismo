@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://dairy-easier-hampton-thought.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://arena-lane-seriously-query.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://dairy-easier-hampton-thought.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-02T03:04:06.701480+00:00"
+  "timestamp": "2026-09-02T03:44:25.430033+00:00"
 }
