@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://saturn-powers-backgrounds-male.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://arise-generally-twelve-pointed.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://saturn-powers-backgrounds-male.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-02T01:45:37.745491+00:00"
+  "timestamp": "2026-09-02T02:38:42.544289+00:00"
 }
