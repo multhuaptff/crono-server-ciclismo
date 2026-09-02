@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://expect-shows-notices-designs.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://nodes-shaved-hosts-primarily.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://expect-shows-notices-designs.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-02T13:41:27.383836+00:00"
+  "timestamp": "2026-09-02T17:55:17.009879+00:00"
 }
