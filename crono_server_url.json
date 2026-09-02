@@ -1,10 +1,11 @@
 {
   "urls": [
-    "https://populations-nevada-concentrations-courage.trycloudflare.com",
-    "https://condiment-hefty-celery.ngrok-free.dev"
+    "https://condiment-hefty-celery.ngrok-free.dev",
+    "https://simultaneously-spine-roughly-looking.trycloudflare.com",
+    "http://192.168.0.198:5001"
   ],
-  "url_publica": "https://populations-nevada-concentrations-courage.trycloudflare.com",
+  "url_publica": "https://condiment-hefty-celery.ngrok-free.dev",
   "ip_local": "192.168.0.198",
   "puerto": 5001,
-  "timestamp": "2026-09-02T01:32:34.016759+00:00"
+  "timestamp": "2026-09-02T01:45:31.664751+00:00"
 }
