@@ -1,0 +1,76 @@
+{
+  "version": 1,
+  "event_code": "3ID15",
+  "tipo_publicacion": "oficial",
+  "publicacion_activa": true,
+  "evento": {
+    "id": 5,
+    "nombre": "NEG"
+  },
+  "etapas": [
+    {
+      "id": 9,
+      "numero": null,
+      "nombre": "NEG",
+      "orden": 1,
+      "disciplina": "xco"
+    }
+  ],
+  "resultados": [
+    {
+      "participante_id": 29,
+      "tiempo_total_seg": 36.283876,
+      "posicion": 1,
+      "nombre": "CARLOS",
+      "dorsal": "5",
+      "categoria": "MASTER",
+      "club": "CUSCO",
+      "disciplina": "xco",
+      "salida": "2026-09-03T16:09:43.844394",
+      "llegada": "2026-09-03T16:10:20.128270",
+      "salida_evento_real": "2026-09-03T16:09:43.844394",
+      "llegada_evento_real": null,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "estado_lista": "Finalizado",
+      "descalificado": 0,
+      "uuid_salida": "0fbfa276-5e2a-410f-81e8-fb9f336b0caa",
+      "uuid_llegada": "97ed538c-a9f4-4144-b508-6f2d7d0e3f3c",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 6.866482,
+          "timestamp": "2026-09-03T16:09:50.710876",
+          "evento_crono_uuid": "855232d1-f9f0-40d1-84cb-fad12d01e1c7"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 5.496274,
+          "timestamp": "2026-09-03T16:09:56.207150",
+          "evento_crono_uuid": "8354f307-a492-411b-9226-5fbde6b51b5d"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 5.513617,
+          "timestamp": "2026-09-03T16:10:01.720767",
+          "evento_crono_uuid": "17524bd3-baec-46a1-84a0-600036abe0c3"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 5.655012,
+          "timestamp": "2026-09-03T16:10:07.375779",
+          "evento_crono_uuid": "b49430c9-b0aa-422c-8512-a205e5227c76"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 12.752491,
+          "timestamp": "2026-09-03T16:10:20.128270",
+          "evento_crono_uuid": "97ed538c-a9f4-4144-b508-6f2d7d0e3f3c"
+        }
+      ],
+      "estado_calculado": "Finalizado"
+    }
+  ],
+  "status": "final",
+  "publicado_en": "2026-09-03T22:38:12.464065+00:00"
+}
