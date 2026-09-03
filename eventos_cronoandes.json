@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T12:22:19.785778+00:00",
+  "actualizado_en": "2026-09-03T12:22:21.939680+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -22,9 +22,9 @@
       "etapa": 9,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://clocks-carlos-beverly-corpus.trycloudflare.com",
+      "server_url": "https://relax-dicke-structural-afternoon.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-03T01:41:43.633485+00:00"
+      "actualizado_en": "2026-09-03T12:22:21.408809+00:00"
     }
   }
 }
