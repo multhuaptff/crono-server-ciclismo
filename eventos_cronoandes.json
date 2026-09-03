@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T22:38:19.891463+00:00",
+  "actualizado_en": "2026-09-03T22:39:29.837435+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -21,10 +21,10 @@
       "etapa_id": 9,
       "etapa": 9,
       "modalidad": "XCO",
-      "estado": "LIVE",
+      "estado": "finalizado",
       "server_url": "https://informal-running-nuke-long.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-03T22:38:19.717299+00:00"
+      "actualizado_en": "2026-09-03T22:39:29.274102+00:00"
     },
     "salineras-2026": {
       "event_code": "LNZT2",
