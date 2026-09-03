@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T22:39:29.837435+00:00",
+  "actualizado_en": "2026-09-03T23:28:10.244161+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -10,9 +10,9 @@
       "etapa": 7,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://informal-running-nuke-long.trycloudflare.com",
+      "server_url": "https://yrs-creature-consensus-ages.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-03T22:38:17.663944+00:00"
+      "actualizado_en": "2026-09-03T23:28:09.856488+00:00"
     },
     "neg": {
       "event_code": "3ID15",
