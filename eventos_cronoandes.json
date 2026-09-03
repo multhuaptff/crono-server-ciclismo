@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T13:29:11.710665+00:00",
+  "actualizado_en": "2026-09-03T14:06:02.954673+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -25,6 +25,18 @@
       "server_url": "https://cultures-situation-write-heavily.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
       "actualizado_en": "2026-09-03T13:29:11.322343+00:00"
+    },
+    "salineras-2026": {
+      "event_code": "LNZT2",
+      "nombre": "SALINERAS 2026",
+      "slug": "salineras-2026",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-09-03T14:06:02.348348+00:00",
+      "actualizado_en": "2026-09-03T14:06:02.348363+00:00"
     }
   }
 }
