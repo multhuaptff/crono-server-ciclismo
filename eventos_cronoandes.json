@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T14:06:40.448301+00:00",
+  "actualizado_en": "2026-09-03T14:06:44.011106+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -22,9 +22,9 @@
       "etapa": 9,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://cultures-situation-write-heavily.trycloudflare.com",
+      "server_url": "https://analyze-divided-stands-low.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-03T13:29:11.322343+00:00"
+      "actualizado_en": "2026-09-03T14:06:43.187604+00:00"
     },
     "salineras-2026": {
       "event_code": "LNZT2",
