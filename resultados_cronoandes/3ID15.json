@@ -69,8 +69,61 @@
         }
       ],
       "estado_calculado": "Finalizado"
+    },
+    {
+      "participante_id": 30,
+      "tiempo_total_seg": 5464.993842,
+      "posicion": 2,
+      "nombre": "CINTIA",
+      "dorsal": "6",
+      "categoria": "MASTER",
+      "club": "CUSCO",
+      "disciplina": "xco",
+      "salida": "2026-09-03T16:09:43.844394",
+      "llegada": "2026-09-03T17:40:48.838236",
+      "salida_evento_real": "2026-09-03T16:09:43.844394",
+      "llegada_evento_real": null,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "estado_lista": "Finalizado",
+      "descalificado": 0,
+      "uuid_salida": "78f3155e-f81b-4c29-a1c3-6a380556feb0",
+      "uuid_llegada": "8d0d38b7-4d3e-4edf-8cae-258d9fe6afcd",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 10.091402,
+          "timestamp": "2026-09-03T16:09:53.935796",
+          "evento_crono_uuid": "a1cd6775-870e-4ca1-a5aa-527cbd656d9e"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 5446.37456,
+          "timestamp": "2026-09-03T17:40:40.310356",
+          "evento_crono_uuid": "1295091e-e760-4f45-a969-1886682377d4"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 2.896135,
+          "timestamp": "2026-09-03T17:40:43.206491",
+          "evento_crono_uuid": "6d7b095b-afa3-4b0d-ae83-11dcdecf6f3b"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 2.888021,
+          "timestamp": "2026-09-03T17:40:46.094512",
+          "evento_crono_uuid": "4ffc5426-ba07-4089-8db0-0a7a9cca9eb9"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.743724,
+          "timestamp": "2026-09-03T17:40:48.838236",
+          "evento_crono_uuid": "8d0d38b7-4d3e-4edf-8cae-258d9fe6afcd"
+        }
+      ],
+      "estado_calculado": "Finalizado"
     }
   ],
   "status": "final",
-  "publicado_en": "2026-09-03T22:39:27.154902+00:00"
+  "publicado_en": "2026-09-03T22:41:12.789613+00:00"
 }
