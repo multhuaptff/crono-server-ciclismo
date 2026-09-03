@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T21:09:28.532411+00:00",
+  "actualizado_en": "2026-09-03T22:38:14.713651+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -21,10 +21,10 @@
       "etapa_id": 9,
       "etapa": 9,
       "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://reveals-raw-rotation-delicious.trycloudflare.com",
+      "estado": "finalizado",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-03T21:09:28.061815+00:00"
+      "actualizado_en": "2026-09-03T22:38:14.419982+00:00"
     },
     "salineras-2026": {
       "event_code": "LNZT2",
