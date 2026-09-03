@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-03T01:41:41.680520+00:00",
+  "actualizado_en": "2026-09-03T01:41:44.114760+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -13,6 +13,18 @@
       "server_url": "https://clocks-carlos-beverly-corpus.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
       "actualizado_en": "2026-09-03T01:41:41.237126+00:00"
+    },
+    "neg": {
+      "event_code": "3ID15",
+      "nombre": "NEG",
+      "slug": "neg",
+      "etapa_id": 9,
+      "etapa": 9,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://clocks-carlos-beverly-corpus.trycloudflare.com",
+      "creado_en": "2026-09-03T01:41:43.633468+00:00",
+      "actualizado_en": "2026-09-03T01:41:43.633485+00:00"
     }
   }
 }
