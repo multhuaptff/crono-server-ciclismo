@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "actualizado_en": "2026-09-03T01:41:41.680520+00:00",
+  "eventos": {
+    "carrera-mtb-2026": {
+      "event_code": "APMTH",
+      "nombre": "CARRERA MTB 2026",
+      "slug": "carrera-mtb-2026",
+      "etapa_id": 7,
+      "etapa": 7,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://clocks-carlos-beverly-corpus.trycloudflare.com",
+      "creado_en": "2026-09-03T01:41:41.237109+00:00",
+      "actualizado_en": "2026-09-03T01:41:41.237126+00:00"
+    }
+  }
+}
