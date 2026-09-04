@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-04T01:10:29.832544+00:00",
+  "actualizado_en": "2026-09-04T01:16:59.478682+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -34,9 +34,9 @@
       "etapa": 1,
       "modalidad": "DH",
       "estado": "LIVE",
-      "server_url": "https://thesaurus-collaborative-structured-excited.trycloudflare.com",
+      "server_url": "https://unlimited-more-requests-tricks.trycloudflare.com",
       "creado_en": "2026-09-03T14:06:02.348348+00:00",
-      "actualizado_en": "2026-09-04T01:10:29.504436+00:00"
+      "actualizado_en": "2026-09-04T01:16:59.106331+00:00"
     }
   }
 }
