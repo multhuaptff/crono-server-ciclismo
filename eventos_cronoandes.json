@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-04T01:16:59.478682+00:00",
+  "actualizado_en": "2026-09-04T01:22:09.496134+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -37,6 +37,18 @@
       "server_url": "https://unlimited-more-requests-tricks.trycloudflare.com",
       "creado_en": "2026-09-03T14:06:02.348348+00:00",
       "actualizado_en": "2026-09-04T01:16:59.106331+00:00"
+    },
+    "yeiner2026": {
+      "event_code": "EAT0L",
+      "nombre": "YEINER2026",
+      "slug": "yeiner2026",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-09-04T01:22:08.983928+00:00",
+      "actualizado_en": "2026-09-04T01:22:08.983945+00:00"
     }
   }
 }
