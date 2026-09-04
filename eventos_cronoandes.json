@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-04T01:22:09.496134+00:00",
+  "actualizado_en": "2026-09-04T02:11:26.517776+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -49,6 +49,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-04T01:22:08.983928+00:00",
       "actualizado_en": "2026-09-04T01:22:08.983945+00:00"
+    },
+    "estanpida": {
+      "event_code": "7MMHO",
+      "nombre": "ESTANPIDA",
+      "slug": "estanpida",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-09-04T02:11:25.832627+00:00",
+      "actualizado_en": "2026-09-04T02:11:25.832649+00:00"
     }
   }
 }
