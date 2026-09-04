@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-04T02:11:26.517776+00:00",
+  "actualizado_en": "2026-09-04T15:49:17.685096+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -10,9 +10,9 @@
       "etapa": 7,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://bolt-shop-respect-prove.trycloudflare.com",
+      "server_url": "https://attributes-heated-aud-sim.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-04T01:00:51.916857+00:00"
+      "actualizado_en": "2026-09-04T15:49:17.288208+00:00"
     },
     "neg": {
       "event_code": "3ID15",
