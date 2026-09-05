@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-05T13:02:57.656209+00:00",
+  "actualizado_en": "2026-09-05T13:18:12.197017+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://humans-variation-dubai-licensing.trycloudflare.com",
+      "server_url": "https://charm-boxes-remove-outside.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-05T13:02:57.221779+00:00"
+      "actualizado_en": "2026-09-05T13:18:11.737355+00:00"
     },
     "neg": {
       "event_code": "3ID15",
