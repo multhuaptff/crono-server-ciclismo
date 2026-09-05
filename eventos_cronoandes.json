@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-05T04:27:12.247517+00:00",
+  "actualizado_en": "2026-09-05T04:27:14.729275+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -22,9 +22,9 @@
       "etapa": 9,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://beach-cpu-logged-setting.trycloudflare.com",
+      "server_url": "https://charming-praise-under-conclude.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-04T23:36:18.463317+00:00"
+      "actualizado_en": "2026-09-05T04:27:14.139178+00:00"
     },
     "salineras-2026": {
       "event_code": "LNZT2",
