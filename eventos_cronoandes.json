@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-17T16:59:39.933257+00:00",
+  "actualizado_en": "2026-09-17T17:24:36.842531+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -70,9 +70,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://katrina-including-mary-horizon.trycloudflare.com",
+      "server_url": "https://insert-tuition-classification-effective.trycloudflare.com",
       "creado_en": "2026-09-17T16:59:39.554981+00:00",
-      "actualizado_en": "2026-09-17T16:59:39.554995+00:00"
+      "actualizado_en": "2026-09-17T17:24:36.645764+00:00"
     }
   }
 }
