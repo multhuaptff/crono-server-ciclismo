@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-17T20:36:42.996118+00:00",
+  "actualizado_en": "2026-09-17T21:33:59.039968+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -82,9 +82,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://point-static-perspectives-views.trycloudflare.com",
+      "server_url": "https://con-brunette-consolidated-flying.trycloudflare.com",
       "creado_en": "2026-09-17T20:36:42.706257+00:00",
-      "actualizado_en": "2026-09-17T20:36:42.706286+00:00"
+      "actualizado_en": "2026-09-17T21:33:58.571613+00:00"
     }
   }
 }
