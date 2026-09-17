@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-17T17:24:36.842531+00:00",
+  "actualizado_en": "2026-09-17T20:36:42.996118+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -73,6 +73,18 @@
       "server_url": "https://insert-tuition-classification-effective.trycloudflare.com",
       "creado_en": "2026-09-17T16:59:39.554981+00:00",
       "actualizado_en": "2026-09-17T17:24:36.645764+00:00"
+    },
+    "berg": {
+      "event_code": "OF1VP",
+      "nombre": "BERG",
+      "slug": "berg",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://point-static-perspectives-views.trycloudflare.com",
+      "creado_en": "2026-09-17T20:36:42.706257+00:00",
+      "actualizado_en": "2026-09-17T20:36:42.706286+00:00"
     }
   }
 }
