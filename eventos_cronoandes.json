@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-17T21:36:00.156250+00:00",
+  "actualizado_en": "2026-09-20T13:24:14.530501+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -82,9 +82,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://cognitive-ways-loud-dryer.trycloudflare.com",
+      "server_url": "https://metropolitan-harvey-hoped-bedroom.trycloudflare.com",
       "creado_en": "2026-09-17T20:36:42.706257+00:00",
-      "actualizado_en": "2026-09-17T21:35:59.560592+00:00"
+      "actualizado_en": "2026-09-20T13:24:14.029436+00:00"
     }
   }
 }
