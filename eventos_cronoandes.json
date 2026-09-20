@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-20T13:24:14.530501+00:00",
+  "actualizado_en": "2026-09-20T15:47:41.663262+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -82,9 +82,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://metropolitan-harvey-hoped-bedroom.trycloudflare.com",
+      "server_url": "https://api.trycloudflare.com",
       "creado_en": "2026-09-17T20:36:42.706257+00:00",
-      "actualizado_en": "2026-09-20T13:24:14.029436+00:00"
+      "actualizado_en": "2026-09-20T15:47:41.441681+00:00"
     }
   }
 }
