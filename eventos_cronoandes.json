@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-20T19:22:59.195223+00:00",
+  "actualizado_en": "2026-09-20T19:37:06.626653+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://sensors-detective-arctic-collaborative.trycloudflare.com",
+      "server_url": "https://aquarium-nam-bloom-touring.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-06T12:42:31.850766+00:00"
+      "actualizado_en": "2026-09-20T19:37:06.247660+00:00"
     },
     "neg": {
       "event_code": "3ID15",
