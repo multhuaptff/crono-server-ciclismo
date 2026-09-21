@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-21T14:03:15.115841+00:00",
+  "actualizado_en": "2026-09-21T15:24:36.130269+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "server_url": "https://reed-hockey-talented-ruling.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-21T14:03:14.593322+00:00"
+      "actualizado_en": "2026-09-21T15:24:35.934213+00:00"
     },
     "neg": {
       "event_code": "3ID15",
