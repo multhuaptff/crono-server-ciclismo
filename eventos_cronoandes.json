@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-21T23:52:18.108443+00:00",
+  "actualizado_en": "2026-09-21T23:54:35.079591+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -94,9 +94,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://formerly-picking-onion-monte.trycloudflare.com",
+      "server_url": "https://descending-eos-landscape-awards.trycloudflare.com",
       "creado_en": "2026-09-21T21:34:04.441444+00:00",
-      "actualizado_en": "2026-09-21T23:52:17.736412+00:00"
+      "actualizado_en": "2026-09-21T23:54:34.403052+00:00"
     }
   }
 }
