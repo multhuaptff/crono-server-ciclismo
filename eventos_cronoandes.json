@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-21T23:54:35.079591+00:00",
+  "actualizado_en": "2026-09-22T01:45:10.115209+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -97,6 +97,18 @@
       "server_url": "https://descending-eos-landscape-awards.trycloudflare.com",
       "creado_en": "2026-09-21T21:34:04.441444+00:00",
       "actualizado_en": "2026-09-21T23:54:34.403052+00:00"
+    },
+    "carrera-mtb-2040": {
+      "event_code": "OE74K",
+      "nombre": "CARRERA MTB 2040",
+      "slug": "carrera-mtb-2040",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://webster-blowing-treated-accessibility.trycloudflare.com",
+      "creado_en": "2026-09-22T01:45:09.805605+00:00",
+      "actualizado_en": "2026-09-22T01:45:09.805619+00:00"
     }
   }
 }
