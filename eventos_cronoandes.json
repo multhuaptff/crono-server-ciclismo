@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:44:56.915927+00:00",
-  "eventos": {
-    "carrera-mtb-2030": {
-      "event_code": "I42TG",
-      "nombre": "CARRERA MTB 2030",
-      "slug": "carrera-mtb-2030",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://filling-applications-rolls-chassis.trycloudflare.com",
-      "creado_en": "2026-09-22T02:29:26.780517+00:00",
-      "actualizado_en": "2026-09-22T02:44:56.502344+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-22T02:57:22.353991+00:00",
+  "eventos": {}
 }
