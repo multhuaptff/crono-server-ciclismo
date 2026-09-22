@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:27:34.392829+00:00",
-  "eventos": {}
+  "actualizado_en": "2026-09-22T02:29:27.268997+00:00",
+  "eventos": {
+    "carrera-mtb-2030": {
+      "event_code": "I42TG",
+      "nombre": "CARRERA MTB 2030",
+      "slug": "carrera-mtb-2030",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://pills-pharmacy-tower-terrorist.trycloudflare.com",
+      "creado_en": "2026-09-22T02:29:26.780517+00:00",
+      "actualizado_en": "2026-09-22T02:29:26.780536+00:00"
+    }
+  }
 }
