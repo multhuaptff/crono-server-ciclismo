@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:20:47.909689+00:00",
-  "eventos": {
-    "carrera-mtb-2031": {
-      "event_code": "ZXCSB",
-      "nombre": "CARRERA MTB 2031",
-      "slug": "carrera-mtb-2031",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://navigator-roll-roulette-sbjct.trycloudflare.com",
-      "creado_en": "2026-09-22T02:20:47.497961+00:00",
-      "actualizado_en": "2026-09-22T02:20:47.497975+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-22T02:27:34.392829+00:00",
+  "eventos": {}
 }
