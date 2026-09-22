@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:15:08.390747+00:00",
+  "actualizado_en": "2026-09-22T02:18:49.822602+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -109,18 +109,6 @@
       "server_url": "https://webster-blowing-treated-accessibility.trycloudflare.com",
       "creado_en": "2026-09-22T01:45:09.805605+00:00",
       "actualizado_en": "2026-09-22T01:45:09.805619+00:00"
-    },
-    "carrera-mtb-2031": {
-      "event_code": "ZXCSB",
-      "nombre": "CARRERA MTB 2031",
-      "slug": "carrera-mtb-2031",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://measuring-accessibility-moral-plasma.trycloudflare.com",
-      "creado_en": "2026-09-22T02:04:52.707814+00:00",
-      "actualizado_en": "2026-09-22T02:04:52.707829+00:00"
     }
   }
 }
