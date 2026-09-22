@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:57:22.353991+00:00",
-  "eventos": {}
+  "actualizado_en": "2026-09-22T02:58:47.713325+00:00",
+  "eventos": {
+    "carrera-mtb-2033": {
+      "event_code": "SWXZX",
+      "nombre": "CARRERA MTB 2033",
+      "slug": "carrera-mtb-2033",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://aid-app-montana-power.trycloudflare.com",
+      "creado_en": "2026-09-22T02:58:46.977626+00:00",
+      "actualizado_en": "2026-09-22T02:58:46.977645+00:00"
+    }
+  }
 }
