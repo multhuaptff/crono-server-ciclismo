@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:19:17.021804+00:00",
+  "actualizado_en": "2026-09-22T02:19:21.024227+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -25,18 +25,6 @@
       "server_url": "https://charming-praise-under-conclude.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:43.633468+00:00",
       "actualizado_en": "2026-09-05T04:27:14.139178+00:00"
-    },
-    "salineras-2026": {
-      "event_code": "LNZT2",
-      "nombre": "SALINERAS 2026",
-      "slug": "salineras-2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://unlimited-more-requests-tricks.trycloudflare.com",
-      "creado_en": "2026-09-03T14:06:02.348348+00:00",
-      "actualizado_en": "2026-09-04T01:16:59.106331+00:00"
     }
   }
 }
