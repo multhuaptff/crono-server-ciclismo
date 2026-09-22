@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:19:24.720425+00:00",
-  "eventos": {
-    "carrera-mtb-2026": {
-      "event_code": "APMTH",
-      "nombre": "CARRERA MTB 2026",
-      "slug": "carrera-mtb-2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://reed-hockey-talented-ruling.trycloudflare.com",
-      "creado_en": "2026-09-03T01:41:41.237109+00:00",
-      "actualizado_en": "2026-09-21T15:24:35.934213+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-22T02:19:28.313793+00:00",
+  "eventos": {}
 }
