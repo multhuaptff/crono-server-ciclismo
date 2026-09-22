@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:19:04.332025+00:00",
+  "actualizado_en": "2026-09-22T02:19:08.230288+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -61,18 +61,6 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-04T02:11:25.832627+00:00",
       "actualizado_en": "2026-09-04T02:11:25.832649+00:00"
-    },
-    "carrera-dh2026": {
-      "event_code": "RUIRL",
-      "nombre": "CARRERA DH2026",
-      "slug": "carrera-dh2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://insert-tuition-classification-effective.trycloudflare.com",
-      "creado_en": "2026-09-17T16:59:39.554981+00:00",
-      "actualizado_en": "2026-09-17T17:24:36.645764+00:00"
     }
   }
 }
