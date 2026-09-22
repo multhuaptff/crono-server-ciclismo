@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-22T02:19:21.024227+00:00",
+  "actualizado_en": "2026-09-22T02:19:24.720425+00:00",
   "eventos": {
     "carrera-mtb-2026": {
       "event_code": "APMTH",
@@ -13,18 +13,6 @@
       "server_url": "https://reed-hockey-talented-ruling.trycloudflare.com",
       "creado_en": "2026-09-03T01:41:41.237109+00:00",
       "actualizado_en": "2026-09-21T15:24:35.934213+00:00"
-    },
-    "neg": {
-      "event_code": "3ID15",
-      "nombre": "NEG",
-      "slug": "neg",
-      "etapa_id": 9,
-      "etapa": 9,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://charming-praise-under-conclude.trycloudflare.com",
-      "creado_en": "2026-09-03T01:41:43.633468+00:00",
-      "actualizado_en": "2026-09-05T04:27:14.139178+00:00"
     }
   }
 }
