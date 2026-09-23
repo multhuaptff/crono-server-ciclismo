@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-23T00:21:43.682589+00:00",
+  "actualizado_en": "2026-09-23T00:23:46.249324+00:00",
   "eventos": {
     "carrera-mtb-2033": {
       "event_code": "SWXZX",
@@ -22,9 +22,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://excellence-bufing-symantec-recommendations.trycloudflare.com",
+      "server_url": "https://slides-spoke-advertisement-circles.trycloudflare.com",
       "creado_en": "2026-09-23T00:21:43.305208+00:00",
-      "actualizado_en": "2026-09-23T00:21:43.305232+00:00"
+      "actualizado_en": "2026-09-23T00:23:45.730248+00:00"
     }
   }
 }
