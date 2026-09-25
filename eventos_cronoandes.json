@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T17:43:36.814279+00:00",
+  "actualizado_en": "2026-09-25T17:45:13.152513+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://named-includes-seem-tan.trycloudflare.com",
+      "server_url": "https://dat-jason-advocacy-bags.trycloudflare.com",
       "creado_en": "2026-09-25T15:31:42.433277+00:00",
-      "actualizado_en": "2026-09-25T17:43:36.440224+00:00"
+      "actualizado_en": "2026-09-25T17:45:12.812815+00:00"
     }
   }
 }
