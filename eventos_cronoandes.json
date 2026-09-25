@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T18:00:40.809649+00:00",
+  "actualizado_en": "2026-09-25T18:02:40.281736+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://hey-welfare-pillow-consortium.trycloudflare.com",
+      "server_url": "https://elliott-doctrine-survive-employer.trycloudflare.com",
       "creado_en": "2026-09-25T15:31:42.433277+00:00",
-      "actualizado_en": "2026-09-25T18:00:39.954858+00:00"
+      "actualizado_en": "2026-09-25T18:02:39.399474+00:00"
     }
   }
 }
