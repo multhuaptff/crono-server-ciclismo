@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T15:31:42.864263+00:00",
+  "actualizado_en": "2026-09-25T17:43:36.814279+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://arts-switch-speeches-imperial.trycloudflare.com",
+      "server_url": "https://named-includes-seem-tan.trycloudflare.com",
       "creado_en": "2026-09-25T15:31:42.433277+00:00",
-      "actualizado_en": "2026-09-25T15:31:42.433294+00:00"
+      "actualizado_en": "2026-09-25T17:43:36.440224+00:00"
     }
   }
 }
