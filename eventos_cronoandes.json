@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T20:48:10.440305+00:00",
+  "actualizado_en": "2026-09-25T22:02:06.065147+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -25,6 +25,18 @@
       "server_url": "https://answers-seen-wrist-knives.trycloudflare.com",
       "creado_en": "2026-09-25T19:30:27.646335+00:00",
       "actualizado_en": "2026-09-25T19:30:27.646352+00:00"
+    },
+    "carrera-mtb-2026": {
+      "event_code": "APMTH",
+      "nombre": "CARRERA MTB 2026",
+      "slug": "carrera-mtb-2026",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://interview-toe-mic-dsc.trycloudflare.com",
+      "creado_en": "2026-09-25T22:02:05.626529+00:00",
+      "actualizado_en": "2026-09-25T22:02:05.626552+00:00"
     }
   }
 }
