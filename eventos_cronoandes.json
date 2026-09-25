@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T15:30:28.675859+00:00",
-  "eventos": {
-    "carrera-mtb-2033": {
-      "event_code": "SWXZX",
-      "nombre": "CARRERA MTB 2033",
-      "slug": "carrera-mtb-2033",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://campaigns-passes-watt-blend.trycloudflare.com",
-      "creado_en": "2026-09-22T14:19:07.962822+00:00",
-      "actualizado_en": "2026-09-22T14:19:07.962840+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-25T15:30:34.598806+00:00",
+  "eventos": {}
 }
