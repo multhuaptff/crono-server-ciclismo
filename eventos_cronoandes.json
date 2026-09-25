@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T22:02:06.065147+00:00",
+  "actualizado_en": "2026-09-25T22:02:08.084334+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -37,6 +37,18 @@
       "server_url": "https://interview-toe-mic-dsc.trycloudflare.com",
       "creado_en": "2026-09-25T22:02:05.626529+00:00",
       "actualizado_en": "2026-09-25T22:02:05.626552+00:00"
+    },
+    "carrera": {
+      "event_code": "ZHWYM",
+      "nombre": "CARRERA",
+      "slug": "carrera",
+      "etapa_id": 3,
+      "etapa": 3,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://interview-toe-mic-dsc.trycloudflare.com",
+      "creado_en": "2026-09-25T22:02:07.742052+00:00",
+      "actualizado_en": "2026-09-25T22:02:07.742067+00:00"
     }
   }
 }
