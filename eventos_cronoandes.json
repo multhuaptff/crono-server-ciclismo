@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T22:02:08.084334+00:00",
+  "actualizado_en": "2026-09-25T22:02:32.121761+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -34,9 +34,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://interview-toe-mic-dsc.trycloudflare.com",
+      "server_url": "https://completed-minute-redeem-rates.trycloudflare.com",
       "creado_en": "2026-09-25T22:02:05.626529+00:00",
-      "actualizado_en": "2026-09-25T22:02:05.626552+00:00"
+      "actualizado_en": "2026-09-25T22:02:31.778505+00:00"
     },
     "carrera": {
       "event_code": "ZHWYM",
