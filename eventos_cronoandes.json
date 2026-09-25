@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-25T19:35:36.823469+00:00",
+  "actualizado_en": "2026-09-25T20:48:10.440305+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -10,9 +10,9 @@
       "etapa": 1,
       "modalidad": "XCO",
       "estado": "LIVE",
-      "server_url": "https://intranet-physiology-hang-recent.trycloudflare.com",
+      "server_url": "https://presently-hill-mario-waters.trycloudflare.com",
       "creado_en": "2026-09-25T15:31:42.433277+00:00",
-      "actualizado_en": "2026-09-25T19:35:36.288012+00:00"
+      "actualizado_en": "2026-09-25T20:48:10.096920+00:00"
     },
     "carrera-mtb-2033": {
       "event_code": "SWXZX",
