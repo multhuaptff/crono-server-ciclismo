@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-26T13:50:21.579674+00:00",
+  "actualizado_en": "2026-09-26T13:50:23.764304+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -13,18 +13,6 @@
       "server_url": "https://presently-hill-mario-waters.trycloudflare.com",
       "creado_en": "2026-09-25T15:31:42.433277+00:00",
       "actualizado_en": "2026-09-25T20:48:10.096920+00:00"
-    },
-    "carrera-mtb-2033": {
-      "event_code": "SWXZX",
-      "nombre": "CARRERA MTB 2033",
-      "slug": "carrera-mtb-2033",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://answers-seen-wrist-knives.trycloudflare.com",
-      "creado_en": "2026-09-25T19:30:27.646335+00:00",
-      "actualizado_en": "2026-09-25T19:30:27.646352+00:00"
     }
   }
 }
