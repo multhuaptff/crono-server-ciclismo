@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-26T13:50:14.670532+00:00",
+  "actualizado_en": "2026-09-26T13:50:19.279860+00:00",
   "eventos": {
     "prueba-2026": {
       "event_code": "VXRRJ",
@@ -37,18 +37,6 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-25T22:02:05.626529+00:00",
       "actualizado_en": "2026-09-26T13:34:00.540487+00:00"
-    },
-    "carrera": {
-      "event_code": "ZHWYM",
-      "nombre": "CARRERA",
-      "slug": "carrera",
-      "etapa_id": 3,
-      "etapa": 3,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://russia-franklin-barrel-peer.trycloudflare.com",
-      "creado_en": "2026-09-25T22:02:07.742052+00:00",
-      "actualizado_en": "2026-09-26T12:51:00.396177+00:00"
     }
   }
 }
