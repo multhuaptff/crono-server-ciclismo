@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-26T13:50:23.764304+00:00",
-  "eventos": {
-    "prueba-2026": {
-      "event_code": "VXRRJ",
-      "nombre": "PRUEBA 2026",
-      "slug": "prueba-2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://presently-hill-mario-waters.trycloudflare.com",
-      "creado_en": "2026-09-25T15:31:42.433277+00:00",
-      "actualizado_en": "2026-09-25T20:48:10.096920+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-26T13:50:29.373298+00:00",
+  "eventos": {}
 }
