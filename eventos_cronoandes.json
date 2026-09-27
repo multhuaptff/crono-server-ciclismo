@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-26T20:35:49.981393+00:00",
-  "eventos": {}
+  "actualizado_en": "2026-09-27T03:18:50.617683+00:00",
+  "eventos": {
+    "vianee": {
+      "event_code": "LQTVI",
+      "nombre": "VIANEE",
+      "slug": "vianee",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://cottages-chains-subsection-con.trycloudflare.com",
+      "creado_en": "2026-09-27T03:18:50.307177+00:00",
+      "actualizado_en": "2026-09-27T03:18:50.307192+00:00"
+    }
+  }
 }
