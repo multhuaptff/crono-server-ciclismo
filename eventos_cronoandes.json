@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-27T03:18:50.617683+00:00",
+  "actualizado_en": "2026-09-27T03:18:52.589301+00:00",
   "eventos": {
     "vianee": {
       "event_code": "LQTVI",
@@ -8,11 +8,11 @@
       "slug": "vianee",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://cottages-chains-subsection-con.trycloudflare.com",
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-27T03:18:50.307177+00:00",
-      "actualizado_en": "2026-09-27T03:18:50.307192+00:00"
+      "actualizado_en": "2026-09-27T03:18:52.319129+00:00"
     }
   }
 }
