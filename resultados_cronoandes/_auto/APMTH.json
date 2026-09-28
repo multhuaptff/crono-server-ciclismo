@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "dh",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-28T22:51:45.845851+00:00",
-  "server_time": "2026-09-28T22:51:45.630114+00:00",
+  "actualizado_en": "2026-09-28T23:01:18.172732+00:00",
+  "server_time": "2026-09-28T23:01:17.966997+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -30,7 +30,8 @@
       "puesto_general": 1,
       "puesto_categoria": 1,
       "diferencia_general_seg": 0.0,
-      "diferencia_categoria_seg": 0.0
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": []
     },
     {
       "participante_id": 8,
@@ -53,7 +54,8 @@
       "puesto_general": 2,
       "puesto_categoria": 2,
       "diferencia_general_seg": 2.374938,
-      "diferencia_categoria_seg": 2.374938
+      "diferencia_categoria_seg": 2.374938,
+      "tiempos_vueltas": []
     },
     {
       "participante_id": 9,
@@ -76,7 +78,8 @@
       "puesto_general": 3,
       "puesto_categoria": 3,
       "diferencia_general_seg": 5.399566,
-      "diferencia_categoria_seg": 5.399566
+      "diferencia_categoria_seg": 5.399566,
+      "tiempos_vueltas": []
     },
     {
       "participante_id": 10,
@@ -99,7 +102,8 @@
       "puesto_general": null,
       "puesto_categoria": null,
       "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": []
     },
     {
       "participante_id": 11,
@@ -122,7 +126,8 @@
       "puesto_general": null,
       "puesto_categoria": null,
       "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": []
     },
     {
       "participante_id": 12,
@@ -145,10 +150,11 @@
       "puesto_general": null,
       "puesto_categoria": null,
       "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": []
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-28T22:51:45.845834+00:00"
+  "auto_persistido_en": "2026-09-28T23:01:18.172714+00:00"
 }
