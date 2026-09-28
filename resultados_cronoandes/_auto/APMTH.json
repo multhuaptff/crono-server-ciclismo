@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "dh",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-28T23:07:01.092413+00:00",
-  "server_time": "2026-09-28T23:07:00.904619+00:00",
+  "actualizado_en": "2026-09-28T23:28:45.837274+00:00",
+  "server_time": "2026-09-28T23:28:45.694187+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -156,5 +156,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-28T23:07:01.092400+00:00"
+  "auto_persistido_en": "2026-09-28T23:28:45.837260+00:00"
 }
