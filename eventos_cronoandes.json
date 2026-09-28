@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-28T14:48:23.930684+00:00",
+  "actualizado_en": "2026-09-28T14:48:26.744543+00:00",
   "eventos": {
     "qatiq-huertos-2026": {
       "event_code": "FKOOW",
@@ -20,11 +20,11 @@
       "slug": "carrera-mtb-2026",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "dh",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "DH",
+      "estado": "LIVE",
+      "server_url": "https://cities-rec-atlanta-dresses.trycloudflare.com",
       "creado_en": "2026-09-28T14:48:23.380996+00:00",
-      "actualizado_en": "2026-09-28T14:48:23.381021+00:00"
+      "actualizado_en": "2026-09-28T14:48:26.284494+00:00"
     }
   }
 }
