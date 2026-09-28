@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-27T18:05:30.041902+00:00",
+  "actualizado_en": "2026-09-28T14:48:23.930684+00:00",
   "eventos": {
     "qatiq-huertos-2026": {
       "event_code": "FKOOW",
@@ -13,6 +13,18 @@
       "server_url": "https://drawn-techrepublic-stake-recording.trycloudflare.com",
       "creado_en": "2026-09-27T17:08:09.231522+00:00",
       "actualizado_en": "2026-09-27T18:05:29.815077+00:00"
+    },
+    "carrera-mtb-2026": {
+      "event_code": "APMTH",
+      "nombre": "CARRERA MTB 2026",
+      "slug": "carrera-mtb-2026",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-09-28T14:48:23.380996+00:00",
+      "actualizado_en": "2026-09-28T14:48:23.381021+00:00"
     }
   }
 }
