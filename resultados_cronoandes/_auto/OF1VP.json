@@ -5,11 +5,87 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-29T02:43:52.324408+00:00",
-  "server_time": "2026-09-29T02:43:53.100779+00:00",
+  "actualizado_en": "2026-09-29T02:44:16.930245+00:00",
+  "server_time": "2026-09-29T02:44:17.706197+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [],
+  "resultados": [
+    {
+      "participante_id": 13,
+      "dorsal": "1",
+      "nombre": "BERGMAN MULTHUAPTFF SALCEDO",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-09-28T21:43:57.685542",
+      "llegada": "2026-09-28T21:44:17.509407",
+      "tiempo_total_seg": 19.823865,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 1.408137,
+      "ultima_vuelta_timestamp": "2026-09-28T21:44:17.509407",
+      "uuid_salida": null,
+      "uuid_llegada": "7d071e21-a65f-45c0-b4e1-589740fb0d6d",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 3.815402,
+          "timestamp": "2026-09-28T21:44:01.500944",
+          "evento_crono_uuid": "82771b76-02d1-460e-a0e9-1d1f9cb97478"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 7.359978,
+          "timestamp": "2026-09-28T21:44:08.860922",
+          "evento_crono_uuid": "70baddf6-9a94-446f-bc57-4c3738841125"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 2.6986,
+          "timestamp": "2026-09-28T21:44:11.559522",
+          "evento_crono_uuid": "9aa19ee6-007e-47df-956d-9a90472ab8e7"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 1.237741,
+          "timestamp": "2026-09-28T21:44:12.797263",
+          "evento_crono_uuid": "fa0d3e4e-9227-4777-bce0-e1123b561242"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.753,
+          "timestamp": "2026-09-28T21:44:14.550263",
+          "evento_crono_uuid": "b5a6ca14-21df-463d-9f0a-c61054be5c33"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 1.551007,
+          "timestamp": "2026-09-28T21:44:16.101270",
+          "evento_crono_uuid": "82efa50e-3d19-4a00-9355-2fcd255d0d3f"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 1.408137,
+          "timestamp": "2026-09-28T21:44:17.509407",
+          "evento_crono_uuid": "7d071e21-a65f-45c0-b4e1-589740fb0d6d"
+        }
+      ],
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        3.815402,
+        7.359978,
+        2.6986,
+        1.237741,
+        1.753,
+        1.551007,
+        1.408137
+      ]
+    }
+  ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-29T02:43:52.324396+00:00"
+  "auto_persistido_en": "2026-09-29T02:44:16.930233+00:00"
 }
