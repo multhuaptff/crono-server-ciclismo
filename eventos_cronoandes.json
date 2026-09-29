@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-28T21:53:09.890655+00:00",
+  "actualizado_en": "2026-09-29T02:43:50.418379+00:00",
   "eventos": {
     "qatiq-huertos-2026": {
       "event_code": "FKOOW",
@@ -25,6 +25,18 @@
       "server_url": "https://lease-mac-operational-precipitation.trycloudflare.com",
       "creado_en": "2026-09-28T21:53:09.344904+00:00",
       "actualizado_en": "2026-09-28T21:53:09.344926+00:00"
+    },
+    "berg": {
+      "event_code": "OF1VP",
+      "nombre": "BERG",
+      "slug": "berg",
+      "etapa_id": 3,
+      "etapa": 3,
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-09-29T02:43:50.033244+00:00",
+      "actualizado_en": "2026-09-29T02:43:50.033264+00:00"
     }
   }
 }
