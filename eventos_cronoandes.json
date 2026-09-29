@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-29T03:15:21.165790+00:00",
+  "actualizado_en": "2026-09-29T03:15:23.537494+00:00",
   "eventos": {
-    "carrera-mtb-2026": {
-      "event_code": "APMTH",
-      "nombre": "CARRERA MTB 2026",
-      "slug": "carrera-mtb-2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://lease-mac-operational-precipitation.trycloudflare.com",
-      "creado_en": "2026-09-28T21:53:09.344904+00:00",
-      "actualizado_en": "2026-09-28T21:53:09.344926+00:00"
-    },
     "berg": {
       "event_code": "OF1VP",
       "nombre": "BERG",
