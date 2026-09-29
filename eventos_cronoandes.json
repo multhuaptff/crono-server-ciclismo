@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-29T22:01:09.802547+00:00",
+  "actualizado_en": "2026-09-29T22:01:11.603345+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -8,11 +8,11 @@
       "slug": "berg",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "xco",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://printing-supplemental-allan-geographical.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:44.738408+00:00",
-      "actualizado_en": "2026-09-29T22:01:06.878085+00:00"
+      "actualizado_en": "2026-09-29T22:01:11.345849+00:00"
     },
     "carrera-mtb-2026": {
       "event_code": "APMTH",
