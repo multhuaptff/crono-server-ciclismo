@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-29T02:52:31.304130+00:00",
-  "server_time": "2026-09-29T02:52:32.089821+00:00",
+  "actualizado_en": "2026-09-29T21:22:47.033888+00:00",
+  "server_time": "2026-09-29T21:22:48.659213+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -24,7 +24,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": 1.408137,
       "ultima_vuelta_timestamp": "2026-09-28T21:44:17.509407",
-      "uuid_salida": null,
+      "uuid_salida": "16724cc4-14d7-4aaa-bdb0-80ac8147aa35",
       "uuid_llegada": "7d071e21-a65f-45c0-b4e1-589740fb0d6d",
       "vueltas": [
         {
@@ -99,7 +99,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": 2.016948,
       "ultima_vuelta_timestamp": "2026-09-28T21:52:31.615032",
-      "uuid_salida": null,
+      "uuid_salida": "dc9aa489-a4a9-40ff-b5e4-1a2aecbc8d94",
       "uuid_llegada": "272da75c-217f-4391-9674-1b1f5aa77522",
       "vueltas": [
         {
@@ -148,5 +148,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-29T02:52:31.304117+00:00"
+  "auto_persistido_en": "2026-09-29T21:22:47.033880+00:00"
 }
