@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-29T22:01:11.603345+00:00",
+  "actualizado_en": "2026-09-29T22:04:40.090485+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -22,9 +22,9 @@
       "etapa": 1,
       "modalidad": "DH",
       "estado": "LIVE",
-      "server_url": "https://printing-supplemental-allan-geographical.trycloudflare.com",
+      "server_url": "https://publisher-manufacturers-kerry-lakes.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:46.575396+00:00",
-      "actualizado_en": "2026-09-29T22:01:09.538283+00:00"
+      "actualizado_en": "2026-09-29T22:04:39.174368+00:00"
     }
   }
 }
