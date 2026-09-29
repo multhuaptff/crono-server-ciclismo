@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-29T03:15:23.537494+00:00",
-  "eventos": {
-    "berg": {
-      "event_code": "OF1VP",
-      "nombre": "BERG",
-      "slug": "berg",
-      "etapa_id": 3,
-      "etapa": 3,
-      "modalidad": "xco",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
-      "creado_en": "2026-09-29T02:43:50.033244+00:00",
-      "actualizado_en": "2026-09-29T02:43:50.033264+00:00"
-    }
-  }
+  "actualizado_en": "2026-09-29T03:18:59.062190+00:00",
+  "eventos": {}
 }
