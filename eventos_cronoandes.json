@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-30T22:14:03.100917+00:00",
+  "actualizado_en": "2026-09-30T22:14:05.639222+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -8,11 +8,11 @@
       "slug": "berg",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "xco",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://cooper-hampshire-morning-ultra.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:44.738408+00:00",
-      "actualizado_en": "2026-09-30T22:14:02.701513+00:00"
+      "actualizado_en": "2026-09-30T22:14:05.100088+00:00"
     },
     "carrera-mtb-2026": {
       "event_code": "APMTH",
