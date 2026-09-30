@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-30T01:32:18.771678+00:00",
+  "actualizado_en": "2026-09-30T01:47:16.040009+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -8,11 +8,11 @@
       "slug": "berg",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "XCO",
-      "estado": "LIVE",
-      "server_url": "https://betty-pens-cream-sentences.trycloudflare.com",
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-09-29T21:22:44.738408+00:00",
-      "actualizado_en": "2026-09-30T01:32:17.532759+00:00"
+      "actualizado_en": "2026-09-30T01:47:15.659045+00:00"
     },
     "carrera-mtb-2026": {
       "event_code": "APMTH",
