@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-29T21:22:47.033888+00:00",
-  "server_time": "2026-09-29T21:22:48.659213+00:00",
+  "actualizado_en": "2026-09-30T01:32:15.346368+00:00",
+  "server_time": "2026-09-30T01:32:15.698089+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -148,5 +148,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-29T21:22:47.033880+00:00"
+  "auto_persistido_en": "2026-09-30T01:32:15.346352+00:00"
 }
