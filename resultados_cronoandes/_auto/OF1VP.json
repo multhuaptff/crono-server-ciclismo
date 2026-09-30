@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-30T01:32:48.337365+00:00",
-  "server_time": "2026-09-30T01:32:48.687076+00:00",
+  "actualizado_en": "2026-09-30T01:47:36.424829+00:00",
+  "server_time": "2026-09-30T01:47:36.777991+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -219,9 +219,84 @@
         1.768699,
         2.222907
       ]
+    },
+    {
+      "participante_id": 15,
+      "dorsal": "3",
+      "nombre": "SAYUMI M Z.",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-09-28T21:43:57.685542",
+      "llegada": "2026-09-29T20:47:30.493345",
+      "tiempo_total_seg": 83012.80780299999,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 15.380636,
+      "ultima_vuelta_timestamp": "2026-09-29T20:47:30.493345",
+      "uuid_salida": "8d89ddd3-9ca8-441e-9610-67d8b47d858c",
+      "uuid_llegada": "df3e686d-d976-4df7-9300-853528a3fdf2",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 82986.987642,
+          "timestamp": "2026-09-29T20:47:04.673184",
+          "evento_crono_uuid": "c247531a-caf3-42d6-ad8b-2591c78160c3"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 1.752933,
+          "timestamp": "2026-09-29T20:47:06.426117",
+          "evento_crono_uuid": "2064dd97-7a9f-48d6-917a-d9bf4b379bc3"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.014524,
+          "timestamp": "2026-09-29T20:47:09.440641",
+          "evento_crono_uuid": "3d8e8bfa-286c-4265-9a0a-82b492504f1e"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 1.838356,
+          "timestamp": "2026-09-29T20:47:11.278997",
+          "evento_crono_uuid": "8259288a-4d42-462b-a293-868db1dfee54"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.273831,
+          "timestamp": "2026-09-29T20:47:13.552828",
+          "evento_crono_uuid": "85fe4df3-59ca-475d-ac24-9376126b8d0e"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 1.559881,
+          "timestamp": "2026-09-29T20:47:15.112709",
+          "evento_crono_uuid": "818f4e82-265a-491c-890f-55a61ce863f7"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 15.380636,
+          "timestamp": "2026-09-29T20:47:30.493345",
+          "evento_crono_uuid": "df3e686d-d976-4df7-9300-853528a3fdf2"
+        }
+      ],
+      "puesto_general": 4,
+      "puesto_categoria": 3,
+      "diferencia_general_seg": 82992.98393799999,
+      "diferencia_categoria_seg": 82992.98393799999,
+      "tiempos_vueltas": [
+        82986.987642,
+        1.752933,
+        3.014524,
+        1.838356,
+        2.273831,
+        1.559881,
+        15.380636
+      ]
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-30T01:32:48.337351+00:00"
+  "auto_persistido_en": "2026-09-30T01:47:36.424816+00:00"
 }
