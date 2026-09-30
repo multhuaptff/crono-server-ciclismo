@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-30T01:32:15.346368+00:00",
-  "server_time": "2026-09-30T01:32:15.698089+00:00",
+  "actualizado_en": "2026-09-30T01:32:48.337365+00:00",
+  "server_time": "2026-09-30T01:32:48.687076+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -144,9 +144,84 @@
         1.063519,
         2.016948
       ]
+    },
+    {
+      "participante_id": 14,
+      "dorsal": "2",
+      "nombre": "RINA ZANABRIA CARRASCO",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-09-28T21:43:57.685542",
+      "llegada": "2026-09-29T20:32:47.872304",
+      "tiempo_total_seg": 82130.186762,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 2.222907,
+      "ultima_vuelta_timestamp": "2026-09-29T20:32:47.872304",
+      "uuid_salida": "1d013187-d08f-4071-9d8d-26ab8e4cc6ea",
+      "uuid_llegada": "babfc252-5a88-48f8-99c6-0fc8eeeea68e",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 82119.809014,
+          "timestamp": "2026-09-29T20:32:37.494556",
+          "evento_crono_uuid": "189fa7b6-f38b-4337-a49e-0fc7a927c2b9"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 1.346732,
+          "timestamp": "2026-09-29T20:32:38.841288",
+          "evento_crono_uuid": "594badf6-b750-466e-aa6b-58f08f2ef076"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 1.92257,
+          "timestamp": "2026-09-29T20:32:40.763858",
+          "evento_crono_uuid": "b37b5127-87d6-438c-aa13-f8c9856e86cb"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 1.72616,
+          "timestamp": "2026-09-29T20:32:42.490018",
+          "evento_crono_uuid": "9e3c35cf-3e9b-4dec-8ce7-20fdb98af862"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.39068,
+          "timestamp": "2026-09-29T20:32:43.880698",
+          "evento_crono_uuid": "73d6cbff-bda6-4f6d-9425-8836d66dda87"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 1.768699,
+          "timestamp": "2026-09-29T20:32:45.649397",
+          "evento_crono_uuid": "672676de-a2dc-41fa-9f48-6684f9210af2"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 2.222907,
+          "timestamp": "2026-09-29T20:32:47.872304",
+          "evento_crono_uuid": "babfc252-5a88-48f8-99c6-0fc8eeeea68e"
+        }
+      ],
+      "puesto_general": 3,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 82110.362897,
+      "diferencia_categoria_seg": 82110.362897,
+      "tiempos_vueltas": [
+        82119.809014,
+        1.346732,
+        1.92257,
+        1.72616,
+        1.39068,
+        1.768699,
+        2.222907
+      ]
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-30T01:32:15.346352+00:00"
+  "auto_persistido_en": "2026-09-30T01:32:48.337351+00:00"
 }
