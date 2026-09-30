@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-30T01:32:12.848310+00:00",
+  "actualizado_en": "2026-09-30T01:32:15.351674+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -22,9 +22,9 @@
       "etapa": 1,
       "modalidad": "DH",
       "estado": "LIVE",
-      "server_url": "https://publisher-manufacturers-kerry-lakes.trycloudflare.com",
+      "server_url": "https://betty-pens-cream-sentences.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:46.575396+00:00",
-      "actualizado_en": "2026-09-29T22:04:39.174368+00:00"
+      "actualizado_en": "2026-09-30T01:32:14.834561+00:00"
     }
   }
 }
