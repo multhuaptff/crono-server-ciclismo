@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-30T01:47:20.457485+00:00",
+  "actualizado_en": "2026-09-30T22:14:00.976978+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -22,9 +22,9 @@
       "etapa": 1,
       "modalidad": "DH",
       "estado": "LIVE",
-      "server_url": "https://horn-view-proceeds-chief.trycloudflare.com",
+      "server_url": "https://cooper-hampshire-morning-ultra.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:46.575396+00:00",
-      "actualizado_en": "2026-09-30T01:47:17.699416+00:00"
+      "actualizado_en": "2026-09-30T22:14:00.588939+00:00"
     }
   }
 }
