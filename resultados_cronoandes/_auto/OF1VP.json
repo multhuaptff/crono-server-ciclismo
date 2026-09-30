@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-09-30T22:14:25.597782+00:00",
-  "server_time": "2026-09-30T22:14:25.588166+00:00",
+  "actualizado_en": "2026-09-30T22:15:48.000513+00:00",
+  "server_time": "2026-09-30T22:15:47.962203+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -369,9 +369,70 @@
         1.335134,
         1.197554
       ]
+    },
+    {
+      "participante_id": 17,
+      "dorsal": "5",
+      "nombre": "CARLOS",
+      "categoria": "MASTER",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-09-28T21:43:57.685542",
+      "llegada": "2026-09-30T17:15:47.185492",
+      "tiempo_total_seg": 156709.49995,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 1.081957,
+      "ultima_vuelta_timestamp": "2026-09-30T17:15:47.185492",
+      "uuid_salida": "89490d5e-f479-4985-825b-fc672fabe503",
+      "uuid_llegada": "0293ba9f-1aa2-483f-ae95-900307e0dc8a",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 156701.911178,
+          "timestamp": "2026-09-30T17:15:39.596720",
+          "evento_crono_uuid": "58e59a56-e0a9-43f3-b8b8-9beb8071929f"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 1.633461,
+          "timestamp": "2026-09-30T17:15:41.230181",
+          "evento_crono_uuid": "4552dec8-4d87-44a2-bdeb-dbe42f7a6473"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.012041,
+          "timestamp": "2026-09-30T17:15:44.242222",
+          "evento_crono_uuid": "8e1aa2e6-57e6-4053-92a0-2c376a3251f2"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 1.861313,
+          "timestamp": "2026-09-30T17:15:46.103535",
+          "evento_crono_uuid": "ffd81cfc-5784-40c2-aa53-90aa979f6934"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.081957,
+          "timestamp": "2026-09-30T17:15:47.185492",
+          "evento_crono_uuid": "0293ba9f-1aa2-483f-ae95-900307e0dc8a"
+        }
+      ],
+      "puesto_general": 6,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 156689.67608499998,
+      "diferencia_categoria_seg": 156195.57046,
+      "tiempos_vueltas": [
+        156701.911178,
+        1.633461,
+        3.012041,
+        1.861313,
+        1.081957
+      ]
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-09-30T22:14:25.597765+00:00"
+  "auto_persistido_en": "2026-09-30T22:15:48.000498+00:00"
 }
