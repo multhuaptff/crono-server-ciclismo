@@ -1,5 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-01T21:25:11.291821+00:00",
-  "eventos": {}
+  "actualizado_en": "2026-10-01T23:18:50.573576+00:00",
+  "eventos": {
+    "prueba-1": {
+      "event_code": "JKI6R",
+      "nombre": "PRUEBA 1",
+      "slug": "prueba-1",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-01T23:18:50.072889+00:00",
+      "actualizado_en": "2026-10-01T23:18:50.072903+00:00"
+    }
+  }
 }
