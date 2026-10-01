@@ -1,0 +1,15 @@
+{
+  "status": "auto_persisted",
+  "event_code": "JKI6R",
+  "evento_id": 1,
+  "etapa_id": 1,
+  "modalidad": "xco",
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-01T23:18:52.607099+00:00",
+  "server_time": "2026-10-01T23:18:52.459242+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-01T23:18:52.607086+00:00"
+}
