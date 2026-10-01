@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-09-30T22:14:05.639222+00:00",
+  "actualizado_en": "2026-10-01T21:25:09.317072+00:00",
   "eventos": {
     "berg": {
       "event_code": "OF1VP",
@@ -13,18 +13,6 @@
       "server_url": "https://cooper-hampshire-morning-ultra.trycloudflare.com",
       "creado_en": "2026-09-29T21:22:44.738408+00:00",
       "actualizado_en": "2026-09-30T22:14:05.100088+00:00"
-    },
-    "carrera-mtb-2026": {
-      "event_code": "APMTH",
-      "nombre": "CARRERA MTB 2026",
-      "slug": "carrera-mtb-2026",
-      "etapa_id": 1,
-      "etapa": 1,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://cooper-hampshire-morning-ultra.trycloudflare.com",
-      "creado_en": "2026-09-29T21:22:46.575396+00:00",
-      "actualizado_en": "2026-09-30T22:14:00.588939+00:00"
     }
   }
 }
