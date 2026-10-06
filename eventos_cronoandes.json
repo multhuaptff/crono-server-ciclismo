@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-06T14:27:57.367052+00:00",
+  "actualizado_en": "2026-10-06T14:29:06.312429+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -25,6 +25,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-06T14:27:57.061190+00:00",
       "actualizado_en": "2026-10-06T14:27:57.061224+00:00"
+    },
+    "carrera-mtb-2027": {
+      "event_code": "UJ6VZ",
+      "nombre": "CARRERA MTB 2027",
+      "slug": "carrera-mtb-2027",
+      "etapa_id": 4,
+      "etapa": 4,
+      "modalidad": "xco",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-06T14:29:05.860635+00:00",
+      "actualizado_en": "2026-10-06T14:29:05.860655+00:00"
     }
   }
 }
