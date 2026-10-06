@@ -5,11 +5,136 @@
   "etapa_id": 4,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-06T14:29:08.578800+00:00",
-  "server_time": "2026-10-06T14:29:08.242387+00:00",
+  "actualizado_en": "2026-10-06T14:29:44.789902+00:00",
+  "server_time": "2026-10-06T14:29:44.450833+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [],
+  "resultados": [
+    {
+      "participante_id": 11,
+      "rfid": "000000000000000000000717",
+      "dorsal": "5",
+      "nombre": "CARLOS",
+      "categoria": "MASTER",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:41.475109",
+      "tiempo_total_seg": 33.319738,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 2.075042,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:41.475109",
+      "uuid_salida": null,
+      "uuid_llegada": "d2373fd6-d45e-4709-9eb0-41a3a7e935cb",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 20.124072,
+          "timestamp": "2026-10-06T09:29:28.279443",
+          "evento_crono_uuid": "8bc78615-e7ac-4836-9628-57abc3fbd509"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 4.480493,
+          "timestamp": "2026-10-06T09:29:32.759936",
+          "evento_crono_uuid": "0e162495-6a23-4786-9abe-2bd11b4047a5"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.168158,
+          "timestamp": "2026-10-06T09:29:35.928094",
+          "evento_crono_uuid": "a274d44c-1b3e-488c-8b02-127fce2fd16b"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 3.471973,
+          "timestamp": "2026-10-06T09:29:39.400067",
+          "evento_crono_uuid": "d389568f-9b87-4b32-9dea-06df580793a0"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.075042,
+          "timestamp": "2026-10-06T09:29:41.475109",
+          "evento_crono_uuid": "d2373fd6-d45e-4709-9eb0-41a3a7e935cb"
+        }
+      ],
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        20.124072,
+        4.480493,
+        3.168158,
+        3.471973,
+        2.075042
+      ]
+    },
+    {
+      "participante_id": 12,
+      "rfid": "E20000152605017126600D25",
+      "dorsal": "6",
+      "nombre": "CINTIA",
+      "categoria": "MASTER",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:44.080197",
+      "tiempo_total_seg": 35.924826,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 1.247962,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:44.080197",
+      "uuid_salida": null,
+      "uuid_llegada": "7177e073-bb60-4cf5-b784-21c59733ca34",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 21.252132,
+          "timestamp": "2026-10-06T09:29:29.407503",
+          "evento_crono_uuid": "29ca9aad-0532-431c-85ca-37cbc7bd2562"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 3.856868,
+          "timestamp": "2026-10-06T09:29:33.264371",
+          "evento_crono_uuid": "7e2f26c4-2e86-4305-88a7-e59e8ef4f78b"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.039365,
+          "timestamp": "2026-10-06T09:29:36.303736",
+          "evento_crono_uuid": "26958eae-f096-47b8-8896-a67346f0fece"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 6.528499,
+          "timestamp": "2026-10-06T09:29:42.832235",
+          "evento_crono_uuid": "c4e85a7f-3d5c-44e2-bd15-1d8ffafdd4ae"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.247962,
+          "timestamp": "2026-10-06T09:29:44.080197",
+          "evento_crono_uuid": "7177e073-bb60-4cf5-b784-21c59733ca34"
+        }
+      ],
+      "puesto_general": 2,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 2.605088000000002,
+      "diferencia_categoria_seg": 2.605088000000002,
+      "tiempos_vueltas": [
+        21.252132,
+        3.856868,
+        3.039365,
+        6.528499,
+        1.247962
+      ]
+    }
+  ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-06T14:29:08.578783+00:00"
+  "auto_persistido_en": "2026-10-06T14:29:44.789886+00:00"
 }
