@@ -5,8 +5,8 @@
   "etapa_id": 4,
   "modalidad": "xco",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-06T14:29:44.789902+00:00",
-  "server_time": "2026-10-06T14:29:44.450833+00:00",
+  "actualizado_en": "2026-10-06T14:29:58.357451+00:00",
+  "server_time": "2026-10-06T14:29:58.017900+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -132,9 +132,313 @@
         6.528499,
         1.247962
       ]
+    },
+    {
+      "participante_id": 9,
+      "rfid": "000000000000000000000711",
+      "dorsal": "3",
+      "nombre": "SAYUMI M Z.",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:47.736313",
+      "tiempo_total_seg": 39.580942,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 1.615789,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:47.736313",
+      "uuid_salida": null,
+      "uuid_llegada": "e7332808-bcfd-4ad5-a1d5-489ea8927dda",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 19.052602,
+          "timestamp": "2026-10-06T09:29:27.207973",
+          "evento_crono_uuid": "c71e29ad-d2b2-4120-807d-d8fb9c38592a"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 3.99189,
+          "timestamp": "2026-10-06T09:29:31.199863",
+          "evento_crono_uuid": "b4719d3f-b58f-43af-ac70-ccbe57514282"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.880263,
+          "timestamp": "2026-10-06T09:29:35.080126",
+          "evento_crono_uuid": "0d5b842e-cecc-4c6e-9494-835c82550f46"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 3.416016,
+          "timestamp": "2026-10-06T09:29:38.496142",
+          "evento_crono_uuid": "cfa09c65-1112-4245-8aa1-d1624b7e072c"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.90734,
+          "timestamp": "2026-10-06T09:29:40.403482",
+          "evento_crono_uuid": "268d9249-978a-43f5-abcd-a1a818f6c7a8"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 5.717042,
+          "timestamp": "2026-10-06T09:29:46.120524",
+          "evento_crono_uuid": "fcfa2421-8bfb-4bb0-a358-ceede8c89d91"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 1.615789,
+          "timestamp": "2026-10-06T09:29:47.736313",
+          "evento_crono_uuid": "e7332808-bcfd-4ad5-a1d5-489ea8927dda"
+        }
+      ],
+      "puesto_general": 3,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 6.261203999999999,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        19.052602,
+        3.99189,
+        3.880263,
+        3.416016,
+        1.90734,
+        5.717042,
+        1.615789
+      ]
+    },
+    {
+      "participante_id": 8,
+      "rfid": "000000000000000000000706",
+      "dorsal": "2",
+      "nombre": "RINA ZANABRIA CARRASCO",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:48.377149",
+      "tiempo_total_seg": 40.221778,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 3.600472,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:48.377149",
+      "uuid_salida": null,
+      "uuid_llegada": "715b6b9c-568e-4dda-aeea-5e92f4ed3195",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 18.500296,
+          "timestamp": "2026-10-06T09:29:26.655667",
+          "evento_crono_uuid": "e5c5cc3c-0954-4ee8-8b46-d535ce8af4ab"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 3.944142,
+          "timestamp": "2026-10-06T09:29:30.599809",
+          "evento_crono_uuid": "f27e6c7b-e355-4092-91e4-d5fb2b8d38eb"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 4.080224,
+          "timestamp": "2026-10-06T09:29:34.680033",
+          "evento_crono_uuid": "551be27c-87c3-4120-b827-668cfae7262b"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 2.848458,
+          "timestamp": "2026-10-06T09:29:37.528491",
+          "evento_crono_uuid": "5d3b6094-4e31-4f19-91b9-a228992185ec"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.455507,
+          "timestamp": "2026-10-06T09:29:39.983998",
+          "evento_crono_uuid": "80c12cd8-4a55-46ee-a601-117eb1ea42e7"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 4.792679,
+          "timestamp": "2026-10-06T09:29:44.776677",
+          "evento_crono_uuid": "d3c75454-db04-45b7-96ef-540f031fdec6"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 3.600472,
+          "timestamp": "2026-10-06T09:29:48.377149",
+          "evento_crono_uuid": "715b6b9c-568e-4dda-aeea-5e92f4ed3195"
+        }
+      ],
+      "puesto_general": 4,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 6.9020399999999995,
+      "diferencia_categoria_seg": 0.6408360000000002,
+      "tiempos_vueltas": [
+        18.500296,
+        3.944142,
+        4.080224,
+        2.848458,
+        2.455507,
+        4.792679,
+        3.600472
+      ]
+    },
+    {
+      "participante_id": 7,
+      "rfid": "000000000000000000000704",
+      "dorsal": "1",
+      "nombre": "BERGMAN MULTHUAPTFF SALCEDO",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:49.008466",
+      "tiempo_total_seg": 40.853094999999996,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 3.568168,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:49.008466",
+      "uuid_salida": null,
+      "uuid_llegada": "51a2ffbb-42d6-4c97-b38a-ddffd4646ffb",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 5.758098,
+          "timestamp": "2026-10-06T09:29:13.913469",
+          "evento_crono_uuid": "9808d01e-0710-4bbb-b4a3-1a0f5537c57b"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 11.63838,
+          "timestamp": "2026-10-06T09:29:25.551849",
+          "evento_crono_uuid": "2018f67d-6910-44fe-97f6-df4abf3048ba"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 4.495825,
+          "timestamp": "2026-10-06T09:29:30.047674",
+          "evento_crono_uuid": "97fac77d-ef24-40b5-9faf-1087971bd08a"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 4.26302,
+          "timestamp": "2026-10-06T09:29:34.310694",
+          "evento_crono_uuid": "d721c2c5-9b60-4165-839f-aa22a8e1bbe6"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.817585,
+          "timestamp": "2026-10-06T09:29:37.128279",
+          "evento_crono_uuid": "6bab732f-2c51-4d35-8b81-13589dc279d5"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 8.312019,
+          "timestamp": "2026-10-06T09:29:45.440298",
+          "evento_crono_uuid": "a27075f1-8967-4600-be56-a990d9f347ed"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 3.568168,
+          "timestamp": "2026-10-06T09:29:49.008466",
+          "evento_crono_uuid": "51a2ffbb-42d6-4c97-b38a-ddffd4646ffb"
+        }
+      ],
+      "puesto_general": 5,
+      "puesto_categoria": 3,
+      "diferencia_general_seg": 7.533356999999995,
+      "diferencia_categoria_seg": 1.2721529999999959,
+      "tiempos_vueltas": [
+        5.758098,
+        11.63838,
+        4.495825,
+        4.26302,
+        2.817585,
+        8.312019,
+        3.568168
+      ]
+    },
+    {
+      "participante_id": 10,
+      "rfid": "",
+      "dorsal": "4",
+      "nombre": "BERGMITAN",
+      "categoria": "ELITE. (18 A 29)",
+      "club": "CUSCO",
+      "estado": "Finalizado",
+      "salida": "2026-10-06T09:29:08.155371",
+      "llegada": "2026-10-06T09:29:50.152460",
+      "tiempo_total_seg": 41.997089,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 7,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 3.424275,
+      "ultima_vuelta_timestamp": "2026-10-06T09:29:50.152460",
+      "uuid_salida": null,
+      "uuid_llegada": "1651d74b-99cf-4b9d-9270-322ebc5fe72a",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 19.590658,
+          "timestamp": "2026-10-06T09:29:27.746029",
+          "evento_crono_uuid": "f05029a9-84a1-434f-961e-2b9b8ecf052d"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 3.821864,
+          "timestamp": "2026-10-06T09:29:31.567893",
+          "evento_crono_uuid": "cbea0e09-4973-4840-a460-3e92c32e90b5"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.960075,
+          "timestamp": "2026-10-06T09:29:35.527968",
+          "evento_crono_uuid": "794cee53-8e5e-44f7-8fb4-88f0572d1510"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 3.367664,
+          "timestamp": "2026-10-06T09:29:38.895632",
+          "evento_crono_uuid": "d089a786-8471-4640-8c26-7b084591d72d"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 1.953171,
+          "timestamp": "2026-10-06T09:29:40.848803",
+          "evento_crono_uuid": "75bb3c8a-0e77-4ae3-9f02-64ddd4ea7c45"
+        },
+        {
+          "vuelta": 6,
+          "tiempo_seg": 5.879382,
+          "timestamp": "2026-10-06T09:29:46.728185",
+          "evento_crono_uuid": "a8c0efbd-33f6-43c1-b8cc-4773075fe2a5"
+        },
+        {
+          "vuelta": 7,
+          "tiempo_seg": 3.424275,
+          "timestamp": "2026-10-06T09:29:50.152460",
+          "evento_crono_uuid": "1651d74b-99cf-4b9d-9270-322ebc5fe72a"
+        }
+      ],
+      "puesto_general": 6,
+      "puesto_categoria": 4,
+      "diferencia_general_seg": 8.677351000000002,
+      "diferencia_categoria_seg": 2.4161470000000023,
+      "tiempos_vueltas": [
+        19.590658,
+        3.821864,
+        3.960075,
+        3.367664,
+        1.953171,
+        5.879382,
+        3.424275
+      ]
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-06T14:29:44.789886+00:00"
+  "auto_persistido_en": "2026-10-06T14:29:58.357437+00:00"
 }
