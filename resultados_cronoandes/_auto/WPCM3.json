@@ -1,0 +1,15 @@
+{
+  "status": "auto_persisted",
+  "event_code": "WPCM3",
+  "evento_id": 3,
+  "etapa_id": 6,
+  "modalidad": "dh",
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-06T14:30:20.089670+00:00",
+  "server_time": "2026-10-06T14:30:19.754922+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-06T14:30:20.089657+00:00"
+}
