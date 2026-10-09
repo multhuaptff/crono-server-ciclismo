@@ -5,8 +5,8 @@
   "etapa_id": 3,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-09T02:37:45.406229+00:00",
-  "server_time": "2026-10-09T02:37:45.093581+00:00",
+  "actualizado_en": "2026-10-09T02:42:09.856634+00:00",
+  "server_time": "2026-10-09T02:42:09.542855+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,15 +18,15 @@
       "club": "CUSCO",
       "estado": "Finalizado",
       "salida": "2026-10-08T21:37:30.085531",
-      "llegada": "2026-10-08T21:37:36.005802",
-      "tiempo_total_seg": 5.920271,
+      "llegada": "2026-10-08T21:37:36.285531",
+      "tiempo_total_seg": 6.2,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "49a84384-73cd-486f-b290-6e35c8ff28db",
-      "uuid_llegada": "097673e7-e920-4227-bd5d-5c2f3b0bfe2b",
+      "uuid_llegada": "456ef30f-d95d-408b-b4e5-63e51b5a510e",
       "vueltas": [],
       "puesto_general": 1,
       "puesto_categoria": 1,
@@ -55,8 +55,8 @@
       "vueltas": [],
       "puesto_general": 2,
       "puesto_categoria": 2,
-      "diferencia_general_seg": 0.9564070000000005,
-      "diferencia_categoria_seg": 0.9564070000000005,
+      "diferencia_general_seg": 0.6766779999999999,
+      "diferencia_categoria_seg": 0.6766779999999999,
       "tiempos_vueltas": []
     },
     {
@@ -80,8 +80,8 @@
       "vueltas": [],
       "puesto_general": 3,
       "puesto_categoria": 3,
-      "diferencia_general_seg": 2.1490039999999997,
-      "diferencia_categoria_seg": 2.1490039999999997,
+      "diferencia_general_seg": 1.8692749999999991,
+      "diferencia_categoria_seg": 1.8692749999999991,
       "tiempos_vueltas": []
     },
     {
@@ -105,8 +105,8 @@
       "vueltas": [],
       "puesto_general": 4,
       "puesto_categoria": 4,
-      "diferencia_general_seg": 3.2162710000000008,
-      "diferencia_categoria_seg": 3.2162710000000008,
+      "diferencia_general_seg": 2.936542,
+      "diferencia_categoria_seg": 2.936542,
       "tiempos_vueltas": []
     },
     {
@@ -130,7 +130,7 @@
       "vueltas": [],
       "puesto_general": 5,
       "puesto_categoria": 1,
-      "diferencia_general_seg": 3.8516250000000003,
+      "diferencia_general_seg": 3.5718959999999997,
       "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     },
@@ -155,12 +155,12 @@
       "vueltas": [],
       "puesto_general": 6,
       "puesto_categoria": 2,
-      "diferencia_general_seg": 4.800787,
+      "diferencia_general_seg": 4.521057999999999,
       "diferencia_categoria_seg": 0.9491619999999994,
       "tiempos_vueltas": []
     }
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-09T02:37:45.406214+00:00"
+  "auto_persistido_en": "2026-10-09T02:42:09.856619+00:00"
 }
