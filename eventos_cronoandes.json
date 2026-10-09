@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-09T01:27:19.915839+00:00",
+  "actualizado_en": "2026-10-09T02:35:48.208025+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -20,11 +20,11 @@
       "slug": "carrera-mtb-2026",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "enduro",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "ENDURO",
+      "estado": "LIVE",
+      "server_url": "https://loves-ventures-acceptance-parcel.trycloudflare.com",
       "creado_en": "2026-10-06T14:27:57.061190+00:00",
-      "actualizado_en": "2026-10-09T01:27:19.450409+00:00"
+      "actualizado_en": "2026-10-09T02:35:47.632217+00:00"
     },
     "carrera-mtb-2027": {
       "event_code": "UJ6VZ",
