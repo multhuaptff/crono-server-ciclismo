@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-10T12:45:51.003161+00:00",
+  "actualizado_en": "2026-10-10T23:58:51.125727+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -49,6 +49,18 @@
       "server_url": "https://con-entries-share-chip.trycloudflare.com",
       "creado_en": "2026-10-06T14:30:16.416658+00:00",
       "actualizado_en": "2026-10-06T19:55:33.540395+00:00"
+    },
+    "enduro": {
+      "event_code": "7BUOA",
+      "nombre": "ENDURO",
+      "slug": "enduro",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-10T23:58:50.565755+00:00",
+      "actualizado_en": "2026-10-10T23:58:50.565775+00:00"
     }
   }
 }
