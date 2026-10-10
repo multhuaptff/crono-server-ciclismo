@@ -5,11 +5,37 @@
   "etapa_id": 1,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-10T12:45:52.780246+00:00",
-  "server_time": "2026-10-10T12:45:52.236701+00:00",
+  "actualizado_en": "2026-10-10T12:46:21.449441+00:00",
+  "server_time": "2026-10-10T12:46:20.904494+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [],
+  "resultados": [
+    {
+      "participante_id": 1,
+      "rfid": "",
+      "dorsal": "3",
+      "nombre": "BERG",
+      "categoria": "asasd",
+      "club": "asd",
+      "estado": "DNF",
+      "salida": "2026-10-10T07:46:19.895740",
+      "llegada": null,
+      "tiempo_total_seg": null,
+      "vueltas_totales": 0,
+      "vueltas_completadas": 0,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": null,
+      "ultima_vuelta_timestamp": null,
+      "uuid_salida": "c1e42885-7ae3-4100-b708-d4f4435c435f",
+      "uuid_llegada": null,
+      "vueltas": [],
+      "puesto_general": null,
+      "puesto_categoria": null,
+      "diferencia_general_seg": null,
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": []
+    }
+  ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-10T12:45:52.780234+00:00"
+  "auto_persistido_en": "2026-10-10T12:46:21.449425+00:00"
 }
