@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-10T23:58:51.125727+00:00",
+  "actualizado_en": "2026-10-10T23:58:53.204267+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -56,11 +56,11 @@
       "slug": "enduro",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "enduro",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "ENDURO",
+      "estado": "LIVE",
+      "server_url": "https://bright-rose-cologne-contest.trycloudflare.com",
       "creado_en": "2026-10-10T23:58:50.565755+00:00",
-      "actualizado_en": "2026-10-10T23:58:50.565775+00:00"
+      "actualizado_en": "2026-10-10T23:58:52.786366+00:00"
     }
   }
 }
