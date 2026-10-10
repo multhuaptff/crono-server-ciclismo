@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-09T02:35:50.659108+00:00",
+  "actualizado_en": "2026-10-10T12:45:51.003161+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -18,13 +18,13 @@
       "event_code": "APMTH",
       "nombre": "CARRERA MTB 2026",
       "slug": "carrera-mtb-2026",
-      "etapa_id": 3,
-      "etapa": 3,
+      "etapa_id": 1,
+      "etapa": 1,
       "modalidad": "enduro",
       "estado": "en_vivo",
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-06T14:27:57.061190+00:00",
-      "actualizado_en": "2026-10-09T02:35:50.224361+00:00"
+      "actualizado_en": "2026-10-10T12:45:50.683894+00:00"
     },
     "carrera-mtb-2027": {
       "event_code": "UJ6VZ",
