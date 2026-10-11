@@ -1,0 +1,17 @@
+{
+  "status": "auto_persisted",
+  "event_code": "MMPU0",
+  "evento_id": 2,
+  "etapa_id": 6,
+  "modalidad": "dh",
+  "resultado_scope": "evento_individual",
+  "etapas_totales": 1,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-11T17:58:49.055924+00:00",
+  "server_time": "2026-10-11T17:58:49.406952+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-11T17:58:49.055908+00:00"
+}
