@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-11T13:10:37.033269+00:00",
-  "server_time": "2026-10-11T13:10:37.242137+00:00",
+  "actualizado_en": "2026-10-11T13:11:56.701382+00:00",
+  "server_time": "2026-10-11T13:11:56.908238+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -93,15 +93,15 @@
       "club": "KALLPA QOSQO",
       "estado": "Pendiente",
       "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
+      "llegada": "2026-10-11T08:11:32.985202",
+      "tiempo_total_seg": 32.0,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "a48494be-0320-43de-a5f1-3cbcad3f11e8",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -237,5 +237,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-11T13:10:37.030899+00:00"
+  "auto_persistido_en": "2026-10-11T13:11:56.701365+00:00"
 }
