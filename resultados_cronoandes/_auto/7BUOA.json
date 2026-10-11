@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-11T13:14:00.039901+00:00",
-  "server_time": "2026-10-11T13:14:00.238175+00:00",
+  "actualizado_en": "2026-10-11T13:14:25.000152+00:00",
+  "server_time": "2026-10-11T13:14:25.198604+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -168,15 +168,15 @@
       "club": "DOWHILLCUSCO",
       "estado": "Pendiente",
       "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
+      "llegada": "2026-10-11T08:14:21.719782",
+      "tiempo_total_seg": 21.0,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "918961ae-6662-4daf-ba1a-585b6eaab62f",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -237,5 +237,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-11T13:14:00.038836+00:00"
+  "auto_persistido_en": "2026-10-11T13:14:25.000138+00:00"
 }
