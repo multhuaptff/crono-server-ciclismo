@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-11T17:58:46.909797+00:00",
+  "actualizado_en": "2026-10-11T21:27:39.839425+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -85,6 +85,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-11T17:58:46.497051+00:00",
       "actualizado_en": "2026-10-11T17:58:46.497073+00:00"
+    },
+    "dh-berg": {
+      "event_code": "WJ7N5",
+      "nombre": "DH  BERG",
+      "slug": "dh-berg",
+      "etapa_id": 8,
+      "etapa": 8,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-11T21:27:39.357620+00:00",
+      "actualizado_en": "2026-10-11T21:27:39.357641+00:00"
     }
   }
 }
