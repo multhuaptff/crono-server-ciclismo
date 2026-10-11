@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-11T03:41:17.386278+00:00",
-  "server_time": "2026-10-11T03:41:16.781339+00:00",
+  "actualizado_en": "2026-10-11T03:41:32.467694+00:00",
+  "server_time": "2026-10-11T03:41:32.282705+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -591,9 +591,9 @@
       "nombre": "VICTOR HUGO",
       "categoria": "ELITE DOBLES",
       "club": "SIN CATEGORIA",
-      "estado": "DNF",
+      "estado": "Finalizado",
       "salida": "2026-10-10T22:41:00.158646",
-      "llegada": null,
+      "llegada": "2026-10-10T22:41:17.273193",
       "tiempo_total_seg": null,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
@@ -601,7 +601,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "4d9c5f59-62fb-454f-9406-e4db0c96e728",
-      "uuid_llegada": null,
+      "uuid_llegada": "79be15ec-a7aa-465b-a661-43bd94bc3a85",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -787,5 +787,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-11T03:41:17.386263+00:00"
+  "auto_persistido_en": "2026-10-11T03:41:32.467676+00:00"
 }
