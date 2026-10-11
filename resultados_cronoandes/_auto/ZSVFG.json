@@ -5,8 +5,8 @@
   "etapa_id": 1,
   "modalidad": "enduro",
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-11T12:33:42.021162+00:00",
-  "server_time": "2026-10-11T12:33:42.427002+00:00",
+  "actualizado_en": "2026-10-11T12:33:55.104417+00:00",
+  "server_time": "2026-10-11T12:33:55.507304+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -43,15 +43,15 @@
       "club": "TEAM BICUSCO",
       "estado": "Pendiente",
       "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
+      "llegada": "2026-10-11T07:33:51.543214",
+      "tiempo_total_seg": 51.0,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "9a268e89-8d3a-4ece-83db-c07f4ab4ddc9",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -237,5 +237,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-11T12:33:42.021145+00:00"
+  "auto_persistido_en": "2026-10-11T12:33:55.104403+00:00"
 }
