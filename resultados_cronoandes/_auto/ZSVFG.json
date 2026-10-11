@@ -1,0 +1,15 @@
+{
+  "status": "auto_persisted",
+  "event_code": "ZSVFG",
+  "evento_id": 1,
+  "etapa_id": 1,
+  "modalidad": "enduro",
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-11T12:28:07.395351+00:00",
+  "server_time": "2026-10-11T12:28:07.846167+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-11T12:28:07.395335+00:00"
+}
