@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-10T23:58:53.204267+00:00",
+  "actualizado_en": "2026-10-11T03:32:52.147617+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -58,9 +58,9 @@
       "etapa": 1,
       "modalidad": "ENDURO",
       "estado": "LIVE",
-      "server_url": "https://bright-rose-cologne-contest.trycloudflare.com",
+      "server_url": "https://pos-includes-significant-identification.trycloudflare.com",
       "creado_en": "2026-10-10T23:58:50.565755+00:00",
-      "actualizado_en": "2026-10-10T23:58:52.786366+00:00"
+      "actualizado_en": "2026-10-11T03:32:51.776424+00:00"
     }
   }
 }
