@@ -6,9 +6,9 @@
   "modalidad": "estampida",
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T15:52:49.833879+00:00",
-  "server_time": "2026-10-12T15:52:49.788210+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-12T15:52:55.318806+00:00",
+  "server_time": "2026-10-12T15:52:54.979631+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -136,5 +136,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T15:52:49.833864+00:00"
+  "auto_persistido_en": "2026-10-12T15:52:55.318792+00:00"
 }
