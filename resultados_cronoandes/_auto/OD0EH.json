@@ -1,0 +1,19 @@
+{
+  "status": "auto_persisted",
+  "event_code": "OD0EH",
+  "evento_id": 1,
+  "etapa_id": 1,
+  "modalidad": "estampida",
+  "resultado_scope": "evento_individual",
+  "etapas_totales": 1,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-12T16:46:54.578652+00:00",
+  "server_time": "2026-10-12T16:46:54.601722+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "destino_publicacion": "resultados_evento",
+  "multi_stage": false,
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-12T16:46:54.578636+00:00"
+}
