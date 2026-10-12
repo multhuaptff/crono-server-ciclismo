@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-12T01:38:13.738873+00:00",
+  "actualizado_en": "2026-10-12T01:50:28.676637+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -92,11 +92,11 @@
       "slug": "dh-berg",
       "etapa_id": 12,
       "etapa": 12,
-      "modalidad": "dh",
-      "estado": "en_vivo",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "modalidad": "DH",
+      "estado": "LIVE",
+      "server_url": "https://girlfriend-enb-sanyo-instantly.trycloudflare.com",
       "creado_en": "2026-10-11T21:27:39.357620+00:00",
-      "actualizado_en": "2026-10-12T01:38:13.164535+00:00"
+      "actualizado_en": "2026-10-12T01:50:28.311244+00:00"
     }
   }
 }
