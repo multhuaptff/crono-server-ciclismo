@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-12T14:36:42.488677+00:00",
+  "actualizado_en": "2026-10-12T14:36:45.024968+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -80,11 +80,11 @@
       "slug": "berg-dh",
       "etapa_id": 13,
       "etapa": 13,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://dial-hook-extends-department.trycloudflare.com",
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-11T17:58:46.497051+00:00",
-      "actualizado_en": "2026-10-12T14:36:41.850947+00:00"
+      "actualizado_en": "2026-10-12T14:36:44.221028+00:00"
     },
     "dh-berg": {
       "event_code": "WJ7N5",
