@@ -2,13 +2,13 @@
   "status": "auto_persisted",
   "event_code": "MMPU0",
   "evento_id": 4,
-  "etapa_id": 15,
+  "etapa_id": 13,
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
-  "estado_evento": "finalizado",
-  "actualizado_en": "2026-10-12T14:26:06.196766+00:00",
-  "server_time": "2026-10-12T14:26:06.041890+00:00",
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-12T14:36:34.530538+00:00",
+  "server_time": "2026-10-12T14:36:34.387541+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -157,5 +157,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T14:26:06.196749+00:00"
+  "auto_persistido_en": "2026-10-12T14:36:34.530522+00:00"
 }
