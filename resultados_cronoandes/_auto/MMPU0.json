@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T14:25:25.623349+00:00",
-  "server_time": "2026-10-12T14:25:25.469399+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-12T14:25:43.398365+00:00",
+  "server_time": "2026-10-12T14:25:43.243977+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -112,7 +112,7 @@
       "nombre": "SAYU",
       "categoria": "damas",
       "club": "andes",
-      "estado": "En curso",
+      "estado": "DNF",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -125,7 +125,7 @@
           "etapa_orden": 1,
           "etapa_nombre": "BERG DH",
           "tiempo_seg": null,
-          "estado": "En curso",
+          "estado": "DNF",
           "completada": false
         },
         {
@@ -157,5 +157,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T14:25:25.623336+00:00"
+  "auto_persistido_en": "2026-10-12T14:25:43.398349+00:00"
 }
