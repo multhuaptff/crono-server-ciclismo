@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-12T14:50:56.723473+00:00",
+  "actualizado_en": "2026-10-12T14:52:36.430915+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -78,13 +78,13 @@
       "event_code": "MMPU0",
       "nombre": "BERG DH",
       "slug": "berg-dh",
-      "etapa_id": 13,
-      "etapa": 13,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://sequence-optimization-putting-dial.trycloudflare.com",
+      "etapa_id": 15,
+      "etapa": 15,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-11T17:58:46.497051+00:00",
-      "actualizado_en": "2026-10-12T14:50:56.133966+00:00"
+      "actualizado_en": "2026-10-12T14:52:35.970993+00:00"
     },
     "dh-berg": {
       "event_code": "WJ7N5",
