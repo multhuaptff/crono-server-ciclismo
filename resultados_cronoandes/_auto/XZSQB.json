@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T15:58:20.927876+00:00",
-  "server_time": "2026-10-12T15:58:20.886657+00:00",
+  "actualizado_en": "2026-10-12T15:58:33.731740+00:00",
+  "server_time": "2026-10-12T15:58:33.691572+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,8 +18,8 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
+      "estado": "DNF",
+      "salida": "2026-10-12T10:58:22.751347",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -31,9 +31,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO A",
           "tiempo_seg": null,
-          "estado": "PENDIENTE",
+          "estado": "DNF",
           "completada": false,
-          "salida": null,
+          "salida": "2026-10-12T10:58:22.751347",
           "llegada": null
         },
         {
@@ -53,7 +53,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
+      "uuid_salida": "0476c946-2f62-46a0-a9c4-8d10841c38e4",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -69,8 +69,8 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
+      "estado": "DNF",
+      "salida": "2026-10-12T10:58:24.766339",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -82,9 +82,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO A",
           "tiempo_seg": null,
-          "estado": "PENDIENTE",
+          "estado": "DNF",
           "completada": false,
-          "salida": null,
+          "salida": "2026-10-12T10:58:24.766339",
           "llegada": null
         },
         {
@@ -104,7 +104,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
+      "uuid_salida": "8b9bf301-1714-4253-a07e-e7ad04e75f6b",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -120,8 +120,8 @@
       "nombre": "SAYU",
       "categoria": "damas",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
+      "estado": "DNF",
+      "salida": "2026-10-12T10:58:33.223317",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -133,9 +133,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO A",
           "tiempo_seg": null,
-          "estado": "PENDIENTE",
+          "estado": "DNF",
           "completada": false,
-          "salida": null,
+          "salida": "2026-10-12T10:58:33.223317",
           "llegada": null
         },
         {
@@ -155,7 +155,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
+      "uuid_salida": "81ffbe3a-7ce2-4bd9-b179-c1da619877bd",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -220,5 +220,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T15:58:20.927860+00:00"
+  "auto_persistido_en": "2026-10-12T15:58:33.731723+00:00"
 }
