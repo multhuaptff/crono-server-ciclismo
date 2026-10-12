@@ -7,8 +7,8 @@
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T14:17:14.920948+00:00",
-  "server_time": "2026-10-12T14:17:14.755435+00:00",
+  "actualizado_en": "2026-10-12T14:21:07.818879+00:00",
+  "server_time": "2026-10-12T14:21:07.660085+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,7 +18,7 @@
       "nombre": "BERGMAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "En curso",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -39,7 +39,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "BERG DH - Etapa 2",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "En curso",
           "completada": false
         }
       ],
@@ -157,5 +157,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T14:17:14.920933+00:00"
+  "auto_persistido_en": "2026-10-12T14:21:07.818825+00:00"
 }
