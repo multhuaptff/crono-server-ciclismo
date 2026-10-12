@@ -7,61 +7,10 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T15:59:48.150972+00:00",
-  "server_time": "2026-10-12T15:59:47.520114+00:00",
+  "actualizado_en": "2026-10-12T16:00:37.050974+00:00",
+  "server_time": "2026-10-12T16:00:37.012482+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
-    {
-      "participante_id": 11,
-      "rfid": "",
-      "dorsal": "4",
-      "nombre": "RINA",
-      "categoria": "damas",
-      "club": "andes",
-      "estado": "Finalizado",
-      "salida": "2026-10-12T10:58:34.983598",
-      "llegada": "2026-10-12T10:58:48.536003",
-      "tiempo_total_seg": 8.98474,
-      "tiempo_acumulado_seg": 8.98474,
-      "etapas_totales": 2,
-      "etapas_completadas": 2,
-      "etapas_resultado": [
-        {
-          "etapa_id": 8,
-          "etapa_orden": 1,
-          "etapa_nombre": "ENDURO A",
-          "tiempo_seg": 5.616749,
-          "estado": "FINALIZADO",
-          "completada": true,
-          "salida": "2026-10-12T10:58:34.983598",
-          "llegada": "2026-10-12T10:58:40.600347"
-        },
-        {
-          "etapa_id": 9,
-          "etapa_orden": 2,
-          "etapa_nombre": "ENDURO A - Especial 2",
-          "tiempo_seg": 3.367991,
-          "estado": "FINALIZADO",
-          "completada": true,
-          "salida": "2026-10-12T10:58:45.168012",
-          "llegada": "2026-10-12T10:58:48.536003"
-        }
-      ],
-      "evento_acumulado": true,
-      "vueltas_totales": 0,
-      "vueltas_completadas": 0,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": null,
-      "ultima_vuelta_timestamp": null,
-      "uuid_salida": "38243112-bc95-4f21-9147-c73f9f305f59",
-      "uuid_llegada": "86e4bd7c-a209-4337-be4e-75c7b4178f3e",
-      "vueltas": [],
-      "puesto_general": 1,
-      "puesto_categoria": 1,
-      "diferencia_general_seg": 0.0,
-      "diferencia_categoria_seg": 0.0,
-      "tiempos_vueltas": []
-    },
     {
       "participante_id": 10,
       "rfid": "",
@@ -107,10 +56,61 @@
       "uuid_salida": "81ffbe3a-7ce2-4bd9-b179-c1da619877bd",
       "uuid_llegada": "cf919169-42b6-4b28-9f34-c929027adb59",
       "vueltas": [],
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": []
+    },
+    {
+      "participante_id": 11,
+      "rfid": "",
+      "dorsal": "4",
+      "nombre": "RINA",
+      "categoria": "damas",
+      "club": "andes",
+      "estado": "Finalizado",
+      "salida": "2026-10-12T10:58:34.983598",
+      "llegada": "2026-10-12T10:58:50.536012",
+      "tiempo_total_seg": 10.984749,
+      "tiempo_acumulado_seg": 10.984749,
+      "etapas_totales": 2,
+      "etapas_completadas": 2,
+      "etapas_resultado": [
+        {
+          "etapa_id": 8,
+          "etapa_orden": 1,
+          "etapa_nombre": "ENDURO A",
+          "tiempo_seg": 5.616749,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-12T10:58:34.983598",
+          "llegada": "2026-10-12T10:58:40.600347"
+        },
+        {
+          "etapa_id": 9,
+          "etapa_orden": 2,
+          "etapa_nombre": "ENDURO A - Especial 2",
+          "tiempo_seg": 5.368,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-12T10:58:45.168012",
+          "llegada": "2026-10-12T10:58:50.536012"
+        }
+      ],
+      "evento_acumulado": true,
+      "vueltas_totales": 0,
+      "vueltas_completadas": 0,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": null,
+      "ultima_vuelta_timestamp": null,
+      "uuid_salida": "38243112-bc95-4f21-9147-c73f9f305f59",
+      "uuid_llegada": "40b9990c-df40-4dfd-8b72-fe3f09055549",
+      "vueltas": [],
       "puesto_general": 2,
       "puesto_categoria": 2,
-      "diferencia_general_seg": 1.0623129999999996,
-      "diferencia_categoria_seg": 1.0623129999999996,
+      "diferencia_general_seg": 0.9376960000000008,
+      "diferencia_categoria_seg": 0.9376960000000008,
       "tiempos_vueltas": []
     },
     {
@@ -160,7 +160,7 @@
       "vueltas": [],
       "puesto_general": 3,
       "puesto_categoria": 1,
-      "diferencia_general_seg": 8.592144,
+      "diferencia_general_seg": 7.529831,
       "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     },
@@ -211,7 +211,7 @@
       "vueltas": [],
       "puesto_general": 4,
       "puesto_categoria": 2,
-      "diferencia_general_seg": 9.506942,
+      "diferencia_general_seg": 8.444629,
       "diferencia_categoria_seg": 0.9147980000000011,
       "tiempos_vueltas": []
     }
@@ -220,5 +220,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T15:59:48.150956+00:00"
+  "auto_persistido_en": "2026-10-12T16:00:37.050958+00:00"
 }
