@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T14:21:34.990127+00:00",
-  "server_time": "2026-10-12T14:21:34.830524+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-12T14:21:41.020095+00:00",
+  "server_time": "2026-10-12T14:21:40.862660+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,13 +18,13 @@
       "nombre": "BERGMAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "Finalizado",
       "salida": null,
       "llegada": null,
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 6.391606,
+      "tiempo_total_seg": 8.320124,
+      "tiempo_acumulado_seg": 8.320124,
       "etapas_totales": 2,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 13,
@@ -38,9 +38,9 @@
           "etapa_id": 15,
           "etapa_orden": 2,
           "etapa_nombre": "BERG DH - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "Pendiente",
-          "completada": false
+          "tiempo_seg": 1.928518,
+          "estado": "Finalizado",
+          "completada": true
         }
       ],
       "evento_acumulado": true,
@@ -52,57 +52,10 @@
       "uuid_salida": null,
       "uuid_llegada": null,
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
-      "tiempos_vueltas": []
-    },
-    {
-      "participante_id": 23,
-      "rfid": "",
-      "dorsal": "2",
-      "nombre": "SAYU",
-      "categoria": "damas",
-      "club": "andes",
-      "estado": "DNF",
-      "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
-      "etapas_totales": 2,
-      "etapas_completadas": 0,
-      "etapas_resultado": [
-        {
-          "etapa_id": 13,
-          "etapa_orden": 1,
-          "etapa_nombre": "BERG DH",
-          "tiempo_seg": null,
-          "estado": "DNF",
-          "completada": false
-        },
-        {
-          "etapa_id": 15,
-          "etapa_orden": 2,
-          "etapa_nombre": "BERG DH - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "Pendiente",
-          "completada": false
-        }
-      ],
-      "evento_acumulado": true,
-      "vueltas_totales": 0,
-      "vueltas_completadas": 0,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": null,
-      "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
-      "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     },
     {
@@ -112,13 +65,13 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "Finalizado",
       "salida": null,
       "llegada": null,
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 18.984759,
+      "tiempo_total_seg": 26.288903,
+      "tiempo_acumulado_seg": 26.288903,
       "etapas_totales": 2,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 13,
@@ -132,9 +85,56 @@
           "etapa_id": 15,
           "etapa_orden": 2,
           "etapa_nombre": "BERG DH - Etapa 2",
+          "tiempo_seg": 7.304144,
+          "estado": "Finalizado",
+          "completada": true
+        }
+      ],
+      "evento_acumulado": true,
+      "vueltas_totales": 0,
+      "vueltas_completadas": 0,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": null,
+      "ultima_vuelta_timestamp": null,
+      "uuid_salida": null,
+      "uuid_llegada": null,
+      "vueltas": [],
+      "puesto_general": 2,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 17.968779,
+      "diferencia_categoria_seg": 17.968779,
+      "tiempos_vueltas": []
+    },
+    {
+      "participante_id": 23,
+      "rfid": "",
+      "dorsal": "2",
+      "nombre": "SAYU",
+      "categoria": "damas",
+      "club": "andes",
+      "estado": "DNF",
+      "salida": null,
+      "llegada": null,
+      "tiempo_total_seg": null,
+      "tiempo_acumulado_seg": 9.352094,
+      "etapas_totales": 2,
+      "etapas_completadas": 1,
+      "etapas_resultado": [
+        {
+          "etapa_id": 13,
+          "etapa_orden": 1,
+          "etapa_nombre": "BERG DH",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "DNF",
           "completada": false
+        },
+        {
+          "etapa_id": 15,
+          "etapa_orden": 2,
+          "etapa_nombre": "BERG DH - Etapa 2",
+          "tiempo_seg": 9.352094,
+          "estado": "Finalizado",
+          "completada": true
         }
       ],
       "evento_acumulado": true,
@@ -157,5 +157,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T14:21:34.990108+00:00"
+  "auto_persistido_en": "2026-10-12T14:21:41.020081+00:00"
 }
