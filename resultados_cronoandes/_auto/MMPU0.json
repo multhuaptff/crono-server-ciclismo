@@ -7,10 +7,57 @@
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T14:21:07.818879+00:00",
-  "server_time": "2026-10-12T14:21:07.660085+00:00",
+  "actualizado_en": "2026-10-12T14:21:21.199714+00:00",
+  "server_time": "2026-10-12T14:21:21.038222+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
+    {
+      "participante_id": 24,
+      "rfid": "",
+      "dorsal": "3",
+      "nombre": "BERGMITAN",
+      "categoria": "elite",
+      "club": "andes",
+      "estado": "En curso",
+      "salida": null,
+      "llegada": null,
+      "tiempo_total_seg": null,
+      "tiempo_acumulado_seg": 18.984759,
+      "etapas_totales": 2,
+      "etapas_completadas": 1,
+      "etapas_resultado": [
+        {
+          "etapa_id": 13,
+          "etapa_orden": 1,
+          "etapa_nombre": "BERG DH",
+          "tiempo_seg": 18.984759,
+          "estado": "Finalizado",
+          "completada": true
+        },
+        {
+          "etapa_id": 15,
+          "etapa_orden": 2,
+          "etapa_nombre": "BERG DH - Etapa 2",
+          "tiempo_seg": null,
+          "estado": "En curso",
+          "completada": false
+        }
+      ],
+      "evento_acumulado": true,
+      "vueltas_totales": 0,
+      "vueltas_completadas": 0,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": null,
+      "ultima_vuelta_timestamp": null,
+      "uuid_salida": null,
+      "uuid_llegada": null,
+      "vueltas": [],
+      "puesto_general": null,
+      "puesto_categoria": null,
+      "diferencia_general_seg": null,
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": []
+    },
     {
       "participante_id": 22,
       "rfid": "",
@@ -18,7 +65,7 @@
       "nombre": "BERGMAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "En curso",
+      "estado": "Incompleto",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -39,7 +86,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "BERG DH - Etapa 2",
           "tiempo_seg": null,
-          "estado": "En curso",
+          "estado": "Pendiente",
           "completada": false
         }
       ],
@@ -86,54 +133,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "BERG DH - Etapa 2",
           "tiempo_seg": null,
-          "estado": "Pendiente",
-          "completada": false
-        }
-      ],
-      "evento_acumulado": true,
-      "vueltas_totales": 0,
-      "vueltas_completadas": 0,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": null,
-      "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
-      "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
-      "tiempos_vueltas": []
-    },
-    {
-      "participante_id": 24,
-      "rfid": "",
-      "dorsal": "3",
-      "nombre": "BERGMITAN",
-      "categoria": "elite",
-      "club": "andes",
-      "estado": "Incompleto",
-      "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 18.984759,
-      "etapas_totales": 2,
-      "etapas_completadas": 1,
-      "etapas_resultado": [
-        {
-          "etapa_id": 13,
-          "etapa_orden": 1,
-          "etapa_nombre": "BERG DH",
-          "tiempo_seg": 18.984759,
-          "estado": "Finalizado",
-          "completada": true
-        },
-        {
-          "etapa_id": 15,
-          "etapa_orden": 2,
-          "etapa_nombre": "BERG DH - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "En curso",
           "completada": false
         }
       ],
@@ -157,5 +157,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T14:21:07.818825+00:00"
+  "auto_persistido_en": "2026-10-12T14:21:21.199695+00:00"
 }
