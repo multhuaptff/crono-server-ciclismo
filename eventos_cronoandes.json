@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-12T15:44:58.910861+00:00",
+  "actualizado_en": "2026-10-12T15:51:31.307756+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -121,6 +121,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-12T15:44:58.605988+00:00",
       "actualizado_en": "2026-10-12T15:44:58.606005+00:00"
+    },
+    "estampida": {
+      "event_code": "X9WP4",
+      "nombre": "ESTAMPIDA",
+      "slug": "estampida",
+      "etapa_id": 3,
+      "etapa": 3,
+      "modalidad": "estampida",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-12T15:51:30.997699+00:00",
+      "actualizado_en": "2026-10-12T15:51:30.997716+00:00"
     }
   }
 }
