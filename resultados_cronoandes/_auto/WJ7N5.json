@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T01:38:29.926842+00:00",
-  "server_time": "2026-10-12T01:38:29.664549+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-12T01:39:17.328301+00:00",
+  "server_time": "2026-10-12T01:39:17.069359+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,13 +18,13 @@
       "nombre": "BERGMAN",
       "categoria": "Elite",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
-      "llegada": null,
+      "estado": "Parcial",
+      "salida": "2026-10-11T20:38:29.495666",
+      "llegada": "2026-10-11T20:38:32.374684",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 2.879018,
       "etapas_totales": 2,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 8,
@@ -40,11 +40,11 @@
           "etapa_id": 12,
           "etapa_orden": 2,
           "etapa_nombre": "DH  BERG - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
+          "tiempo_seg": 2.879018,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-11T20:38:29.495666",
+          "llegada": "2026-10-11T20:38:32.374684"
         }
       ],
       "evento_acumulado": true,
@@ -53,8 +53,8 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_salida": "manual-20261011203829495827",
+      "uuid_llegada": "manual-20261011203832374716",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -69,13 +69,13 @@
       "nombre": "SAYU",
       "categoria": "niñas",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
-      "llegada": null,
+      "estado": "Parcial",
+      "salida": "2026-10-11T20:38:35.806520",
+      "llegada": "2026-10-11T20:38:39.767614",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 3.961094,
       "etapas_totales": 2,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 8,
@@ -91,11 +91,11 @@
           "etapa_id": 12,
           "etapa_orden": 2,
           "etapa_nombre": "DH  BERG - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
+          "tiempo_seg": 3.961094,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-11T20:38:35.806520",
+          "llegada": "2026-10-11T20:38:39.767614"
         }
       ],
       "evento_acumulado": true,
@@ -104,8 +104,8 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_salida": "manual-20261011203835806655",
+      "uuid_llegada": "manual-20261011203839767655",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -143,7 +143,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "DH  BERG - Etapa 2",
           "tiempo_seg": null,
-          "estado": "PENDIENTE",
+          "estado": "DNS",
           "completada": false,
           "salida": null,
           "llegada": null
@@ -167,5 +167,5 @@
   ],
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T01:38:29.926826+00:00"
+  "auto_persistido_en": "2026-10-12T01:39:17.328283+00:00"
 }
