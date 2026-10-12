@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-12T15:21:32.153740+00:00",
+  "actualizado_en": "2026-10-12T15:44:58.910861+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -109,6 +109,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-12T15:19:56.683247+00:00",
       "actualizado_en": "2026-10-12T15:21:31.598911+00:00"
+    },
+    "dhsayu": {
+      "event_code": "A475B",
+      "nombre": "DHSAYU",
+      "slug": "dhsayu",
+      "etapa_id": 21,
+      "etapa": 21,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-12T15:44:58.605988+00:00",
+      "actualizado_en": "2026-10-12T15:44:58.606005+00:00"
     }
   }
 }
