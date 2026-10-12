@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-12T15:45:00.752980+00:00",
-  "server_time": "2026-10-12T15:45:00.698276+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-12T15:45:14.125309+00:00",
+  "server_time": "2026-10-12T15:45:14.067484+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,13 +18,13 @@
       "nombre": "SAYU",
       "categoria": "damas",
       "club": "abdes",
-      "estado": "Pendiente",
-      "salida": null,
-      "llegada": null,
-      "tiempo_total_seg": null,
+      "estado": "Finalizado",
+      "salida": "2026-10-12T10:45:04.980826",
+      "llegada": "2026-10-12T10:45:05.868108",
+      "tiempo_total_seg": 0.887282,
       "tiempo_acumulado_seg": null,
       "etapas_totales": 1,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [],
       "evento_acumulado": false,
       "vueltas_totales": 0,
@@ -32,13 +32,13 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_salida": "manual-20261012104504980931",
+      "uuid_llegada": "manual-20261012104505868128",
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     }
   ],
@@ -46,5 +46,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-12T15:45:00.752965+00:00"
+  "auto_persistido_en": "2026-10-12T15:45:14.125292+00:00"
 }
