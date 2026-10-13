@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-13T00:04:01.532909+00:00",
+  "actualizado_en": "2026-10-13T00:04:03.511050+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -152,18 +152,17 @@
       "slug": "estampida-1",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "ESTAMPIDA",
+      "modalidad": "estampida",
       "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-12T16:46:52.056125+00:00",
-      "actualizado_en": "2026-10-13T00:03:54.677399+00:00",
+      "actualizado_en": "2026-10-13T00:04:03.511050+00:00",
       "api_url": "https://crono-0001.say-berg.com",
       "url_publica": "https://crono-0001.say-berg.com",
       "urls": [
         "https://crono-0001.say-berg.com",
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://panel-attorney-meet-cingular.trycloudflare.com",
-        "http://192.168.0.196:5001"
+        "https://wings-captured-given-waves.trycloudflare.com",
+        "https://condiment-hefty-celery.ngrok-free.dev"
       ],
       "ip_local": "192.168.0.196",
       "puerto": 5001,
@@ -183,16 +182,15 @@
       "url_publica": "https://crono-0001.say-berg.com",
       "urls": [
         "https://crono-0001.say-berg.com",
-        "https://condiment-hefty-celery.ngrok-free.dev",
-        "https://panel-attorney-meet-cingular.trycloudflare.com",
-        "http://192.168.0.196:5001"
+        "https://wings-captured-given-waves.trycloudflare.com",
+        "https://condiment-hefty-celery.ngrok-free.dev"
       ],
       "ip_local": "192.168.0.196",
       "puerto": 5001,
       "server_id": "3d6e8c84-59aa-43f4-b9ca-2b2f95f5caa4",
       "station_id": "CRONO-0001",
       "creado_en": "2026-10-12T23:37:12.934533+00:00",
-      "actualizado_en": "2026-10-13T00:03:52.098981+00:00"
+      "actualizado_en": "2026-10-13T00:04:03.511050+00:00"
     },
     "prueba-fase-1": {
       "event_code": "O4JS3",
