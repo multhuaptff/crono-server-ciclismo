@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-13T04:26:24.629733+00:00",
+  "actualizado_en": "2026-10-13T04:26:28.061158+00:00",
   "eventos": {
     "prueba-1": {
       "event_code": "JKI6R",
@@ -198,11 +198,11 @@
       "slug": "prueba-fase-1",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "dh",
-      "estado": "en_vivo",
+      "modalidad": "DH",
+      "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-13T00:03:57.140968+00:00",
-      "actualizado_en": "2026-10-13T04:26:21.974101+00:00"
+      "actualizado_en": "2026-10-13T04:26:27.234452+00:00"
     }
   }
 }
