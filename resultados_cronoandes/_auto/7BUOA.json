@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-13T21:02:20.461580+00:00",
-  "server_time": "2026-10-13T21:02:20.781253+00:00",
+  "actualizado_en": "2026-10-13T21:02:34.642965+00:00",
+  "server_time": "2026-10-13T21:02:35.015099+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,9 +18,9 @@
       "nombre": "BEGMAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Parcial",
+      "estado": "DNF",
       "salida": "2026-10-13T16:02:03.972095",
-      "llegada": "2026-10-13T16:02:11.427000",
+      "llegada": "2026-10-13T16:02:21.274603",
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": 7.454905,
       "etapas_totales": 2,
@@ -34,16 +34,16 @@
           "estado": "FINALIZADO",
           "completada": true,
           "salida": "2026-10-13T16:02:03.972095",
-          "llegada": "2026-10-13T16:02:11.427000"
+          "llegada": "2026-10-13T16:02:21.274603"
         },
         {
           "etapa_id": 11,
           "etapa_orden": 2,
           "etapa_nombre": "ENDURO - Especial 2",
           "tiempo_seg": null,
-          "estado": "PENDIENTE",
+          "estado": "DNF",
           "completada": false,
-          "salida": null,
+          "salida": "2026-10-13T16:02:29.772687",
           "llegada": null
         }
       ],
@@ -54,7 +54,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "723b84f5-2ff4-4c2b-825e-b2d5651064bb",
-      "uuid_llegada": "56e7d9da-10c8-4242-9dd4-a8291cfe4613",
+      "uuid_llegada": "3ebc8292-6fc2-410c-b339-89aed262dce9",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -67,5 +67,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-13T21:02:20.461562+00:00"
+  "auto_persistido_en": "2026-10-13T21:02:34.642949+00:00"
 }
