@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-13T21:01:42.434960+00:00",
-  "server_time": "2026-10-13T21:01:42.803719+00:00",
+  "actualizado_en": "2026-10-13T21:06:37.722082+00:00",
+  "server_time": "2026-10-13T21:06:37.673666+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,8 +18,8 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNF",
-      "salida": "2026-10-13T16:00:47.082093",
+      "estado": "Pendiente",
+      "salida": "2026-10-13T16:00:25.180494",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -31,9 +31,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ESTAMPIDA 1",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
-          "salida": "2026-10-13T16:00:47.082093",
+          "salida": "2026-10-13T16:00:25.180494",
           "llegada": null
         },
         {
@@ -41,7 +41,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "ESTAMPIDA 1 - Etapa 2",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
           "salida": "2026-10-13T16:00:47.082093",
           "llegada": null
@@ -53,7 +53,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": "manual-20261013160047094650",
+      "uuid_salida": "5a4a29fb-9924-4677-b151-5453214d6ca4",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -69,8 +69,8 @@
       "nombre": "SAYU",
       "categoria": "damas",
       "club": "andes",
-      "estado": "DNF",
-      "salida": "2026-10-13T16:00:47.082093",
+      "estado": "Pendiente",
+      "salida": "2026-10-13T16:00:25.180494",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -82,9 +82,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ESTAMPIDA 1",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
-          "salida": "2026-10-13T16:00:47.082093",
+          "salida": "2026-10-13T16:00:25.180494",
           "llegada": null
         },
         {
@@ -92,7 +92,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "ESTAMPIDA 1 - Etapa 2",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
           "salida": "2026-10-13T16:00:47.082093",
           "llegada": null
@@ -104,7 +104,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": "manual-20261013160047082987",
+      "uuid_salida": "95b38dfc-edc9-47b8-8493-b74f6abcca04",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -120,8 +120,8 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNF",
-      "salida": "2026-10-13T16:00:47.082093",
+      "estado": "Pendiente",
+      "salida": "2026-10-13T16:00:25.180494",
       "llegada": null,
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": null,
@@ -133,9 +133,9 @@
           "etapa_orden": 1,
           "etapa_nombre": "ESTAMPIDA 1",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
-          "salida": "2026-10-13T16:00:47.082093",
+          "salida": "2026-10-13T16:00:25.180494",
           "llegada": null
         },
         {
@@ -143,7 +143,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "ESTAMPIDA 1 - Etapa 2",
           "tiempo_seg": null,
-          "estado": "DNF",
+          "estado": "FINALIZADO",
           "completada": false,
           "salida": "2026-10-13T16:00:47.082093",
           "llegada": null
@@ -155,7 +155,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
-      "uuid_salida": "manual-20261013160047105948",
+      "uuid_salida": "37ecbc91-9411-4b25-89bb-cc796794f3c3",
       "uuid_llegada": null,
       "vueltas": [],
       "puesto_general": null,
@@ -169,5 +169,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-13T21:01:42.434943+00:00"
+  "auto_persistido_en": "2026-10-13T21:06:37.722065+00:00"
 }
