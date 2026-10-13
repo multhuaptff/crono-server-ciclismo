@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-13T21:06:58.413343+00:00",
+  "actualizado_en": "2026-10-13T21:07:00.871102+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -37,6 +37,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-13T21:06:58.105744+00:00",
       "actualizado_en": "2026-10-13T21:06:58.105758+00:00"
+    },
+    "prueba-xco": {
+      "event_code": "NZRIA",
+      "nombre": "PRUEBA XCO",
+      "slug": "prueba-xco",
+      "etapa_id": 5,
+      "etapa": 5,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-13T21:07:00.466353+00:00",
+      "actualizado_en": "2026-10-13T21:07:00.466369+00:00"
     }
   }
 }
