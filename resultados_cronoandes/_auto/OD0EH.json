@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-13T04:26:27.234807+00:00",
-  "server_time": "2026-10-13T04:26:27.098118+00:00",
+  "actualizado_en": "2026-10-13T20:59:46.351682+00:00",
+  "server_time": "2026-10-13T20:59:46.721817+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,7 +18,7 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNS",
+      "estado": "Pendiente",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -48,7 +48,7 @@
       "nombre": "SAYU",
       "categoria": "damas",
       "club": "andes",
-      "estado": "DNS",
+      "estado": "Pendiente",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -78,7 +78,7 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNS",
+      "estado": "Pendiente",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -106,5 +106,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-13T04:26:27.234798+00:00"
+  "auto_persistido_en": "2026-10-13T20:59:46.351670+00:00"
 }
