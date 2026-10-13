@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-13T20:59:44.155299+00:00",
+  "actualizado_en": "2026-10-13T21:00:43.869228+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
       "nombre": "ESTAMPIDA 1",
       "slug": "estampida-1",
-      "etapa_id": 1,
-      "etapa": 1,
+      "etapa_id": 9,
+      "etapa": 9,
       "modalidad": "estampida",
       "estado": "en_vivo",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-13T20:59:43.773299+00:00",
-      "actualizado_en": "2026-10-13T20:59:43.773317+00:00"
+      "actualizado_en": "2026-10-13T21:00:43.575802+00:00"
     }
   }
 }
