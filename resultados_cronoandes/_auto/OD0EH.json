@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-13T00:03:57.898428+00:00",
-  "server_time": "2026-10-13T00:03:57.820889+00:00",
+  "actualizado_en": "2026-10-13T04:26:27.234807+00:00",
+  "server_time": "2026-10-13T04:26:27.098118+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -106,5 +106,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-13T00:03:57.898416+00:00"
+  "auto_persistido_en": "2026-10-13T04:26:27.234798+00:00"
 }
