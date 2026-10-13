@@ -1,0 +1,87 @@
+{
+  "status": "auto_persisted",
+  "event_code": "NZRIA",
+  "evento_id": 3,
+  "etapa_id": 5,
+  "modalidad": "xco",
+  "resultado_scope": "evento_individual",
+  "etapas_totales": 1,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-13T21:07:03.861009+00:00",
+  "server_time": "2026-10-13T21:07:04.233252+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [
+    {
+      "participante_id": 6,
+      "rfid": "",
+      "dorsal": "1",
+      "nombre": "BERG",
+      "categoria": "elite",
+      "club": "andes",
+      "estado": "DNF",
+      "salida": "2026-10-13T15:58:07.436944",
+      "llegada": null,
+      "tiempo_total_seg": null,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 0,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
+      "vueltas_totales": 7,
+      "vueltas_completadas": 5,
+      "vueltas_restantes": 2,
+      "ultima_vuelta_seg": 2.00108,
+      "ultima_vuelta_timestamp": "2026-10-13T15:58:33.253473",
+      "uuid_salida": "3f85a26b-1a1d-4b82-864e-43b03db9cd85",
+      "uuid_llegada": null,
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 2.389815,
+          "timestamp": "2026-10-13T15:58:09.826759",
+          "evento_crono_uuid": "33a75928-feff-46e0-a8b9-b3e207b1b644"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 15.62585,
+          "timestamp": "2026-10-13T15:58:25.452609",
+          "evento_crono_uuid": "77d322c3-91a6-4ffa-ac02-63cd71904970"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 2.619458,
+          "timestamp": "2026-10-13T15:58:28.072067",
+          "evento_crono_uuid": "5ea9cf56-04b0-4624-944e-e10101998f49"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 3.180326,
+          "timestamp": "2026-10-13T15:58:31.252393",
+          "evento_crono_uuid": "02055272-1ade-4529-b077-810f2c04bf22"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 2.00108,
+          "timestamp": "2026-10-13T15:58:33.253473",
+          "evento_crono_uuid": "1b557d74-6c62-452c-9412-75334a4de201"
+        }
+      ],
+      "puesto_general": null,
+      "puesto_categoria": null,
+      "diferencia_general_seg": null,
+      "diferencia_categoria_seg": null,
+      "tiempos_vueltas": [
+        2.389815,
+        15.62585,
+        2.619458,
+        3.180326,
+        2.00108
+      ]
+    }
+  ],
+  "destino_publicacion": "resultados_evento",
+  "multi_stage": false,
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-13T21:07:03.860996+00:00"
+}
