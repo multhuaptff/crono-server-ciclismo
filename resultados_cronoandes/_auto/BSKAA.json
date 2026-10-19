@@ -7,8 +7,8 @@
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-19T23:51:45.035836+00:00",
-  "server_time": "2026-10-19T23:51:44.973608+00:00",
+  "actualizado_en": "2026-10-19T23:51:58.441028+00:00",
+  "server_time": "2026-10-19T23:51:58.383578+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,7 +18,7 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "En curso",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -39,7 +39,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "DH BERG - Etapa 2",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "En curso",
           "completada": false
         }
       ],
@@ -65,7 +65,7 @@
       "nombre": "SAYU",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "En curso",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -86,7 +86,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "DH BERG - Etapa 2",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "En curso",
           "completada": false
         }
       ],
@@ -112,7 +112,7 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "En curso",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -133,7 +133,7 @@
           "etapa_orden": 2,
           "etapa_nombre": "DH BERG - Etapa 2",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "En curso",
           "completada": false
         }
       ],
@@ -158,5 +158,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-19T23:51:45.035820+00:00"
+  "auto_persistido_en": "2026-10-19T23:51:58.441012+00:00"
 }
