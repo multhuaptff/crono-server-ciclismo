@@ -7,95 +7,13 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-19T21:46:07.398647+00:00",
-  "server_time": "2026-10-19T21:46:03.238968+00:00",
+  "actualizado_en": "2026-10-19T21:46:27.597954+00:00",
+  "server_time": "2026-10-19T21:46:23.646319+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [
-    {
-      "participante_id": 9,
-      "rfid": "",
-      "dorsal": "1",
-      "nombre": "BERG",
-      "categoria": "elite",
-      "club": "andes",
-      "estado": "Finalizado",
-      "salida": "2026-10-19T16:45:31.899218",
-      "llegada": "2026-10-19T16:46:02.080161",
-      "tiempo_total_seg": 30.180943,
-      "tiempo_acumulado_seg": null,
-      "etapas_totales": 1,
-      "etapas_completadas": 1,
-      "etapas_resultado": [],
-      "evento_acumulado": false,
-      "vueltas_totales": 7,
-      "vueltas_completadas": 7,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": 4.104309,
-      "ultima_vuelta_timestamp": "2026-10-19T16:46:02.080161",
-      "uuid_salida": null,
-      "uuid_llegada": "2c573a20-caf7-4ba4-8c0a-6216bab60dfe",
-      "vueltas": [
-        {
-          "vuelta": 1,
-          "tiempo_seg": 4.038824,
-          "timestamp": "2026-10-19T16:45:35.938042",
-          "evento_crono_uuid": "3f0505bd-2408-4752-a20c-907c01764cbb"
-        },
-        {
-          "vuelta": 2,
-          "tiempo_seg": 9.076328,
-          "timestamp": "2026-10-19T16:45:45.014370",
-          "evento_crono_uuid": "1f82d026-5424-4749-b7ba-6c91eada216b"
-        },
-        {
-          "vuelta": 3,
-          "tiempo_seg": 1.486953,
-          "timestamp": "2026-10-19T16:45:46.501323",
-          "evento_crono_uuid": "764ced4f-410d-40b4-a7d1-4c8c272e0baa"
-        },
-        {
-          "vuelta": 4,
-          "tiempo_seg": 2.106757,
-          "timestamp": "2026-10-19T16:45:48.608080",
-          "evento_crono_uuid": "7b6b66a3-0ac2-478b-b857-51451b588c23"
-        },
-        {
-          "vuelta": 5,
-          "tiempo_seg": 1.902991,
-          "timestamp": "2026-10-19T16:45:50.511071",
-          "evento_crono_uuid": "5694b247-92db-4613-ba04-bae218abc2ee"
-        },
-        {
-          "vuelta": 6,
-          "tiempo_seg": 7.464781,
-          "timestamp": "2026-10-19T16:45:57.975852",
-          "evento_crono_uuid": "f7c596c4-f541-4ce5-9985-5e4003fd820a"
-        },
-        {
-          "vuelta": 7,
-          "tiempo_seg": 4.104309,
-          "timestamp": "2026-10-19T16:46:02.080161",
-          "evento_crono_uuid": "2c573a20-caf7-4ba4-8c0a-6216bab60dfe"
-        }
-      ],
-      "puesto_general": 1,
-      "puesto_categoria": 1,
-      "diferencia_general_seg": 0.0,
-      "diferencia_categoria_seg": 0.0,
-      "tiempos_vueltas": [
-        4.038824,
-        9.076328,
-        1.486953,
-        2.106757,
-        1.902991,
-        7.464781,
-        4.104309
-      ]
-    }
-  ],
+  "resultados": [],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-19T21:46:07.398631+00:00"
+  "auto_persistido_en": "2026-10-19T21:46:27.597941+00:00"
 }
