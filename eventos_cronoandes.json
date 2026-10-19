@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T19:01:54.427026+00:00",
+  "actualizado_en": "2026-10-19T21:42:18.198960+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -80,11 +80,11 @@
       "slug": "dhberg",
       "etapa_id": 13,
       "etapa": 13,
-      "modalidad": "dh",
-      "estado": "en_vivo",
+      "modalidad": "DH",
+      "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-19T19:01:52.340083+00:00",
-      "actualizado_en": "2026-10-19T19:01:52.340104+00:00"
+      "actualizado_en": "2026-10-19T21:42:14.527746+00:00"
     }
   }
 }
