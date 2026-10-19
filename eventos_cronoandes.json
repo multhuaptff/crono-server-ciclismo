@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T15:18:00.985264+00:00",
+  "actualizado_en": "2026-10-19T18:02:34.359350+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -61,6 +61,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-19T15:18:00.651627+00:00",
       "actualizado_en": "2026-10-19T15:18:00.651672+00:00"
+    },
+    "dh-prueba": {
+      "event_code": "ETWVS",
+      "nombre": "DH PRUEBA",
+      "slug": "dh-prueba",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "DH",
+      "estado": "LIVE",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-19T18:02:33.874593+00:00",
+      "actualizado_en": "2026-10-19T18:02:33.874613+00:00"
     }
   }
 }
