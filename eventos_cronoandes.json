@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T19:01:49.532865+00:00",
+  "actualizado_en": "2026-10-19T19:01:54.427026+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -73,6 +73,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-19T18:02:33.874593+00:00",
       "actualizado_en": "2026-10-19T18:02:33.874613+00:00"
+    },
+    "dhberg": {
+      "event_code": "QJADY",
+      "nombre": "DHBERG",
+      "slug": "dhberg",
+      "etapa_id": 13,
+      "etapa": 13,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-19T19:01:52.340083+00:00",
+      "actualizado_en": "2026-10-19T19:01:52.340104+00:00"
     }
   }
 }
