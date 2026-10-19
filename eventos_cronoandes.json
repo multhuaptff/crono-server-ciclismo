@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T18:02:34.359350+00:00",
+  "actualizado_en": "2026-10-19T19:01:49.532865+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -18,13 +18,13 @@
       "event_code": "7BUOA",
       "nombre": "ENDURO",
       "slug": "enduro",
-      "etapa_id": 10,
-      "etapa": 10,
+      "etapa_id": 11,
+      "etapa": 11,
       "modalidad": "ENDURO",
       "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-13T21:01:42.204256+00:00",
-      "actualizado_en": "2026-10-13T21:07:03.660865+00:00"
+      "actualizado_en": "2026-10-19T19:01:49.126127+00:00"
     },
     "prueba-fase-1": {
       "event_code": "O4JS3",
