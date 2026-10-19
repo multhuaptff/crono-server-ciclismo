@@ -7,67 +7,13 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-19T15:23:20.283498+00:00",
-  "server_time": "2026-10-19T15:23:16.027295+00:00",
+  "actualizado_en": "2026-10-19T15:24:57.200991+00:00",
+  "server_time": "2026-10-19T15:24:52.947532+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [
-    {
-      "participante_id": 1,
-      "rfid": "",
-      "dorsal": "1",
-      "nombre": "BERG",
-      "categoria": "elite",
-      "club": "andes",
-      "estado": "DNF",
-      "salida": "2026-10-19T10:23:13.792693",
-      "llegada": null,
-      "tiempo_total_seg": 24.273905,
-      "tiempo_acumulado_seg": null,
-      "etapas_totales": 1,
-      "etapas_completadas": 0,
-      "etapas_resultado": [],
-      "evento_acumulado": false,
-      "vueltas_totales": 3,
-      "vueltas_completadas": 3,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": 13.690954,
-      "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": null,
-      "vueltas": [
-        {
-          "vuelta": 1,
-          "tiempo_seg": 5.579307,
-          "timestamp": null,
-          "evento_crono_uuid": "db5d79c0-27fa-4a39-a195-38995ff6f7e7"
-        },
-        {
-          "vuelta": 2,
-          "tiempo_seg": 5.003644,
-          "timestamp": null,
-          "evento_crono_uuid": "1662c916-9b10-4b37-9723-9d8da3118171"
-        },
-        {
-          "vuelta": 3,
-          "tiempo_seg": 13.690954,
-          "timestamp": null,
-          "evento_crono_uuid": "92e3231d-1830-41ee-831d-e542b5722612"
-        }
-      ],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
-      "tiempos_vueltas": [
-        5.579307,
-        5.003644,
-        13.690954
-      ]
-    }
-  ],
+  "resultados": [],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-19T15:23:20.283481+00:00"
+  "auto_persistido_en": "2026-10-19T15:24:57.200978+00:00"
 }
