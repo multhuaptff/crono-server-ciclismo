@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T23:49:24.112951+00:00",
+  "actualizado_en": "2026-10-19T23:51:47.651616+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
       "nombre": "DH BERG",
       "slug": "dh-berg",
-      "etapa_id": 1,
-      "etapa": 1,
+      "etapa_id": 3,
+      "etapa": 3,
       "modalidad": "dh",
       "estado": "en_vivo",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-19T23:49:23.635721+00:00",
-      "actualizado_en": "2026-10-19T23:49:23.635753+00:00"
+      "actualizado_en": "2026-10-19T23:51:45.778579+00:00"
     }
   }
 }
