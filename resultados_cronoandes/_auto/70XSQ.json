@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-19T15:18:03.595467+00:00",
-  "server_time": "2026-10-19T15:17:59.335457+00:00",
+  "actualizado_en": "2026-10-19T15:23:20.283498+00:00",
+  "server_time": "2026-10-19T15:23:16.027295+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,8 +18,8 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
-      "salida": null,
+      "estado": "DNF",
+      "salida": "2026-10-19T10:23:13.792693",
       "llegada": null,
       "tiempo_total_seg": 24.273905,
       "tiempo_acumulado_seg": null,
@@ -69,5 +69,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-19T15:18:03.595451+00:00"
+  "auto_persistido_en": "2026-10-19T15:23:20.283481+00:00"
 }
