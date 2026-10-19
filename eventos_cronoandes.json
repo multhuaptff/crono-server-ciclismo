@@ -1,18 +1,5 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T21:45:15.407712+00:00",
-  "eventos": {
-    "xco-2027": {
-      "event_code": "TQAE9",
-      "nombre": "XCO 2027",
-      "slug": "xco-2027",
-      "etapa_id": 15,
-      "etapa": 15,
-      "modalidad": "xco",
-      "estado": "en_vivo",
-      "server_url": "https://crono-0001.say-berg.com",
-      "creado_en": "2026-10-19T21:45:13.297173+00:00",
-      "actualizado_en": "2026-10-19T21:45:13.297186+00:00"
-    }
-  }
+  "actualizado_en": "2026-10-19T23:46:12.262819+00:00",
+  "eventos": {}
 }
