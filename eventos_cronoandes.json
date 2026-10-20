@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:50:12.387622+00:00",
+  "actualizado_en": "2026-10-20T01:58:42.531521+00:00",
   "eventos": {
     "dhberg": {
       "event_code": "QJADY",
@@ -13,6 +13,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:15.067706+00:00",
       "actualizado_en": "2026-10-20T01:39:15.067725+00:00"
+    },
+    "estampida-2029": {
+      "event_code": "PE7UK",
+      "nombre": "ESTAMPIDA 2029",
+      "slug": "estampida-2029",
+      "etapa_id": 23,
+      "etapa": 23,
+      "modalidad": "estampida",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T01:58:36.471306+00:00",
+      "actualizado_en": "2026-10-20T01:58:36.471331+00:00"
     }
   }
 }
