@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:39:12.144612+00:00",
+  "actualizado_en": "2026-10-20T01:39:16.729484+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
@@ -61,6 +61,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:10.266144+00:00",
       "actualizado_en": "2026-10-20T01:39:10.266165+00:00"
+    },
+    "dhberg": {
+      "event_code": "QJADY",
+      "nombre": "DHBERG",
+      "slug": "dhberg",
+      "etapa_id": 13,
+      "etapa": 13,
+      "modalidad": "DH",
+      "estado": "LIVE",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T01:39:15.067706+00:00",
+      "actualizado_en": "2026-10-20T01:39:15.067725+00:00"
     }
   }
 }
