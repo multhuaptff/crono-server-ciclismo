@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:50:05.867199+00:00",
+  "actualizado_en": "2026-10-20T01:50:12.387622+00:00",
   "eventos": {
-    "estampida-1": {
-      "event_code": "OD0EH",
-      "nombre": "ESTAMPIDA 1",
-      "slug": "estampida-1",
-      "etapa_id": 9,
-      "etapa": 9,
-      "modalidad": "ESTAMPIDA",
-      "estado": "LIVE",
-      "server_url": "https://crono-0001.say-berg.com",
-      "creado_en": "2026-10-20T01:39:00.417025+00:00",
-      "actualizado_en": "2026-10-20T01:39:00.417044+00:00"
-    },
     "dhberg": {
       "event_code": "QJADY",
       "nombre": "DHBERG",
