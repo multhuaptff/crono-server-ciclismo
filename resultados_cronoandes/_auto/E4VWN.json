@@ -2,13 +2,13 @@
   "status": "auto_persisted",
   "event_code": "E4VWN",
   "evento_id": 8,
-  "etapa_id": 19,
+  "etapa_id": 17,
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
-  "estado_evento": "finalizado",
-  "actualizado_en": "2026-10-20T02:01:26.465159+00:00",
-  "server_time": "2026-10-20T02:01:26.555192+00:00",
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-20T02:05:16.766874+00:00",
+  "server_time": "2026-10-20T02:05:16.834355+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -158,5 +158,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-20T02:01:26.465142+00:00"
+  "auto_persistido_en": "2026-10-20T02:05:16.766860+00:00"
 }
