@@ -1,19 +1,7 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T02:01:19.965778+00:00",
+  "actualizado_en": "2026-10-20T02:03:42.351370+00:00",
   "eventos": {
-    "dhberg": {
-      "event_code": "QJADY",
-      "nombre": "DHBERG",
-      "slug": "dhberg",
-      "etapa_id": 13,
-      "etapa": 13,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://crono-0001.say-berg.com",
-      "creado_en": "2026-10-20T01:39:15.067706+00:00",
-      "actualizado_en": "2026-10-20T01:39:15.067725+00:00"
-    },
     "estampida-2029": {
       "event_code": "PE7UK",
       "nombre": "ESTAMPIDA 2029",
