@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:39:16.729484+00:00",
+  "actualizado_en": "2026-10-20T01:39:21.626948+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
@@ -73,6 +73,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:15.067706+00:00",
       "actualizado_en": "2026-10-20T01:39:15.067725+00:00"
+    },
+    "xco-2027": {
+      "event_code": "TQAE9",
+      "nombre": "XCO 2027",
+      "slug": "xco-2027",
+      "etapa_id": 15,
+      "etapa": 15,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T01:39:19.066338+00:00",
+      "actualizado_en": "2026-10-20T01:39:19.066358+00:00"
     }
   }
 }
