@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:50:00.367079+00:00",
+  "actualizado_en": "2026-10-20T01:50:05.867199+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -13,18 +13,6 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:00.417025+00:00",
       "actualizado_en": "2026-10-20T01:39:00.417044+00:00"
-    },
-    "prueba-fase-1": {
-      "event_code": "O4JS3",
-      "nombre": "PRUEBA FASE 1",
-      "slug": "prueba-fase-1",
-      "etapa_id": 3,
-      "etapa": 3,
-      "modalidad": "DH",
-      "estado": "LIVE",
-      "server_url": "https://crono-0001.say-berg.com",
-      "creado_en": "2026-10-20T01:39:03.062757+00:00",
-      "actualizado_en": "2026-10-20T01:39:03.062775+00:00"
     },
     "dhberg": {
       "event_code": "QJADY",
