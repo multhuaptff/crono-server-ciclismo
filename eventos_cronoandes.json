@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:39:21.626948+00:00",
+  "actualizado_en": "2026-10-20T01:39:40.046250+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
@@ -85,6 +85,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:19.066338+00:00",
       "actualizado_en": "2026-10-20T01:39:19.066358+00:00"
+    },
+    "dh-2029": {
+      "event_code": "E4VWN",
+      "nombre": "DH 2029",
+      "slug": "dh-2029",
+      "etapa_id": 17,
+      "etapa": 17,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T01:39:39.592006+00:00",
+      "actualizado_en": "2026-10-20T01:39:39.592024+00:00"
     }
   }
 }
