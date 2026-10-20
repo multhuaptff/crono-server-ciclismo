@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-19T23:51:47.651616+00:00",
+  "actualizado_en": "2026-10-20T01:39:00.689704+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
@@ -13,6 +13,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-19T23:49:23.635721+00:00",
       "actualizado_en": "2026-10-19T23:51:45.778579+00:00"
+    },
+    "estampida-1": {
+      "event_code": "OD0EH",
+      "nombre": "ESTAMPIDA 1",
+      "slug": "estampida-1",
+      "etapa_id": 9,
+      "etapa": 9,
+      "modalidad": "ESTAMPIDA",
+      "estado": "LIVE",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T01:39:00.417025+00:00",
+      "actualizado_en": "2026-10-20T01:39:00.417044+00:00"
     }
   }
 }
