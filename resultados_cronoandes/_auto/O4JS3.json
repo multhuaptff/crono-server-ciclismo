@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-20T01:42:53.768706+00:00",
-  "server_time": "2026-10-20T01:42:53.746306+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-20T01:43:09.338308+00:00",
+  "server_time": "2026-10-20T01:43:09.363483+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -76,5 +76,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-20T01:42:53.768686+00:00"
+  "auto_persistido_en": "2026-10-20T01:43:09.338290+00:00"
 }
