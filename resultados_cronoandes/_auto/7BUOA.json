@@ -6,9 +6,9 @@
   "modalidad": "enduro",
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-20T01:42:50.966548+00:00",
-  "server_time": "2026-10-20T01:42:50.964768+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-20T01:43:03.642272+00:00",
+  "server_time": "2026-10-20T01:43:03.649701+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -67,5 +67,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-20T01:42:50.966528+00:00"
+  "auto_persistido_en": "2026-10-20T01:43:03.642258+00:00"
 }
