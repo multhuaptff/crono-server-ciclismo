@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-20T02:07:56.367774+00:00",
-  "server_time": "2026-10-20T02:07:56.345577+00:00",
+  "actualizado_en": "2026-10-20T02:08:12.472474+00:00",
+  "server_time": "2026-10-20T02:08:12.553809+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -21,7 +21,7 @@
       "estado": "Finalizado",
       "salida": "2026-10-19T21:07:52.427899",
       "llegada": "2026-10-19T21:07:56.056155",
-      "tiempo_total_seg": null,
+      "tiempo_total_seg": 3.628256,
       "tiempo_acumulado_seg": null,
       "etapas_totales": 1,
       "etapas_completadas": 1,
@@ -35,10 +35,10 @@
       "uuid_salida": "manual-20261019210752428775",
       "uuid_llegada": "manual-20261019210756056180",
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     }
   ],
@@ -46,5 +46,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-20T02:07:56.367758+00:00"
+  "auto_persistido_en": "2026-10-20T02:08:12.472457+00:00"
 }
