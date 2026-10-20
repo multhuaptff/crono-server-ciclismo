@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:49:48.695412+00:00",
+  "actualizado_en": "2026-10-20T01:49:54.590090+00:00",
   "eventos": {
     "estampida-1": {
       "event_code": "OD0EH",
@@ -37,18 +37,6 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:39:06.467558+00:00",
       "actualizado_en": "2026-10-20T01:39:06.467574+00:00"
-    },
-    "enduro": {
-      "event_code": "7BUOA",
-      "nombre": "ENDURO",
-      "slug": "enduro",
-      "etapa_id": 11,
-      "etapa": 11,
-      "modalidad": "ENDURO",
-      "estado": "LIVE",
-      "server_url": "https://crono-0001.say-berg.com",
-      "creado_en": "2026-10-20T01:39:10.266144+00:00",
-      "actualizado_en": "2026-10-20T01:39:10.266165+00:00"
     },
     "dhberg": {
       "event_code": "QJADY",
