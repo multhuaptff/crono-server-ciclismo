@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T01:42:20.057090+00:00",
+  "actualizado_en": "2026-10-20T01:42:51.568378+00:00",
   "eventos": {
     "dh-berg": {
       "event_code": "BSKAA",
@@ -102,13 +102,13 @@
       "event_code": "PE7UK",
       "nombre": "ESTAMPIDA 2029",
       "slug": "estampida-2029",
-      "etapa_id": 20,
-      "etapa": 20,
+      "etapa_id": 22,
+      "etapa": 22,
       "modalidad": "estampida",
       "estado": "en_vivo",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:42:15.470296+00:00",
-      "actualizado_en": "2026-10-20T01:42:15.470316+00:00"
+      "actualizado_en": "2026-10-20T01:42:44.822686+00:00"
     }
   }
 }
