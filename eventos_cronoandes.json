@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T02:03:42.351370+00:00",
+  "actualizado_en": "2026-10-20T02:07:50.265934+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -13,6 +13,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T01:58:36.471306+00:00",
       "actualizado_en": "2026-10-20T02:01:15.468801+00:00"
+    },
+    "estampida": {
+      "event_code": "X9WP4",
+      "nombre": "ESTAMPIDA",
+      "slug": "estampida",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "estampida",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-20T02:07:48.966523+00:00",
+      "actualizado_en": "2026-10-20T02:07:48.966546+00:00"
     }
   }
 }
