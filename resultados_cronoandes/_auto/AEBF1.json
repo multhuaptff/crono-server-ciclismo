@@ -1,0 +1,19 @@
+{
+  "status": "auto_persisted",
+  "event_code": "AEBF1",
+  "evento_id": 3,
+  "etapa_id": 3,
+  "modalidad": "xco",
+  "resultado_scope": "evento_individual",
+  "etapas_totales": 1,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-25T05:28:53.509136+00:00",
+  "server_time": "2026-10-25T05:28:53.929587+00:00",
+  "vueltas_por_categoria": {},
+  "resultados": [],
+  "destino_publicacion": "resultados_evento",
+  "multi_stage": false,
+  "publicacion_activa": false,
+  "tipo_publicacion": "automatico",
+  "auto_persistido_en": "2026-10-25T05:28:53.509120+00:00"
+}
