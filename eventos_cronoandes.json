@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-25T05:28:49.924591+00:00",
+  "actualizado_en": "2026-10-25T05:28:53.154830+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -32,11 +32,11 @@
       "slug": "v-edici-n-copa-regional-ni-os-ipd",
       "etapa_id": 3,
       "etapa": 3,
-      "modalidad": "XCO",
-      "estado": "LIVE",
+      "modalidad": "xco",
+      "estado": "en_vivo",
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-25T05:28:49.593914+00:00",
-      "actualizado_en": "2026-10-25T05:28:49.593936+00:00"
+      "actualizado_en": "2026-10-25T05:28:52.613659+00:00"
     }
   }
 }
