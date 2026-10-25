@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-20T02:10:28.665745+00:00",
+  "actualizado_en": "2026-10-25T05:28:49.924591+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -25,6 +25,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T02:07:48.966523+00:00",
       "actualizado_en": "2026-10-20T02:10:27.768397+00:00"
+    },
+    "v-edici-n-copa-regional-ni-os-ipd": {
+      "event_code": "AEBF1",
+      "nombre": "V EDICIÓN COPA REGIONAL NIÑOS IPD",
+      "slug": "v-edici-n-copa-regional-ni-os-ipd",
+      "etapa_id": 3,
+      "etapa": 3,
+      "modalidad": "XCO",
+      "estado": "LIVE",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-25T05:28:49.593914+00:00",
+      "actualizado_en": "2026-10-25T05:28:49.593936+00:00"
     }
   }
 }
