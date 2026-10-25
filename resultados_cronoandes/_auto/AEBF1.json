@@ -7,95 +7,13 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-25T05:30:38.579636+00:00",
-  "server_time": "2026-10-25T05:30:38.948095+00:00",
+  "actualizado_en": "2026-10-25T05:32:29.591478+00:00",
+  "server_time": "2026-10-25T05:32:29.488484+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [
-    {
-      "participante_id": 59,
-      "rfid": "",
-      "dorsal": "100",
-      "nombre": "BERGMAN S. MULTHUAPTFF ZANABRIA",
-      "categoria": "2017 - 2018 PROMESAS",
-      "club": "ANDES SPORT",
-      "estado": "Finalizado",
-      "salida": "2026-10-25T00:28:56.603424",
-      "llegada": "2026-10-25T00:30:31.868527",
-      "tiempo_total_seg": 95.265103,
-      "tiempo_acumulado_seg": null,
-      "etapas_totales": 1,
-      "etapas_completadas": 1,
-      "etapas_resultado": [],
-      "evento_acumulado": false,
-      "vueltas_totales": 7,
-      "vueltas_completadas": 7,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": 6.44198,
-      "ultima_vuelta_timestamp": "2026-10-25T00:30:31.868527",
-      "uuid_salida": null,
-      "uuid_llegada": "4d84c5c8-6357-4e10-a533-5c75c7c6b3cb",
-      "vueltas": [
-        {
-          "vuelta": 1,
-          "tiempo_seg": 19.206047,
-          "timestamp": "2026-10-25T00:29:15.809471",
-          "evento_crono_uuid": "9f4ba248-4feb-491a-8365-d885b755efbe"
-        },
-        {
-          "vuelta": 2,
-          "tiempo_seg": 8.776844,
-          "timestamp": "2026-10-25T00:29:24.586315",
-          "evento_crono_uuid": "d5d3cffd-44df-421d-ad07-42e99ec0c296"
-        },
-        {
-          "vuelta": 3,
-          "tiempo_seg": 7.732569,
-          "timestamp": "2026-10-25T00:29:32.318884",
-          "evento_crono_uuid": "b063e21a-3e8d-44a0-ad9c-59cf6e575600"
-        },
-        {
-          "vuelta": 4,
-          "tiempo_seg": 6.443665,
-          "timestamp": "2026-10-25T00:29:38.762549",
-          "evento_crono_uuid": "2fb7ef9e-ed5d-473a-9fed-5eea9a263b67"
-        },
-        {
-          "vuelta": 5,
-          "tiempo_seg": 19.490367,
-          "timestamp": "2026-10-25T00:29:58.252916",
-          "evento_crono_uuid": "b9d91d65-7b40-4aa7-972d-5da6488b59e0"
-        },
-        {
-          "vuelta": 6,
-          "tiempo_seg": 27.173631,
-          "timestamp": "2026-10-25T00:30:25.426547",
-          "evento_crono_uuid": "2809f53f-e12e-458b-9643-8ca866c0ec99"
-        },
-        {
-          "vuelta": 7,
-          "tiempo_seg": 6.44198,
-          "timestamp": "2026-10-25T00:30:31.868527",
-          "evento_crono_uuid": "4d84c5c8-6357-4e10-a533-5c75c7c6b3cb"
-        }
-      ],
-      "puesto_general": 1,
-      "puesto_categoria": 1,
-      "diferencia_general_seg": 0.0,
-      "diferencia_categoria_seg": 0.0,
-      "tiempos_vueltas": [
-        19.206047,
-        8.776844,
-        7.732569,
-        6.443665,
-        19.490367,
-        27.173631,
-        6.44198
-      ]
-    }
-  ],
+  "resultados": [],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-25T05:30:38.579623+00:00"
+  "auto_persistido_en": "2026-10-25T05:32:29.591462+00:00"
 }
