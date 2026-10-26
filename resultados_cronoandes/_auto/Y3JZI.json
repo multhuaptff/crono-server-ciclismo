@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T16:48:18.711608+00:00",
-  "server_time": "2026-10-26T16:48:18.796916+00:00",
+  "actualizado_en": "2026-10-26T16:48:32.232697+00:00",
+  "server_time": "2026-10-26T16:48:32.314912+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -91,11 +91,78 @@
         1.970212,
         1.260075
       ]
+    },
+    {
+      "participante_id": 2,
+      "rfid": "",
+      "dorsal": "2",
+      "nombre": "BERGMITAN",
+      "categoria": "niños",
+      "club": "ANDES",
+      "estado": "Finalizado",
+      "salida": "2026-10-26T11:47:46.012213",
+      "llegada": "2026-10-26T11:48:19.459151",
+      "tiempo_total_seg": 33.446937999999996,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 1,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
+      "vueltas_totales": 5,
+      "vueltas_completadas": 5,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 5.832018,
+      "ultima_vuelta_timestamp": "2026-10-26T11:48:19.459151",
+      "uuid_salida": null,
+      "uuid_llegada": "310e1733-6e60-45aa-bec5-aad4c591c3e7",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 6.359062,
+          "timestamp": "2026-10-26T11:47:52.371275",
+          "evento_crono_uuid": "6676f078-382a-45b7-97f4-704d2601e77b"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 14.432049,
+          "timestamp": "2026-10-26T11:48:06.803324",
+          "evento_crono_uuid": "e0f63d2e-4177-42e2-b93c-5ab492e40ec1"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.991871,
+          "timestamp": "2026-10-26T11:48:10.795195",
+          "evento_crono_uuid": "ed2f1f4b-3d18-4263-88c0-91ec99f58b45"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 2.831938,
+          "timestamp": "2026-10-26T11:48:13.627133",
+          "evento_crono_uuid": "48622cef-0f3f-4aad-b9a5-c8a4f88cdd01"
+        },
+        {
+          "vuelta": 5,
+          "tiempo_seg": 5.832018,
+          "timestamp": "2026-10-26T11:48:19.459151",
+          "evento_crono_uuid": "310e1733-6e60-45aa-bec5-aad4c591c3e7"
+        }
+      ],
+      "puesto_general": 2,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 3.5040349999999947,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        6.359062,
+        14.432049,
+        3.991871,
+        2.831938,
+        5.832018
+      ]
     }
   ],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T16:48:18.711595+00:00"
+  "auto_persistido_en": "2026-10-26T16:48:32.232682+00:00"
 }
