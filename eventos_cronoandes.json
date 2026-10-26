@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-26T15:14:08.257484+00:00",
+  "actualizado_en": "2026-10-26T15:19:12.331835+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -37,6 +37,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-25T05:28:49.593914+00:00",
       "actualizado_en": "2026-10-25T05:28:52.613659+00:00"
+    },
+    "dh": {
+      "event_code": "ZDNAF",
+      "nombre": "DH",
+      "slug": "dh",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "dh",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-26T15:19:11.813096+00:00",
+      "actualizado_en": "2026-10-26T15:19:11.813111+00:00"
     }
   }
 }
