@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 2,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T15:20:28.739340+00:00",
-  "server_time": "2026-10-26T15:20:28.695116+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-26T15:20:34.774287+00:00",
+  "server_time": "2026-10-26T15:20:34.439108+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -65,13 +65,13 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "En curso",
+      "estado": "Finalizado",
       "salida": null,
       "llegada": null,
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 5.770555,
+      "tiempo_total_seg": 10.210179,
+      "tiempo_acumulado_seg": 10.210179,
       "etapas_totales": 2,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 1,
@@ -85,9 +85,9 @@
           "etapa_id": 3,
           "etapa_orden": 2,
           "etapa_nombre": "DH - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "En curso",
-          "completada": false
+          "tiempo_seg": 4.439624,
+          "estado": "Finalizado",
+          "completada": true
         }
       ],
       "evento_acumulado": true,
@@ -99,10 +99,10 @@
       "uuid_salida": null,
       "uuid_llegada": null,
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 2,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 2.495413000000001,
+      "diferencia_categoria_seg": 2.495413000000001,
       "tiempos_vueltas": []
     }
   ],
@@ -111,5 +111,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T15:20:28.739324+00:00"
+  "auto_persistido_en": "2026-10-26T15:20:34.774270+00:00"
 }
