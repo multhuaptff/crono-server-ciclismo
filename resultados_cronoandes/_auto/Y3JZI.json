@@ -6,14 +6,14 @@
   "modalidad": "xco",
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T18:15:49.395222+00:00",
-  "server_time": "2026-10-26T18:15:49.565261+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-26T18:17:54.511902+00:00",
+  "server_time": "2026-10-26T18:17:54.644702+00:00",
   "vueltas_por_categoria": {},
   "resultados": [],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T18:15:49.395207+00:00"
+  "auto_persistido_en": "2026-10-26T18:17:54.511885+00:00"
 }
