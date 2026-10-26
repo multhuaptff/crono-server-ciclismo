@@ -2,13 +2,13 @@
   "status": "auto_persisted",
   "event_code": "X9WP4",
   "evento_id": 1,
-  "etapa_id": 5,
+  "etapa_id": 6,
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
-  "etapas_totales": 2,
-  "estado_evento": "finalizado",
-  "actualizado_en": "2026-10-26T15:13:59.238158+00:00",
-  "server_time": "2026-10-26T15:13:59.238842+00:00",
+  "etapas_totales": 3,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-26T15:14:13.150947+00:00",
+  "server_time": "2026-10-26T15:14:13.150640+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,12 +18,12 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Finalizado",
+      "estado": "Incompleto",
       "salida": null,
       "llegada": null,
-      "tiempo_total_seg": 7.610687,
+      "tiempo_total_seg": null,
       "tiempo_acumulado_seg": 7.610687,
-      "etapas_totales": 2,
+      "etapas_totales": 3,
       "etapas_completadas": 2,
       "etapas_resultado": [
         {
@@ -41,6 +41,14 @@
           "tiempo_seg": 3.59979,
           "estado": "Finalizado",
           "completada": true
+        },
+        {
+          "etapa_id": 6,
+          "etapa_orden": 3,
+          "etapa_nombre": "ESTAMPIDA - Etapa 3",
+          "tiempo_seg": null,
+          "estado": "Pendiente",
+          "completada": false
         }
       ],
       "evento_acumulado": true,
@@ -52,10 +60,10 @@
       "uuid_salida": null,
       "uuid_llegada": null,
       "vueltas": [],
-      "puesto_general": 1,
-      "puesto_categoria": 1,
-      "diferencia_general_seg": 0.0,
-      "diferencia_categoria_seg": 0.0,
+      "puesto_general": null,
+      "puesto_categoria": null,
+      "diferencia_general_seg": null,
+      "diferencia_categoria_seg": null,
       "tiempos_vueltas": []
     },
     {
@@ -65,12 +73,12 @@
       "nombre": "SAYU",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Finalizado",
+      "estado": "Incompleto",
       "salida": null,
       "llegada": null,
-      "tiempo_total_seg": 10.850064,
+      "tiempo_total_seg": null,
       "tiempo_acumulado_seg": 10.850064,
-      "etapas_totales": 2,
+      "etapas_totales": 3,
       "etapas_completadas": 2,
       "etapas_resultado": [
         {
@@ -88,6 +96,14 @@
           "tiempo_seg": 4.559765,
           "estado": "Finalizado",
           "completada": true
+        },
+        {
+          "etapa_id": 6,
+          "etapa_orden": 3,
+          "etapa_nombre": "ESTAMPIDA - Etapa 3",
+          "tiempo_seg": null,
+          "estado": "Pendiente",
+          "completada": false
         }
       ],
       "evento_acumulado": true,
@@ -99,10 +115,10 @@
       "uuid_salida": null,
       "uuid_llegada": null,
       "vueltas": [],
-      "puesto_general": 2,
-      "puesto_categoria": 2,
-      "diferencia_general_seg": 3.2393769999999993,
-      "diferencia_categoria_seg": 3.2393769999999993,
+      "puesto_general": null,
+      "puesto_categoria": null,
+      "diferencia_general_seg": null,
+      "diferencia_categoria_seg": null,
       "tiempos_vueltas": []
     }
   ],
@@ -111,5 +127,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T15:13:59.238144+00:00"
+  "auto_persistido_en": "2026-10-26T15:14:13.150930+00:00"
 }
