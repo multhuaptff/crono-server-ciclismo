@@ -6,9 +6,9 @@
   "modalidad": "dh",
   "resultado_scope": "dh_etapas_acumuladas",
   "etapas_totales": 3,
-  "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T15:14:13.150947+00:00",
-  "server_time": "2026-10-26T15:14:13.150640+00:00",
+  "estado_evento": "finalizado",
+  "actualizado_en": "2026-10-26T15:14:46.465441+00:00",
+  "server_time": "2026-10-26T15:14:46.465281+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,7 +18,7 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "DNF",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -47,7 +47,7 @@
           "etapa_orden": 3,
           "etapa_nombre": "ESTAMPIDA - Etapa 3",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "DNS",
           "completada": false
         }
       ],
@@ -73,7 +73,7 @@
       "nombre": "SAYU",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Incompleto",
+      "estado": "DNF",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
@@ -102,7 +102,7 @@
           "etapa_orden": 3,
           "etapa_nombre": "ESTAMPIDA - Etapa 3",
           "tiempo_seg": null,
-          "estado": "Pendiente",
+          "estado": "DNS",
           "completada": false
         }
       ],
@@ -127,5 +127,5 @@
   "multi_stage_dh": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T15:14:13.150930+00:00"
+  "auto_persistido_en": "2026-10-26T15:14:46.465424+00:00"
 }
