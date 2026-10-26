@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-26T15:13:45.644044+00:00",
+  "actualizado_en": "2026-10-26T15:14:08.257484+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -18,13 +18,13 @@
       "event_code": "X9WP4",
       "nombre": "ESTAMPIDA",
       "slug": "estampida",
-      "etapa_id": 5,
-      "etapa": 5,
+      "etapa_id": 6,
+      "etapa": 6,
       "modalidad": "dh",
       "estado": "en_vivo",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-20T02:07:48.966523+00:00",
-      "actualizado_en": "2026-10-26T15:13:45.116081+00:00"
+      "actualizado_en": "2026-10-26T15:14:07.698017+00:00"
     },
     "v-edici-n-copa-regional-ni-os-ipd": {
       "event_code": "AEBF1",
