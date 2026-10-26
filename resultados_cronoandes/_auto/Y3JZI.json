@@ -7,15 +7,15 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T16:50:02.119658+00:00",
-  "server_time": "2026-10-26T16:50:02.200973+00:00",
+  "actualizado_en": "2026-10-26T16:50:16.220033+00:00",
+  "server_time": "2026-10-26T16:50:16.295967+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
       "participante_id": 2,
       "rfid": "",
       "dorsal": "3",
-      "nombre": "BERGMITAN",
+      "nombre": "BERGMITAN MUL",
       "categoria": "niños",
       "club": "ANDES",
       "estado": "Finalizado",
@@ -164,5 +164,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T16:50:02.119640+00:00"
+  "auto_persistido_en": "2026-10-26T16:50:16.220014+00:00"
 }
