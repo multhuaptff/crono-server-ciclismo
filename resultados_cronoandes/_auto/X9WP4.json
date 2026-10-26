@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T15:22:16.018442+00:00",
-  "server_time": "2026-10-26T15:22:15.951960+00:00",
+  "actualizado_en": "2026-10-26T15:22:30.905938+00:00",
+  "server_time": "2026-10-26T15:22:30.874279+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,13 +18,13 @@
       "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Parcial",
+      "estado": "Finalizado",
       "salida": "2026-10-26T10:21:54.238579",
-      "llegada": "2026-10-26T10:21:57.460704",
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 3.222125,
+      "llegada": "2026-10-26T10:22:25.157097",
+      "tiempo_total_seg": 6.157077,
+      "tiempo_acumulado_seg": 6.157077,
       "etapas_totales": 2,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 4,
@@ -40,11 +40,11 @@
           "etapa_id": 6,
           "etapa_orden": 2,
           "etapa_nombre": "ESTAMPIDA - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
+          "tiempo_seg": 2.934952,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-26T10:22:22.222145",
+          "llegada": "2026-10-26T10:22:25.157097"
         }
       ],
       "evento_acumulado": true,
@@ -54,12 +54,12 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "manual-20261026102154239539",
-      "uuid_llegada": "manual-20261026102157460729",
+      "uuid_llegada": "manual-20261026102225157121",
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
       "tiempos_vueltas": []
     },
     {
@@ -69,13 +69,13 @@
       "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Parcial",
+      "estado": "Finalizado",
       "salida": "2026-10-26T10:21:54.238579",
-      "llegada": "2026-10-26T10:21:58.900389",
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 4.66181,
+      "llegada": "2026-10-26T10:22:26.637088",
+      "tiempo_total_seg": 9.076753,
+      "tiempo_acumulado_seg": 9.076753,
       "etapas_totales": 2,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 4,
@@ -91,11 +91,11 @@
           "etapa_id": 6,
           "etapa_orden": 2,
           "etapa_nombre": "ESTAMPIDA - Etapa 2",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
+          "tiempo_seg": 4.414943,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-26T10:22:22.222145",
+          "llegada": "2026-10-26T10:22:26.637088"
         }
       ],
       "evento_acumulado": true,
@@ -105,12 +105,12 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "manual-20261026102154263538",
-      "uuid_llegada": "manual-20261026102158900412",
+      "uuid_llegada": "manual-20261026102226637117",
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 2,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 2.919676,
+      "diferencia_categoria_seg": 2.919676,
       "tiempos_vueltas": []
     }
   ],
@@ -118,5 +118,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T15:22:16.018423+00:00"
+  "auto_persistido_en": "2026-10-26T15:22:30.905925+00:00"
 }
