@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-26T17:11:55.332849+00:00",
+  "actualizado_en": "2026-10-26T17:18:54.672746+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -56,11 +56,11 @@
       "slug": "xco",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "xco",
-      "estado": "en_vivo",
+      "modalidad": "XCO",
+      "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-26T15:50:29.411269+00:00",
-      "actualizado_en": "2026-10-26T17:11:54.753282+00:00"
+      "actualizado_en": "2026-10-26T17:18:54.324595+00:00"
     }
   }
 }
