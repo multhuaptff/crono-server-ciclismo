@@ -1,57 +1,32 @@
 {
   "status": "auto_persisted",
   "event_code": "X9WP4",
-  "evento_id": 1,
-  "etapa_id": 6,
-  "modalidad": "dh",
-  "resultado_scope": "dh_etapas_acumuladas",
-  "etapas_totales": 3,
-  "estado_evento": "finalizado",
-  "actualizado_en": "2026-10-26T15:14:46.465441+00:00",
-  "server_time": "2026-10-26T15:14:46.465281+00:00",
+  "evento_id": 3,
+  "etapa_id": 4,
+  "modalidad": "estampida",
+  "resultado_scope": "evento_individual",
+  "etapas_totales": 1,
+  "estado_evento": "en_vivo",
+  "actualizado_en": "2026-10-26T15:21:50.416669+00:00",
+  "server_time": "2026-10-26T15:21:50.376615+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
-      "participante_id": 1,
+      "participante_id": 4,
       "rfid": "",
       "dorsal": "1",
-      "nombre": "BERG",
+      "nombre": "BERGMITAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNF",
+      "estado": "Pendiente",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 7.610687,
-      "etapas_totales": 3,
-      "etapas_completadas": 2,
-      "etapas_resultado": [
-        {
-          "etapa_id": 1,
-          "etapa_orden": 1,
-          "etapa_nombre": "ESTAMPIDA",
-          "tiempo_seg": 4.010897,
-          "estado": "Finalizado",
-          "completada": true
-        },
-        {
-          "etapa_id": 5,
-          "etapa_orden": 2,
-          "etapa_nombre": "ESTAMPIDA - Etapa 2",
-          "tiempo_seg": 3.59979,
-          "estado": "Finalizado",
-          "completada": true
-        },
-        {
-          "etapa_id": 6,
-          "etapa_orden": 3,
-          "etapa_nombre": "ESTAMPIDA - Etapa 3",
-          "tiempo_seg": null,
-          "estado": "DNS",
-          "completada": false
-        }
-      ],
-      "evento_acumulado": true,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 0,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
@@ -67,46 +42,21 @@
       "tiempos_vueltas": []
     },
     {
-      "participante_id": 2,
+      "participante_id": 3,
       "rfid": "",
       "dorsal": "2",
-      "nombre": "SAYU",
+      "nombre": "BERG",
       "categoria": "elite",
       "club": "andes",
-      "estado": "DNF",
+      "estado": "Pendiente",
       "salida": null,
       "llegada": null,
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 10.850064,
-      "etapas_totales": 3,
-      "etapas_completadas": 2,
-      "etapas_resultado": [
-        {
-          "etapa_id": 1,
-          "etapa_orden": 1,
-          "etapa_nombre": "ESTAMPIDA",
-          "tiempo_seg": 6.290299,
-          "estado": "Finalizado",
-          "completada": true
-        },
-        {
-          "etapa_id": 5,
-          "etapa_orden": 2,
-          "etapa_nombre": "ESTAMPIDA - Etapa 2",
-          "tiempo_seg": 4.559765,
-          "estado": "Finalizado",
-          "completada": true
-        },
-        {
-          "etapa_id": 6,
-          "etapa_orden": 3,
-          "etapa_nombre": "ESTAMPIDA - Etapa 3",
-          "tiempo_seg": null,
-          "estado": "DNS",
-          "completada": false
-        }
-      ],
-      "evento_acumulado": true,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 0,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
@@ -122,10 +72,9 @@
       "tiempos_vueltas": []
     }
   ],
-  "destino_publicacion": "resultados_etapas",
-  "multi_stage": true,
-  "multi_stage_dh": true,
+  "destino_publicacion": "resultados_evento",
+  "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T15:14:46.465424+00:00"
+  "auto_persistido_en": "2026-10-26T15:21:50.416656+00:00"
 }
