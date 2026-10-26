@@ -7,8 +7,8 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T17:12:51.647686+00:00",
-  "server_time": "2026-10-26T17:12:51.749797+00:00",
+  "actualizado_en": "2026-10-26T17:18:40.011285+00:00",
+  "server_time": "2026-10-26T17:18:40.121994+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -32,7 +32,7 @@
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": 1.031995,
       "ultima_vuelta_timestamp": "2026-10-26T12:12:50.537452",
-      "uuid_salida": null,
+      "uuid_salida": "bbd04cc6-0ba2-49a4-a68c-134dd313b023",
       "uuid_llegada": "a25e1647-b9a9-40e0-a4b6-9982bd50e9d2",
       "vueltas": [
         {
@@ -76,5 +76,5 @@
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T17:12:51.647670+00:00"
+  "auto_persistido_en": "2026-10-26T17:18:40.011269+00:00"
 }
