@@ -7,13 +7,74 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-26T17:05:30.479175+00:00",
-  "server_time": "2026-10-26T17:05:30.577471+00:00",
+  "actualizado_en": "2026-10-26T17:12:51.647686+00:00",
+  "server_time": "2026-10-26T17:12:51.749797+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [],
+  "resultados": [
+    {
+      "participante_id": 3,
+      "rfid": "",
+      "dorsal": "3",
+      "nombre": "SAYUMI",
+      "categoria": "damsa",
+      "club": "andes",
+      "estado": "Finalizado",
+      "salida": "2026-10-26T12:12:32.332367",
+      "llegada": "2026-10-26T12:12:50.537452",
+      "tiempo_total_seg": 18.205085,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 1,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
+      "vueltas_totales": 4,
+      "vueltas_completadas": 4,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 1.031995,
+      "ultima_vuelta_timestamp": "2026-10-26T12:12:50.537452",
+      "uuid_salida": null,
+      "uuid_llegada": "a25e1647-b9a9-40e0-a4b6-9982bd50e9d2",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 4.340363,
+          "timestamp": "2026-10-26T12:12:36.672730",
+          "evento_crono_uuid": "f91137ca-f2a5-4eb5-8d91-92e122620f52"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 11.248706,
+          "timestamp": "2026-10-26T12:12:47.921436",
+          "evento_crono_uuid": "24382e77-a883-4ac5-8987-cf6251d2daff"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 1.584021,
+          "timestamp": "2026-10-26T12:12:49.505457",
+          "evento_crono_uuid": "e5a41942-1623-4fad-9be4-47f222451219"
+        },
+        {
+          "vuelta": 4,
+          "tiempo_seg": 1.031995,
+          "timestamp": "2026-10-26T12:12:50.537452",
+          "evento_crono_uuid": "a25e1647-b9a9-40e0-a4b6-9982bd50e9d2"
+        }
+      ],
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        4.340363,
+        11.248706,
+        1.584021,
+        1.031995
+      ]
+    }
+  ],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-26T17:05:30.479162+00:00"
+  "auto_persistido_en": "2026-10-26T17:12:51.647670+00:00"
 }
