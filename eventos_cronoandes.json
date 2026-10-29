@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-29T19:41:25.757892+00:00",
+  "actualizado_en": "2026-10-29T19:56:06.052874+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -92,11 +92,11 @@
       "slug": "enduro-prueba",
       "etapa_id": 1,
       "etapa": 1,
-      "modalidad": "enduro",
-      "estado": "en_vivo",
+      "modalidad": "ENDURO",
+      "estado": "LIVE",
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-29T19:38:17.854750+00:00",
-      "actualizado_en": "2026-10-29T19:41:25.282707+00:00"
+      "actualizado_en": "2026-10-29T19:56:05.549833+00:00"
     }
   }
 }
