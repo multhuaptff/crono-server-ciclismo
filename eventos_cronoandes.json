@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-29T15:16:26.419953+00:00",
+  "actualizado_en": "2026-10-29T19:38:18.205608+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -85,6 +85,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-29T15:16:25.885851+00:00",
       "actualizado_en": "2026-10-29T15:16:25.885868+00:00"
+    },
+    "enduro-prueba": {
+      "event_code": "86HJC",
+      "nombre": "ENDURO PRUEBA",
+      "slug": "enduro-prueba",
+      "etapa_id": 1,
+      "etapa": 1,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-29T19:38:17.854750+00:00",
+      "actualizado_en": "2026-10-29T19:38:17.854768+00:00"
     }
   }
 }
