@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-29T15:16:29.262946+00:00",
-  "server_time": "2026-10-29T15:16:28.292802+00:00",
+  "actualizado_en": "2026-10-29T15:26:55.194485+00:00",
+  "server_time": "2026-10-29T15:26:54.189673+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,23 +18,23 @@
       "nombre": "BERGMAN",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
+      "estado": "Parcial",
       "salida": null,
-      "llegada": null,
+      "llegada": "2026-10-29T10:25:24",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 324.0,
       "etapas_totales": 2,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 4,
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO MIGUEL",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 324.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T10:25:24"
         },
         {
           "etapa_id": 5,
@@ -54,7 +54,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "f411e1e6-284e-484f-b590-50460fa5a94f",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -69,23 +69,23 @@
       "nombre": "MIGUEL",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
+      "estado": "Parcial",
       "salida": null,
-      "llegada": null,
+      "llegada": "2026-10-29T10:26:06",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 306.0,
       "etapas_totales": 2,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 4,
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO MIGUEL",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 306.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T10:26:06"
         },
         {
           "etapa_id": 5,
@@ -105,7 +105,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "fce3c918-a726-4592-98e6-f24dddd72183",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -118,5 +118,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-29T15:16:29.262929+00:00"
+  "auto_persistido_en": "2026-10-29T15:26:55.194471+00:00"
 }
