@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-29T15:04:54.148340+00:00",
+  "actualizado_en": "2026-10-29T15:16:26.419953+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -73,6 +73,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-29T15:04:53.686799+00:00",
       "actualizado_en": "2026-10-29T15:04:53.686823+00:00"
+    },
+    "enduro-miguel": {
+      "event_code": "FFYGQ",
+      "nombre": "ENDURO MIGUEL",
+      "slug": "enduro-miguel",
+      "etapa_id": 4,
+      "etapa": 4,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-29T15:16:25.885851+00:00",
+      "actualizado_en": "2026-10-29T15:16:25.885868+00:00"
     }
   }
 }
