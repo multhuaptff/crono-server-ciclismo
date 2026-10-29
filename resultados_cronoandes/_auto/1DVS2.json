@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-29T22:44:40.706400+00:00",
-  "server_time": "2026-10-29T22:44:39.757067+00:00",
+  "actualizado_en": "2026-10-29T22:51:10.186727+00:00",
+  "server_time": "2026-10-29T22:51:09.245715+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -69,23 +69,23 @@
       "nombre": "YEINER",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
+      "estado": "Parcial",
       "salida": null,
-      "llegada": null,
+      "llegada": "2026-10-29T17:51:07",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 247.0,
       "etapas_totales": 2,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 1,
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO YEINER",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 247.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T17:51:07"
         },
         {
           "etapa_id": 2,
@@ -105,7 +105,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "95f31050-c3f5-4de9-92da-c273521dc7d4",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -118,5 +118,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-29T22:44:40.706385+00:00"
+  "auto_persistido_en": "2026-10-29T22:51:10.186711+00:00"
 }
