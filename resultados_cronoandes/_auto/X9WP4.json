@@ -2,13 +2,13 @@
   "status": "auto_persisted",
   "event_code": "X9WP4",
   "evento_id": 4,
-  "etapa_id": 5,
+  "etapa_id": 7,
   "modalidad": "estampida",
-  "resultado_scope": "evento_individual",
-  "etapas_totales": 1,
+  "resultado_scope": "evento_acumulado",
+  "etapas_totales": 2,
   "estado_evento": "finalizado",
-  "actualizado_en": "2026-10-30T17:54:48.811579+00:00",
-  "server_time": "2026-10-30T17:54:46.166573+00:00",
+  "actualizado_en": "2026-10-30T17:55:03.917488+00:00",
+  "server_time": "2026-10-30T17:55:01.286426+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -20,20 +20,41 @@
       "club": "asd",
       "estado": "Finalizado",
       "salida": "2026-10-30T12:54:18.814031",
-      "llegada": "2026-10-30T12:54:24.188532",
-      "tiempo_total_seg": 5.374501,
-      "tiempo_acumulado_seg": null,
-      "etapas_totales": 1,
-      "etapas_completadas": 1,
-      "etapas_resultado": [],
-      "evento_acumulado": false,
+      "llegada": "2026-10-30T12:54:55.669258",
+      "tiempo_total_seg": 8.822739,
+      "tiempo_acumulado_seg": 8.822739,
+      "etapas_totales": 2,
+      "etapas_completadas": 2,
+      "etapas_resultado": [
+        {
+          "etapa_id": 5,
+          "etapa_orden": 1,
+          "etapa_nombre": "ESTAMPIDA",
+          "tiempo_seg": 5.374501,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-30T12:54:18.814031",
+          "llegada": "2026-10-30T12:54:24.188532"
+        },
+        {
+          "etapa_id": 7,
+          "etapa_orden": 2,
+          "etapa_nombre": "ESTAMPIDA - Etapa 2",
+          "tiempo_seg": 3.448238,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": "2026-10-30T12:54:52.221020",
+          "llegada": "2026-10-30T12:54:55.669258"
+        }
+      ],
+      "evento_acumulado": true,
       "vueltas_totales": 0,
       "vueltas_completadas": 0,
       "vueltas_restantes": 0,
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": "manual-20261030125418815046",
-      "uuid_llegada": "manual-20261030125424188570",
+      "uuid_llegada": "manual-20261030125455669278",
       "vueltas": [],
       "puesto_general": 1,
       "puesto_categoria": 1,
@@ -42,9 +63,9 @@
       "tiempos_vueltas": []
     }
   ],
-  "destino_publicacion": "resultados_evento",
-  "multi_stage": false,
+  "destino_publicacion": "resultados_etapas",
+  "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-30T17:54:48.811564+00:00"
+  "auto_persistido_en": "2026-10-30T17:55:03.917475+00:00"
 }
