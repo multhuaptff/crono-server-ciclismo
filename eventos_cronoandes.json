@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-30T02:39:36.796486+00:00",
+  "actualizado_en": "2026-10-30T03:58:41.680891+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -121,6 +121,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-30T02:39:36.520187+00:00",
       "actualizado_en": "2026-10-30T02:39:36.520202+00:00"
+    },
+    "enduro-b": {
+      "event_code": "TG1XP",
+      "nombre": "ENDURO B",
+      "slug": "enduro-b",
+      "etapa_id": 5,
+      "etapa": 5,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-30T03:58:41.207813+00:00",
+      "actualizado_en": "2026-10-30T03:58:41.207836+00:00"
     }
   }
 }
