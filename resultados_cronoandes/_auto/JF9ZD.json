@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 3,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-30T17:56:37.011889+00:00",
-  "server_time": "2026-10-30T17:56:34.367417+00:00",
+  "actualizado_en": "2026-10-30T17:56:52.712929+00:00",
+  "server_time": "2026-10-30T17:56:50.068371+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -18,23 +18,23 @@
       "nombre": "BERG",
       "categoria": "asd",
       "club": "asd",
-      "estado": "Pendiente",
+      "estado": "Parcial",
       "salida": null,
-      "llegada": null,
+      "llegada": "2026-10-30T12:56:38",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 8.0,
       "etapas_totales": 3,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 8,
           "etapa_orden": 1,
           "etapa_nombre": "ENDU",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 8.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-30T12:56:38"
         },
         {
           "etapa_id": 9,
@@ -64,7 +64,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "a669e4f5-e492-48d0-a1da-48a7fa69f063",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -77,5 +77,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-30T17:56:37.011875+00:00"
+  "auto_persistido_en": "2026-10-30T17:56:52.712913+00:00"
 }
