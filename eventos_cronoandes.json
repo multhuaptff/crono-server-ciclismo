@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-30T17:54:52.907965+00:00",
+  "actualizado_en": "2026-10-30T17:56:34.491456+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -145,6 +145,18 @@
       "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-30T17:52:41.847776+00:00",
       "actualizado_en": "2026-10-30T17:52:41.847798+00:00"
+    },
+    "endu": {
+      "event_code": "JF9ZD",
+      "nombre": "ENDU",
+      "slug": "endu",
+      "etapa_id": 8,
+      "etapa": 8,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://crono-0001.say-berg.com",
+      "creado_en": "2026-10-30T17:56:31.114639+00:00",
+      "actualizado_en": "2026-10-30T17:56:31.114653+00:00"
     }
   }
 }
