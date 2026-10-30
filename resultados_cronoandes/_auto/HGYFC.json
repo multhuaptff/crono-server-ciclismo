@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 4,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-30T02:43:13.243565+00:00",
-  "server_time": "2026-10-30T02:43:12.290160+00:00",
+  "actualizado_en": "2026-10-30T02:43:45.351992+00:00",
+  "server_time": "2026-10-30T02:43:44.403806+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -91,11 +91,11 @@
       "club": "andes",
       "estado": "Parcial",
       "salida": null,
-      "llegada": "2026-10-29T21:40:43.984959",
+      "llegada": "2026-10-29T21:43:41",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 20.984959,
+      "tiempo_acumulado_seg": 181.984959,
       "etapas_totales": 4,
-      "etapas_completadas": 1,
+      "etapas_completadas": 2,
       "etapas_resultado": [
         {
           "etapa_id": 4,
@@ -111,11 +111,11 @@
           "etapa_id": 5,
           "etapa_orden": 2,
           "etapa_nombre": "ENDURO YE - Especial 2",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 161.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T21:43:41"
         },
         {
           "etapa_id": 6,
@@ -145,7 +145,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": "105a0d8c-b008-4f11-861f-efc69349a236",
+      "uuid_llegada": "3a64dd8f-fe1a-4f2a-aede-2721282262fc",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -158,5 +158,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-30T02:43:13.243548+00:00"
+  "auto_persistido_en": "2026-10-30T02:43:45.351975+00:00"
 }
