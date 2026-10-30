@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-29T22:44:38.495366+00:00",
+  "actualizado_en": "2026-10-30T02:39:36.796486+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -109,6 +109,18 @@
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-10-29T22:44:38.001532+00:00",
       "actualizado_en": "2026-10-29T22:44:38.001553+00:00"
+    },
+    "enduro-ye": {
+      "event_code": "HGYFC",
+      "nombre": "ENDURO YE",
+      "slug": "enduro-ye",
+      "etapa_id": 4,
+      "etapa": 4,
+      "modalidad": "enduro",
+      "estado": "en_vivo",
+      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "creado_en": "2026-10-30T02:39:36.520187+00:00",
+      "actualizado_en": "2026-10-30T02:39:36.520202+00:00"
     }
   }
 }
