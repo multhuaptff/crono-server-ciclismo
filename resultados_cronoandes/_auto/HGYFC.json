@@ -7,81 +7,10 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 4,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-30T02:43:45.351992+00:00",
-  "server_time": "2026-10-30T02:43:44.403806+00:00",
+  "actualizado_en": "2026-10-30T02:44:00.357363+00:00",
+  "server_time": "2026-10-30T02:43:59.405767+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
-    {
-      "participante_id": 3,
-      "rfid": "",
-      "dorsal": "1",
-      "nombre": "BERG",
-      "categoria": "elite",
-      "club": "andes",
-      "estado": "Parcial",
-      "salida": null,
-      "llegada": "2026-10-29T21:43:10",
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 264.826432,
-      "etapas_totales": 4,
-      "etapas_completadas": 2,
-      "etapas_resultado": [
-        {
-          "etapa_id": 4,
-          "etapa_orden": 1,
-          "etapa_nombre": "ENDURO YE",
-          "tiempo_seg": 74.826432,
-          "estado": "FINALIZADO",
-          "completada": true,
-          "salida": null,
-          "llegada": "2026-10-29T21:40:37.826432"
-        },
-        {
-          "etapa_id": 5,
-          "etapa_orden": 2,
-          "etapa_nombre": "ENDURO YE - Especial 2",
-          "tiempo_seg": 190.0,
-          "estado": "FINALIZADO",
-          "completada": true,
-          "salida": null,
-          "llegada": "2026-10-29T21:43:10"
-        },
-        {
-          "etapa_id": 6,
-          "etapa_orden": 3,
-          "etapa_nombre": "ENDURO YE - Especial 3",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
-        },
-        {
-          "etapa_id": 7,
-          "etapa_orden": 4,
-          "etapa_nombre": "ENDURO YE - Especial 4",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
-          "salida": null,
-          "llegada": null
-        }
-      ],
-      "evento_acumulado": true,
-      "vueltas_totales": 0,
-      "vueltas_completadas": 0,
-      "vueltas_restantes": 0,
-      "ultima_vuelta_seg": null,
-      "ultima_vuelta_timestamp": null,
-      "uuid_salida": null,
-      "uuid_llegada": "8d38b52d-a0c7-48db-9f00-1c11ff244e2d",
-      "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
-      "tiempos_vueltas": []
-    },
     {
       "participante_id": 4,
       "rfid": "",
@@ -89,13 +18,13 @@
       "nombre": "YEINER",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Parcial",
+      "estado": "Finalizado",
       "salida": null,
       "llegada": "2026-10-29T21:43:41",
-      "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": 181.984959,
+      "tiempo_total_seg": 68.419972,
+      "tiempo_acumulado_seg": 68.419972,
       "etapas_totales": 4,
-      "etapas_completadas": 2,
+      "etapas_completadas": 4,
       "etapas_resultado": [
         {
           "etapa_id": 4,
@@ -111,31 +40,31 @@
           "etapa_id": 5,
           "etapa_orden": 2,
           "etapa_nombre": "ENDURO YE - Especial 2",
-          "tiempo_seg": 161.0,
+          "tiempo_seg": 36.130118,
           "estado": "FINALIZADO",
           "completada": true,
           "salida": null,
-          "llegada": "2026-10-29T21:43:41"
+          "llegada": "2026-10-29T21:41:36.130118"
         },
         {
           "etapa_id": 6,
           "etapa_orden": 3,
           "etapa_nombre": "ENDURO YE - Especial 3",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 5.304895,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T21:42:05.304895"
         },
         {
           "etapa_id": 7,
           "etapa_orden": 4,
           "etapa_nombre": "ENDURO YE - Especial 4",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 6.0,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T21:43:41"
         }
       ],
       "evento_acumulado": true,
@@ -147,10 +76,81 @@
       "uuid_salida": null,
       "uuid_llegada": "3a64dd8f-fe1a-4f2a-aede-2721282262fc",
       "vueltas": [],
-      "puesto_general": null,
-      "puesto_categoria": null,
-      "diferencia_general_seg": null,
-      "diferencia_categoria_seg": null,
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": []
+    },
+    {
+      "participante_id": 3,
+      "rfid": "",
+      "dorsal": "1",
+      "nombre": "BERG",
+      "categoria": "elite",
+      "club": "andes",
+      "estado": "Finalizado",
+      "salida": null,
+      "llegada": "2026-10-29T21:43:10",
+      "tiempo_total_seg": 261.361848,
+      "tiempo_acumulado_seg": 261.361848,
+      "etapas_totales": 4,
+      "etapas_completadas": 4,
+      "etapas_resultado": [
+        {
+          "etapa_id": 4,
+          "etapa_orden": 1,
+          "etapa_nombre": "ENDURO YE",
+          "tiempo_seg": 74.826432,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": null,
+          "llegada": "2026-10-29T21:40:37.826432"
+        },
+        {
+          "etapa_id": 5,
+          "etapa_orden": 2,
+          "etapa_nombre": "ENDURO YE - Especial 2",
+          "tiempo_seg": 97.29027,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": null,
+          "llegada": "2026-10-29T21:41:37.290270"
+        },
+        {
+          "etapa_id": 6,
+          "etapa_orden": 3,
+          "etapa_nombre": "ENDURO YE - Especial 3",
+          "tiempo_seg": 54.245146,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": null,
+          "llegada": "2026-10-29T21:41:54.245146"
+        },
+        {
+          "etapa_id": 7,
+          "etapa_orden": 4,
+          "etapa_nombre": "ENDURO YE - Especial 4",
+          "tiempo_seg": 35.0,
+          "estado": "FINALIZADO",
+          "completada": true,
+          "salida": null,
+          "llegada": "2026-10-29T21:43:10"
+        }
+      ],
+      "evento_acumulado": true,
+      "vueltas_totales": 0,
+      "vueltas_completadas": 0,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": null,
+      "ultima_vuelta_timestamp": null,
+      "uuid_salida": null,
+      "uuid_llegada": "8d38b52d-a0c7-48db-9f00-1c11ff244e2d",
+      "vueltas": [],
+      "puesto_general": 2,
+      "puesto_categoria": 2,
+      "diferencia_general_seg": 192.941876,
+      "diferencia_categoria_seg": 192.941876,
       "tiempos_vueltas": []
     }
   ],
@@ -158,5 +158,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-30T02:43:45.351975+00:00"
+  "auto_persistido_en": "2026-10-30T02:44:00.357346+00:00"
 }
