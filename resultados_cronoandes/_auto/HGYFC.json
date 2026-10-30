@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 4,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-10-30T02:40:43.587014+00:00",
-  "server_time": "2026-10-30T02:40:42.630061+00:00",
+  "actualizado_en": "2026-10-30T02:40:58.169706+00:00",
+  "server_time": "2026-10-30T02:40:57.220432+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -89,23 +89,23 @@
       "nombre": "YEINER",
       "categoria": "elite",
       "club": "andes",
-      "estado": "Pendiente",
+      "estado": "Parcial",
       "salida": null,
-      "llegada": null,
+      "llegada": "2026-10-29T21:40:43.984959",
       "tiempo_total_seg": null,
-      "tiempo_acumulado_seg": null,
+      "tiempo_acumulado_seg": 20.984959,
       "etapas_totales": 4,
-      "etapas_completadas": 0,
+      "etapas_completadas": 1,
       "etapas_resultado": [
         {
           "etapa_id": 4,
           "etapa_orden": 1,
           "etapa_nombre": "ENDURO YE",
-          "tiempo_seg": null,
-          "estado": "PENDIENTE",
-          "completada": false,
+          "tiempo_seg": 20.984959,
+          "estado": "FINALIZADO",
+          "completada": true,
           "salida": null,
-          "llegada": null
+          "llegada": "2026-10-29T21:40:43.984959"
         },
         {
           "etapa_id": 5,
@@ -145,7 +145,7 @@
       "ultima_vuelta_seg": null,
       "ultima_vuelta_timestamp": null,
       "uuid_salida": null,
-      "uuid_llegada": null,
+      "uuid_llegada": "105a0d8c-b008-4f11-861f-efc69349a236",
       "vueltas": [],
       "puesto_general": null,
       "puesto_categoria": null,
@@ -158,5 +158,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-10-30T02:40:43.586997+00:00"
+  "auto_persistido_en": "2026-10-30T02:40:58.169690+00:00"
 }
