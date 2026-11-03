@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-10-30T17:56:34.491456+00:00",
+  "actualizado_en": "2026-11-03T16:13:42.309595+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -66,13 +66,13 @@
       "event_code": "7BUOA",
       "nombre": "ENDURO",
       "slug": "enduro",
-      "etapa_id": 2,
-      "etapa": 2,
+      "etapa_id": 12,
+      "etapa": 12,
       "modalidad": "ENDURO",
       "estado": "LIVE",
-      "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
+      "server_url": "https://crono-0001.say-berg.com",
       "creado_en": "2026-10-29T15:04:53.686799+00:00",
-      "actualizado_en": "2026-10-29T15:04:53.686823+00:00"
+      "actualizado_en": "2026-11-03T16:13:41.920630+00:00"
     },
     "enduro-miguel": {
       "event_code": "FFYGQ",
