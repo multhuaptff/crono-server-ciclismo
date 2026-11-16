@@ -7,13 +7,67 @@
   "resultado_scope": "evento_individual",
   "etapas_totales": 1,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-11-16T23:29:37.411926+00:00",
-  "server_time": "2026-11-16T23:29:36.976000+00:00",
+  "actualizado_en": "2026-11-16T23:31:10.318168+00:00",
+  "server_time": "2026-11-16T23:31:09.886459+00:00",
   "vueltas_por_categoria": {},
-  "resultados": [],
+  "resultados": [
+    {
+      "participante_id": 5,
+      "rfid": "",
+      "dorsal": "1",
+      "nombre": "BERG",
+      "categoria": "elite",
+      "club": "andes",
+      "estado": "Finalizado",
+      "salida": "2026-11-16T18:30:22.535078",
+      "llegada": "2026-11-16T18:31:08.537393",
+      "tiempo_total_seg": 46.002315,
+      "tiempo_acumulado_seg": null,
+      "etapas_totales": 1,
+      "etapas_completadas": 1,
+      "etapas_resultado": [],
+      "evento_acumulado": false,
+      "vueltas_totales": 3,
+      "vueltas_completadas": 3,
+      "vueltas_restantes": 0,
+      "ultima_vuelta_seg": 3.50457,
+      "ultima_vuelta_timestamp": "2026-11-16T18:31:08.537393",
+      "uuid_salida": null,
+      "uuid_llegada": "3a98bc62-f3d8-4765-8da3-b135cc423920",
+      "vueltas": [
+        {
+          "vuelta": 1,
+          "tiempo_seg": 14.614098,
+          "timestamp": "2026-11-16T18:30:37.149176",
+          "evento_crono_uuid": "af1e0dff-d52c-495f-82f9-42f502282bbd"
+        },
+        {
+          "vuelta": 2,
+          "tiempo_seg": 27.883647,
+          "timestamp": "2026-11-16T18:31:05.032823",
+          "evento_crono_uuid": "12d54ba2-d36d-4fa9-9bd2-9f48629089b0"
+        },
+        {
+          "vuelta": 3,
+          "tiempo_seg": 3.50457,
+          "timestamp": "2026-11-16T18:31:08.537393",
+          "evento_crono_uuid": "3a98bc62-f3d8-4765-8da3-b135cc423920"
+        }
+      ],
+      "puesto_general": 1,
+      "puesto_categoria": 1,
+      "diferencia_general_seg": 0.0,
+      "diferencia_categoria_seg": 0.0,
+      "tiempos_vueltas": [
+        14.614098,
+        27.883647,
+        3.50457
+      ]
+    }
+  ],
   "destino_publicacion": "resultados_evento",
   "multi_stage": false,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-11-16T23:29:37.411914+00:00"
+  "auto_persistido_en": "2026-11-16T23:31:10.318154+00:00"
 }
