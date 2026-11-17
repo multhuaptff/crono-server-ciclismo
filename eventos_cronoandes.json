@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "actualizado_en": "2026-11-17T16:30:05.795793+00:00",
+  "actualizado_en": "2026-11-17T16:30:08.566148+00:00",
   "eventos": {
     "estampida-2029": {
       "event_code": "PE7UK",
@@ -164,11 +164,11 @@
       "slug": "2029",
       "etapa_id": 11,
       "etapa": 11,
-      "modalidad": "xco",
-      "estado": "en_vivo",
+      "modalidad": "XCO",
+      "estado": "LIVE",
       "server_url": "https://condiment-hefty-celery.ngrok-free.dev",
       "creado_en": "2026-11-16T23:29:35.118029+00:00",
-      "actualizado_en": "2026-11-17T16:30:04.975442+00:00"
+      "actualizado_en": "2026-11-17T16:30:08.124456+00:00"
     }
   }
 }
