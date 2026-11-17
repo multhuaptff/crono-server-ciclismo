@@ -7,8 +7,8 @@
   "resultado_scope": "evento_acumulado",
   "etapas_totales": 2,
   "estado_evento": "en_vivo",
-  "actualizado_en": "2026-11-17T16:30:08.319565+00:00",
-  "server_time": "2026-11-17T16:30:08.906527+00:00",
+  "actualizado_en": "2026-11-17T16:32:14.513193+00:00",
+  "server_time": "2026-11-17T16:32:15.102757+00:00",
   "vueltas_por_categoria": {},
   "resultados": [
     {
@@ -19,7 +19,7 @@
       "categoria": "elite",
       "club": "andes",
       "estado": "Parcial",
-      "salida": null,
+      "salida": "2026-11-17T11:32:13.654572",
       "llegada": "2026-11-16T18:31:08.537393",
       "tiempo_total_seg": null,
       "tiempo_acumulado_seg": 46.002315,
@@ -33,7 +33,7 @@
           "tiempo_seg": 46.002315,
           "estado": "FINALIZADO",
           "completada": true,
-          "salida": null,
+          "salida": "2026-11-17T11:32:13.654572",
           "llegada": "2026-11-16T18:31:08.537393"
         },
         {
@@ -93,5 +93,5 @@
   "multi_stage": true,
   "publicacion_activa": false,
   "tipo_publicacion": "automatico",
-  "auto_persistido_en": "2026-11-17T16:30:08.319554+00:00"
+  "auto_persistido_en": "2026-11-17T16:32:14.513181+00:00"
 }
